@@ -1,0 +1,52 @@
+"Settings.Tabs.Header" = "ВКЛАДКИ";
+"Settings.Tabs.ShowContacts" = "Вкладка «Контакты»";
+"Settings.Tabs.ShowNames" = "Имена вкладок";
+
+"Settings.Folders.RememberLast" = "Открывать последнюю папку";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram откроет последнюю папку после перезапуска или смены аккаунта";
+
+"Settings.Stories.Hide" = "Скрыть истории";
+"Settings.Stories.WarnBeforeView" = "Спросить перед просмотром";
+
+"Stories.Warning.Author" = "Автор";
+"Stories.Warning.ViewStory" = "Просмотреть историю?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ СМОЖЕТ УВИДЕТЬ, что вы просмотрели историю.";
+"Stories.Warning.NoticeStealth" = "%@ не сможет увидеть, что вы просмотрели историю.";
+
+"Settings.Photo.Quality.Notice" = "Качество исходящих фото и фото-историй";
+"Settings.Photo.SendLarge" = "Отправлять большие фото";
+"Settings.Photo.SendLarge.Notice" = "Увеличить лимит сторон для сжатых фото до 2560пкс";
+
+"Settings.VideoNotes.Header" = "ВИДЕОСООБЩЕНИЯ";
+"Settings.VideoNotes.StartWithRearCam" = "На заднюю камеру";
+
+"Settings.CustomColors.Header" = "ПЕРСОНАЛЬНЫЕ ЦВЕТА";
+"Settings.CustomColors.Saturation" = "НАСЫЩЕННОСТЬ";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Установите насыщенность на 0%%, чтобы отключить персональные цвета.";
+
+"Settings.DownloadsBoost" = "Ускорение скачивания";
+"Settings.DownloadsBoost.none" = "Выключено";
+"Settings.DownloadsBoost.medium" = "Средне";
+"Settings.DownloadsBoost.maximum" = "Максимум";
+
+"Settings.ShowProfileID" = "ID профилей";
+"Settings.SendWithReturnKey" = "Отправка кнопкой \"Ввод\"";
+"Settings.HidePhoneInSettingsUI" = "Скрыть номер";
+"Settings.HidePhoneInSettingsUI.Notice" = "Ваш номер будет скрыт только в интерфейсе настроек. Используйте настройки Конфиденциальности, чтобы скрыть его от других.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Через 5 секунд";
+
+"ProxySettings.UseSystemDNS" = "Системный DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Используйте системный DNS, чтобы избежать задержки, если у вас нет доступа к DNS Google.";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Вам **не нужен** %@!";
+"Common.RestartRequired" = "Необходим перезапуск";
+"Common.RestartNow" = "Перезапустить Сейчас";
+"Common.OpenTelegram" = "Открыть Telegram";
+
+"Message.HoldToShowOrReport" = "Удерживайте для Показа или Жалобы.";
+
+"Auth.AccountBackupReminder" = "Убедитесь, что у вас есть запасной вариант входа: Активная SIM-карта или дополнительная сессия, чтобы не потерять доступ к аккаунту.";
