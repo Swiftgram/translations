@@ -1,0 +1,3 @@
+files:
+  - source: "en.lproj/SGLocalizable.strings"
+    translation: "%two_letters_code%.lproj/SGLocalizable.strings"
