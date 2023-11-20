@@ -1,0 +1,52 @@
+"Settings.Tabs.Header" = "TABS";
+"Settings.Tabs.ShowContacts" = "Show Contacts tab";
+"Settings.Tabs.ShowNames" = "Show tab names";
+
+"Settings.Folders.RememberLast" = "Open last folder";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last folder after restart or account switch";
+
+"Settings.Stories.Hide" = "Hide Stories";
+"Settings.Stories.WarnBeforeView" = "Ask before viewing";
+
+"Stories.Warning.Author" = "Author";
+"Stories.Warning.ViewStory" = "View Story?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ WILL BE ABLE TO SEE that you viewed their Story.";
+"Stories.Warning.NoticeStealth" = "%@ will not be able to see that you viewed their Story.";
+
+"Settings.Photo.Quality.Notice" = "Quality of outgoing photos and photo-stories";
+"Settings.Photo.SendLarge" = "Send large photos";
+"Settings.Photo.SendLarge.Notice" = "Increase the side limit on compressed images to 2560px";
+
+"Settings.VideoNotes.Header" = "VIDEO NOTES";
+"Settings.VideoNotes.StartWithRearCam" = "Start with rear camera";
+
+"Settings.CustomColors.Header" = "ACCOUNT COLORS";
+"Settings.CustomColors.Saturation" = "SATURATION";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Set saturation to 0%% to disable account colors";
+
+"Settings.DownloadsBoost" = "Downloads boost";
+"Settings.DownloadsBoost.none" = "Disabled";
+"Settings.DownloadsBoost.medium" = "Medium";
+"Settings.DownloadsBoost.maximum" = "Maximum";
+
+"Settings.ShowProfileID" = "Show profile ID";
+"Settings.SendWithReturnKey" = "Send with \"return\" key";
+"Settings.HidePhoneInSettingsUI" = "Hide phone in settings";
+"Settings.HidePhoneInSettingsUI.Notice" = "Your number will be hidden in Settings UI only. Go to Privacy settings to hide it from others.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "If away for 5 seconds";
+
+"ProxySettings.UseSystemDNS" = "Use system DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Use system DNS to bypass timeout if you don't have access to Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "You **don't need** %@!";
+"Common.RestartRequired" = "Restart required";
+"Common.RestartNow" = "Restart Now";
+"Common.OpenTelegram" = "Open Telegram";
+
+"Message.HoldToShowOrReport" = "Hold to Show or Report.";
+
+"Auth.AccountBackupReminder" = "Make sure you have a backup access method. Keep a SIM for SMS or an additional session logged in to avoid being locked out.";
