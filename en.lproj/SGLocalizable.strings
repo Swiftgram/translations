@@ -50,3 +50,4 @@
 "Message.HoldToShowOrReport" = "Hold to Show or Report.";
 
 "Auth.AccountBackupReminder" = "Make sure you have a backup access method. Keep a SIM for SMS or an additional session logged in to avoid being locked out.";
+"Auth.UnofficialAppCodeTitle" = "You can get the code only with official app";
