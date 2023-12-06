@@ -1,0 +1,9 @@
+"Settings.Tabs.Header" = "TAB";
+"Settings.Tabs.ShowContacts" = "Mostra tab contatti";
+"Settings.VideoNotes.Header" = "Videomessaggi";
+"Settings.VideoNotes.StartWithRearCam" = "Inizia con la camera posteriore";
+"Settings.Tabs.ShowNames" = "Mostra nomi tab";
+"Settings.HidePhoneInSettingsUI" = "Nascondi il numero di telefono nelle impostazioni";
+"Settings.HidePhoneInSettingsUI.Notice" = "Il tuo numero verrà nascosto solo nell'interfaccia. Per nasconderlo dagli altri, apri le impostazioni della Privacy.";
+"Settings.ShowProfileID" = "Mostra l'ID del profilo";
+"Settings.Stories.Hide" = "Nascondi Storie";

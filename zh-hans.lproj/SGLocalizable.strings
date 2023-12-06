@@ -1,0 +1,9 @@
+"Settings.Tabs.Header" = "标签";
+"Settings.Tabs.ShowContacts" = "显示<联系人>标签";
+"Settings.VideoNotes.Header" = "圆形视频";
+"Settings.VideoNotes.StartWithRearCam" = "使用后置相机";
+"Settings.Tabs.ShowNames" = "显示标签名";
+"Settings.HidePhoneInSettingsUI" = "设置中隐藏手机号码";
+"Settings.HidePhoneInSettingsUI.Notice" = "您的电話号码只会在设置介面中隐藏，要对其他使用者隐藏，请使用隐私设置。";
+"Settings.ShowProfileID" = "显示 ID";
+"Settings.Stories.Hide" = "隐藏故事";

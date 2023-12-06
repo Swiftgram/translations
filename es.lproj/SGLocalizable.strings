@@ -1,0 +1,9 @@
+"Settings.Tabs.Header" = "PESTAÑAS";
+"Settings.Tabs.ShowContacts" = "Mostrar pestaña de Contactos";
+"Settings.VideoNotes.Header" = "VIDEOS REDONDOS";
+"Settings.VideoNotes.StartWithRearCam" = "Comenzar con la cámara trasera";
+"Settings.Tabs.ShowNames" = "Mostrar nombres de pestañas";
+"Settings.HidePhoneInSettingsUI" = "Ocultar número en Ajustes";
+"Settings.HidePhoneInSettingsUI.Notice" = "Su número estará oculto solo en la interfaz de usuario. Para ocultarlo a los demás, por favor utilice la configuración de privacidad.";
+"Settings.ShowProfileID" = "Mostrar ID del perfil";
+"Settings.Stories.Hide" = "Ocultar Historias";

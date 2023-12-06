@@ -1,0 +1,9 @@
+"Settings.Tabs.Header" = "ONGLETS";
+"Settings.Tabs.ShowContacts" = "Afficher l'onglet « Contacts »";
+"Settings.VideoNotes.Header" = "VIDÉOS RONDES";
+"Settings.VideoNotes.StartWithRearCam" = "Commencer avec la caméra arrière";
+"Settings.Tabs.ShowNames" = "Afficher les noms des onglets";
+"Settings.HidePhoneInSettingsUI" = "Masquer le téléphone dans les paramètres";
+"Settings.HidePhoneInSettingsUI.Notice" = "Votre numéro sera masqué dans l'interface utilisateur uniquement. Pour le masquer aux autres, veuillez utiliser les paramètres de confidentialité.";
+"Settings.ShowProfileID" = "Afficher l'identifiant du profil";
+"Settings.Stories.Hide" = "Cacher les histoires";
