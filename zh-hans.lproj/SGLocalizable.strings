@@ -1,9 +1,56 @@
-"Settings.Tabs.Header" = "标签";
-"Settings.Tabs.ShowContacts" = "显示<联系人>标签";
-"Settings.VideoNotes.Header" = "圆形视频";
-"Settings.VideoNotes.StartWithRearCam" = "使用后置相机";
-"Settings.Tabs.ShowNames" = "显示标签名";
-"Settings.HidePhoneInSettingsUI" = "设置中隐藏手机号码";
-"Settings.HidePhoneInSettingsUI.Notice" = "您的电話号码只会在设置介面中隐藏，要对其他使用者隐藏，请使用隐私设置。";
-"Settings.ShowProfileID" = "显示 ID";
+"Settings.ContentSettings" = "内容设置";
+
+"Settings.Tabs.Header" = "选项卡";
+"Settings.Tabs.ShowContacts" = "显示联系人标签";
+"Settings.Tabs.ShowNames" = "显示选项卡名称";
+
+"Settings.Folders.RememberLast" = "打开上次文件夹";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或账户开关后打开上次的文件夹";
+
 "Settings.Stories.Hide" = "隐藏故事";
+"Settings.Stories.WarnBeforeView" = "查看前询问";
+"Settings.Stories.DisableSwipeToRecord" = "禁用滑动以录制";
+
+"Stories.Warning.Author" = "作者";
+"Stories.Warning.ViewStory" = "查看故事？";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ 将能够看到你查看了他们的故事";
+"Stories.Warning.NoticeStealth" = "%@ 将无法看到您查看他们的故事。";
+
+"Settings.Photo.Quality.Notice" = "传出图片的质量";
+"Settings.Photo.SendLarge" = "发送大照片";
+"Settings.Photo.SendLarge.Notice" = "将压缩图像的侧边限制增加到 2560px";
+
+"Settings.VideoNotes.Header" = "圆形视频";
+"Settings.VideoNotes.StartWithRearCam" = "默认使用后置摄像头";
+
+"Settings.CustomColors.Header" = "帐户颜色";
+"Settings.CustomColors.Saturation" = "饱和度";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "设置饱和度为 0%% 以禁用帐户颜色";
+
+"Settings.DownloadsBoost" = "下载加速";
+"Settings.DownloadsBoost.none" = "停用";
+"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.maximum" = "最大";
+
+"Settings.ShowProfileID" = "显示个人简介 ID";
+"Settings.SendWithReturnKey" = "使用返回键发送";
+"Settings.HidePhoneInSettingsUI" = "在设置中隐藏电话";
+"Settings.HidePhoneInSettingsUI.Notice" = "您的号码将仅隐藏在设置界面中。请转到隐私设置以隐藏其他设置。";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "如果离开5秒";
+
+"ProxySettings.UseSystemDNS" = "使用系统DNS";
+"ProxySettings.UseSystemDNS.Notice" = "如果您无权访问 Google DNS，请使用系统 DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "你**不需要** %@！";
+"Common.RestartRequired" = "需要重启";
+"Common.RestartNow" = "立即重启";
+"Common.OpenTelegram" = "开启Telegram";
+
+"Message.HoldToShowOrReport" = "按住来显示或报告。";
+
+"Auth.AccountBackupReminder" = "请确保您有一个备份访问方法。保留一个SMS或一个额外会话登录以避免被锁定。";
+"Auth.UnofficialAppCodeTitle" = "您只能通过官方应用程序获得代码";
