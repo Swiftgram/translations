@@ -9,6 +9,7 @@
 
 "Settings.Stories.Hide" = "Hide Stories";
 "Settings.Stories.WarnBeforeView" = "Ask before viewing";
+"Settings.Stories.DisableSwipeToRecord" = "Disable swipe to record";
 
 "Stories.Warning.Author" = "Author";
 "Stories.Warning.ViewStory" = "View Story?";
