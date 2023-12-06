@@ -11,7 +11,7 @@
 "Stories.Warning.Author" = "Автор";
 "Stories.Warning.ViewStory" = "Переглянути історію?";
 /* Author will be able to see that you viewed their Story */
-"Stories.Warning.Notice" = "%@ WILL BE ОДО ДО БУДЬ-ЯКИЙ СЕ, що ви дивилися їх Історію.";
+"Stories.Warning.Notice" = "%@ ЗМОЖЕ ПОБАЧИТИ, що ви переглянули їх Історію.";
 "Stories.Warning.NoticeStealth" = "%@ не зможе бачити, що Ви переглянули їх Історію.";
 
 "Settings.Photo.Quality.Notice" = "Якість вихідних фото та фото-історій";
