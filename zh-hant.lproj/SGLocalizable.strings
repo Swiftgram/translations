@@ -1,5 +1,7 @@
+"Settings.ContentSettings" = "內容設定";
+
 "Settings.Tabs.Header" = "頁籤";
-"Settings.Tabs.ShowContacts" = "顯示聯絡人頁籤";
+"Settings.Tabs.ShowContacts" = "顯示聯絡人標籤";
 "Settings.Tabs.ShowNames" = "顯示頁籤名稱";
 
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
@@ -7,6 +9,7 @@
 
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "查看前確認";
+"Settings.Stories.DisableSwipeToRecord" = "關閉右滑進入相機";
 
 "Stories.Warning.Author" = "來自";
 "Stories.Warning.ViewStory" = "查看限時動態？";
@@ -18,8 +21,8 @@
 "Settings.Photo.SendLarge" = "傳送大圖";
 "Settings.Photo.SendLarge.Notice" = "將壓縮影像的限制增加到 2560px";
 
-"Settings.VideoNotes.Header" = "影片註解";
-"Settings.VideoNotes.StartWithRearCam" = "開啟後置鏡頭";
+"Settings.VideoNotes.Header" = "圓形影片";
+"Settings.VideoNotes.StartWithRearCam" = "預設使用後置鏡頭";
 
 "Settings.CustomColors.Header" = "帳號顏色";
 "Settings.CustomColors.Saturation" = "飽和度";
