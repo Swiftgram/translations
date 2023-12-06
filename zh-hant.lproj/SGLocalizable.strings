@@ -1,0 +1,56 @@
+"Settings.ContentSettings" = "內容設定";
+
+"Settings.Tabs.Header" = "頁籤";
+"Settings.Tabs.ShowContacts" = "顯示聯絡人標籤";
+"Settings.Tabs.ShowNames" = "顯示頁籤名稱";
+
+"Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重新啟動或帳戶切換後開啟最後一個瀏覽的對話盒";
+
+"Settings.Stories.Hide" = "隱藏限時動態";
+"Settings.Stories.WarnBeforeView" = "查看前確認";
+"Settings.Stories.DisableSwipeToRecord" = "關閉右滑進入相機";
+
+"Stories.Warning.Author" = "來自";
+"Stories.Warning.ViewStory" = "查看限時動態？";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ 將會看到您瀏覽了限時動態";
+"Stories.Warning.NoticeStealth" = "%@ 將無法看到您瀏覽了限時動態";
+
+"Settings.Photo.Quality.Notice" = "傳送影像畫質";
+"Settings.Photo.SendLarge" = "傳送大圖";
+"Settings.Photo.SendLarge.Notice" = "將壓縮影像的限制增加到 2560px";
+
+"Settings.VideoNotes.Header" = "圓形影片";
+"Settings.VideoNotes.StartWithRearCam" = "預設使用後置鏡頭";
+
+"Settings.CustomColors.Header" = "帳號顏色";
+"Settings.CustomColors.Saturation" = "飽和度";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "將飽和度設為 0%% 以停用帳戶顏色";
+
+"Settings.DownloadsBoost" = "下載加速";
+"Settings.DownloadsBoost.none" = "已停用";
+"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.maximum" = "最大";
+
+"Settings.ShowProfileID" = "顯示用戶 ID";
+"Settings.SendWithReturnKey" = "使用「換行」鍵重送";
+"Settings.HidePhoneInSettingsUI" = "在設定中隱藏電話號碼";
+"Settings.HidePhoneInSettingsUI.Notice" = "您的電話再「設定頁」中不再顯示，可到「隱私與安全性」設定來對所有人隱藏。";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "如果離開超過5秒";
+
+"ProxySettings.UseSystemDNS" = "使用系統 DNS";
+"ProxySettings.UseSystemDNS.Notice" = "如果您無法存取 Google DNS，請使用系統 DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "您 **不需要** %@！";
+"Common.RestartRequired" = "需要重新啟動";
+"Common.RestartNow" = "立即重啟";
+"Common.OpenTelegram" = "開啟 Telegram";
+
+"Message.HoldToShowOrReport" = "長按來顯示或回報";
+
+"Auth.AccountBackupReminder" = "請確保您有備用訪問方法。保留用於接收簡訊的 SIM 卡或其他登入狀態以避免被鎖定。";
+"Auth.UnofficialAppCodeTitle" = "您只能透過官方 App 取得驗證碼";
