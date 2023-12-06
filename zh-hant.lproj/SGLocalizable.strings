@@ -1,15 +1,15 @@
 "Settings.ContentSettings" = "內容設定";
 
 "Settings.Tabs.Header" = "頁籤";
-"Settings.Tabs.ShowContacts" = "顯示聯絡人標籤";
+"Settings.Tabs.ShowContacts" = "顯示聯絡人頁籤";
 "Settings.Tabs.ShowNames" = "顯示頁籤名稱";
 
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重新啟動或帳戶切換後開啟最後一個瀏覽的對話盒";
 
 "Settings.Stories.Hide" = "隱藏限時動態";
-"Settings.Stories.WarnBeforeView" = "查看前確認";
-"Settings.Stories.DisableSwipeToRecord" = "關閉右滑進入相機";
+"Settings.Stories.WarnBeforeView" = "瀏覽前確認";
+"Settings.Stories.DisableSwipeToRecord" = "停用右滑進入相機";
 
 "Stories.Warning.Author" = "來自";
 "Stories.Warning.ViewStory" = "查看限時動態？";
