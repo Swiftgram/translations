@@ -18,7 +18,7 @@
 "Settings.Photo.SendLarge" = "Send large photos";
 "Settings.Photo.SendLarge.Notice" = "Increase the side limit on compressed images to 2560px";
 
-"Settings.VideoNotes.Header" = "VIDEO NOTES";
+"Settings.VideoNotes.Header" = "ROUND VIDEOS";
 "Settings.VideoNotes.StartWithRearCam" = "Start with rear camera";
 
 "Settings.CustomColors.Header" = "ACCOUNT COLORS";
