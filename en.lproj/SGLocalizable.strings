@@ -11,6 +11,8 @@
 "Settings.Stories.WarnBeforeView" = "Ask before viewing";
 "Settings.Stories.DisableSwipeToRecord" = "Disable swipe to record";
 
+"Settings.Translation.QuickTranslateButton" = "Quick Translate button";
+
 "Stories.Warning.Author" = "Author";
 "Stories.Warning.ViewStory" = "View Story?";
 /* Author will be able to see that you viewed their Story */

@@ -17,6 +17,8 @@
 "Stories.Warning.Notice" = "%@ 將會看到您瀏覽了限時動態";
 "Stories.Warning.NoticeStealth" = "%@ 將無法看到您瀏覽了限時動態";
 
+"Settings.Translation.QuickTranslateButton" = "快速翻譯按鈕";
+
 "Settings.Photo.Quality.Notice" = "傳送影像畫質";
 "Settings.Photo.SendLarge" = "傳送大圖";
 "Settings.Photo.SendLarge.Notice" = "將壓縮影像的限制增加到 2560px";

@@ -7,3 +7,4 @@
 "Settings.HidePhoneInSettingsUI.Notice" = "سيتم اخفاء رقمك من التطبيق فقط. لأخفاءهُ من المستخدمين الآخرين، يرجى استخدام إعدادات الخصوصية.";
 "Settings.ShowProfileID" = "إظهار معرف الملف الشخصي ID";
 "Settings.Stories.Hide" = "إخفاء الستوري";
+"Settings.Translation.QuickTranslateButton" = "زر الترجمة الفوري";

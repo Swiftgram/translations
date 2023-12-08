@@ -11,6 +11,8 @@
 "Settings.Stories.WarnBeforeView" = "查看前询问";
 "Settings.Stories.DisableSwipeToRecord" = "禁用滑动以录制";
 
+"Settings.Translation.QuickTranslateButton" = "快速翻译按钮";
+
 "Stories.Warning.Author" = "作者";
 "Stories.Warning.ViewStory" = "查看故事？";
 /* Author will be able to see that you viewed their Story */

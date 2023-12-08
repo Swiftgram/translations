@@ -7,3 +7,4 @@
 "Settings.HidePhoneInSettingsUI.Notice" = "전화 번호는 UI에서만 숨겨집니다. 다른 사람에게 숨기려면 개인 정보 설정을 사용하세요.";
 "Settings.ShowProfileID" = "프로필 ID 표시";
 "Settings.Stories.Hide" = "스토리 숨기기";
+"Settings.Translation.QuickTranslateButton" = "빠른 번역 버튼";

@@ -7,3 +7,4 @@
 "Settings.HidePhoneInSettingsUI.Notice" = "Twój numer zostanie ukryty tylko w interfejsie użytkownika. Aby ukryć go przed innymi, użyj ustawień prywatności.";
 "Settings.ShowProfileID" = "Pokaż ID";
 "Settings.Stories.Hide" = "Ukryj Historie";
+"Settings.Translation.QuickTranslateButton" = "Przycisk Szybkie tłumaczenie";

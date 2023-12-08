@@ -7,3 +7,4 @@
 "Settings.HidePhoneInSettingsUI.Notice" = "Deine Nummer wird nur in der Benutzeroberfläche versteckt. Um sie vor anderen zu verbergen, verwende bitte die Privatsphäre-Einstellungen.";
 "Settings.ShowProfileID" = "Profil-ID anzeigen";
 "Settings.Stories.Hide" = "Stories verbergen";
+"Settings.Translation.QuickTranslateButton" = "Schnellübersetzen-Schaltfläche";
