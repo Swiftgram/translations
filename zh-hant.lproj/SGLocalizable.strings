@@ -11,6 +11,8 @@
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
 "Settings.Stories.DisableSwipeToRecord" = "停用右滑進入相機";
 
+"Settings.Translation.QuickTranslateButton" = "快速翻譯按鈕";
+
 "Stories.Warning.Author" = "來自";
 "Stories.Warning.ViewStory" = "查看限時動態？";
 /* Author will be able to see that you viewed their Story */
