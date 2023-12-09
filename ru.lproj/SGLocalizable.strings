@@ -1,13 +1,18 @@
+"Settings.ContentSettings" = "Настройки контента";
+
 "Settings.Tabs.Header" = "ВКЛАДКИ";
-"Settings.Tabs.ShowContacts" = "Вкладка «Контакты»";
+"Settings.Tabs.ShowContacts" = "Показывать вкладку Контакты";
 "Settings.Tabs.ShowNames" = "Имена вкладок";
 
-"Settings.Folders.BottomTab" = "Папки внизу";
+"Settings.Folders.BottomTab" = "Папки снизу";
 "Settings.Folders.RememberLast" = "Открывать последнюю папку";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram откроет последнюю папку после перезапуска или смены аккаунта";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram откроет последнюю использованную папку после перезапуска или переключения учетной записи";
 
 "Settings.Stories.Hide" = "Скрыть истории";
 "Settings.Stories.WarnBeforeView" = "Спросить перед просмотром";
+"Settings.Stories.DisableSwipeToRecord" = "Отключить свайп для записи";
+
+"Settings.Translation.QuickTranslateButton" = "Кнопка быстрого перевода";
 
 "Stories.Warning.Author" = "Автор";
 "Stories.Warning.ViewStory" = "Просмотреть историю?";
@@ -25,7 +30,7 @@
 "Settings.CustomColors.Header" = "ПЕРСОНАЛЬНЫЕ ЦВЕТА";
 "Settings.CustomColors.Saturation" = "НАСЫЩЕННОСТЬ";
 /* Make sure to escape Percentage sign % */
-"Settings.CustomColors.Saturation.Notice" = "Установите насыщенность на 0%%, чтобы отключить персональные цвета.";
+"Settings.CustomColors.Saturation.Notice" = "Установите насыщенность на 0%%, чтобы отключить персональные цвета";
 
 "Settings.DownloadsBoost" = "Ускорение скачивания";
 "Settings.DownloadsBoost.none" = "Выключено";
@@ -40,7 +45,7 @@
 "PasscodeSettings.AutoLock.InFiveSeconds" = "Через 5 секунд";
 
 "ProxySettings.UseSystemDNS" = "Системный DNS";
-"ProxySettings.UseSystemDNS.Notice" = "Используйте системный DNS, чтобы избежать задержки, если у вас нет доступа к DNS Google.";
+"ProxySettings.UseSystemDNS.Notice" = "Используйте системный DNS, чтобы избежать задержки, если у вас нет доступа к DNS Google";
 
 /* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "Вам **не нужен** %@!";
@@ -51,3 +56,4 @@
 "Message.HoldToShowOrReport" = "Удерживайте для Показа или Жалобы.";
 
 "Auth.AccountBackupReminder" = "Убедитесь, что у вас есть запасной вариант входа: Активная SIM-карта или дополнительная сессия, чтобы не потерять доступ к аккаунту.";
+"Auth.UnofficialAppCodeTitle" = "Вы можете получить код только в официальном приложении";
