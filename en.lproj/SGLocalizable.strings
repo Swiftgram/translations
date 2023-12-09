@@ -6,7 +6,7 @@
 
 "Settings.Folders.BottomTab" = "Folders at bottom";
 "Settings.Folders.RememberLast" = "Open last folder";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last folder after restart or account switch";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder after restart or account switch";
 
 "Settings.Stories.Hide" = "Hide Stories";
 "Settings.Stories.WarnBeforeView" = "Ask before viewing";
