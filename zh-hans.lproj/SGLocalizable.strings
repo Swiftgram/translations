@@ -4,6 +4,7 @@
 "Settings.Tabs.ShowContacts" = "显示联系人标签";
 "Settings.Tabs.ShowNames" = "显示选项卡名称";
 
+"Settings.Folders.BottomTab" = "分组显示在底部";
 "Settings.Folders.RememberLast" = "打开上次文件夹";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或账户开关后打开上次的文件夹";
 

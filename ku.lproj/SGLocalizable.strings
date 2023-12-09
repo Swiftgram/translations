@@ -6,3 +6,4 @@
 "Settings.HidePhoneInSettingsUI" = "شاردنەوەی تەلەفۆن لە ڕێکخستنەکان";
 "Settings.HidePhoneInSettingsUI.Notice" = "ژمارەکەت تەنها لە ڕووکارەکە دەرناکەوێت. بۆ ئەوەی لە ئەوانەی دیکەی بشاریتەوە، تکایە ڕێکخستنەکانی پارێزراوی بەکاربێنە.";
 "Settings.Translation.QuickTranslateButton" = "دوگمەی وەرگێڕانی خێرا";
+"Settings.Folders.BottomTab" = "بوخچەکان لە خوارەوە";

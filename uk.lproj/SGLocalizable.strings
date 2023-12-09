@@ -2,6 +2,7 @@
 "Settings.Tabs.ShowContacts" = "Показати вкладку Контакти";
 "Settings.Tabs.ShowNames" = "Назви вкладок";
 
+"Settings.Folders.BottomTab" = "Теки внизу";
 "Settings.Folders.RememberLast" = "Відкрити останню папку";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram відкриває останню папку після перезапуску або зміни акаунту";
 

@@ -4,6 +4,7 @@
 "Settings.Tabs.ShowContacts" = "Show Contacts Tab";
 "Settings.Tabs.ShowNames" = "Show tab names";
 
+"Settings.Folders.BottomTab" = "Folders at bottom";
 "Settings.Folders.RememberLast" = "Open last folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last folder after restart or account switch";
 
