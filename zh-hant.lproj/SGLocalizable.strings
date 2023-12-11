@@ -4,9 +4,9 @@
 "Settings.Tabs.ShowContacts" = "顯示聯絡人頁籤";
 "Settings.Tabs.ShowNames" = "顯示頁籤名稱";
 
-"Settings.Folders.BottomTab" = "底部資料夾";
+"Settings.Folders.BottomTab" = "底部頁籤";
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重新啟動或帳戶切換後開啟最後一個瀏覽的對話盒";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重新啟動或帳號切換後開啟最後瀏覽的對話盒";
 
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
@@ -19,8 +19,6 @@
 /* Author will be able to see that you viewed their Story */
 "Stories.Warning.Notice" = "%@ 將會看到您瀏覽了限時動態";
 "Stories.Warning.NoticeStealth" = "%@ 將無法看到您瀏覽了限時動態";
-
-"Settings.Translation.QuickTranslateButton" = "快速翻譯按鈕";
 
 "Settings.Photo.Quality.Notice" = "傳送影像畫質";
 "Settings.Photo.SendLarge" = "傳送大圖";
