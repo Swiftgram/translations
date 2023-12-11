@@ -32,6 +32,7 @@
 /* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Установите насыщенность на 0%%, чтобы отключить персональные цвета";
 
+"Settings.UploadsBoost" = "Ускорение загрузки";
 "Settings.DownloadsBoost" = "Ускорение скачивания";
 "Settings.DownloadsBoost.none" = "Выключено";
 "Settings.DownloadsBoost.medium" = "Средне";
