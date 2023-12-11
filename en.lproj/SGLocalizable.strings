@@ -32,6 +32,7 @@
 /* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Set saturation to 0%% to disable account colors";
 
+"Settings.UploadsBoost" = "Uploads boost";
 "Settings.DownloadsBoost" = "Downloads boost";
 "Settings.DownloadsBoost.none" = "Disabled";
 "Settings.DownloadsBoost.medium" = "Medium";
