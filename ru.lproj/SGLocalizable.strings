@@ -24,7 +24,7 @@
 "Settings.Photo.SendLarge" = "Отправлять большие фото";
 "Settings.Photo.SendLarge.Notice" = "Увеличить лимит сторон для сжатых фото до 2560пкс";
 
-"Settings.VideoNotes.Header" = "ВИДЕОСООБЩЕНИЯ";
+"Settings.VideoNotes.Header" = "КРУГЛЫЕ ВИДЕО";
 "Settings.VideoNotes.StartWithRearCam" = "На заднюю камеру";
 
 "Settings.CustomColors.Header" = "ПЕРСОНАЛЬНЫЕ ЦВЕТА";
