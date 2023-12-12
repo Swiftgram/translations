@@ -4,13 +4,13 @@
 "Settings.Tabs.ShowContacts" = "显示联系人标签";
 "Settings.Tabs.ShowNames" = "显示选项卡名称";
 
-"Settings.Folders.BottomTab" = "底部文件夹";
-"Settings.Folders.RememberLast" = "打开上次文件夹";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或账户开关后打开上次的文件夹";
+"Settings.Folders.BottomTab" = "底部分组";
+"Settings.Folders.RememberLast" = "打开上次分组";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或账户开关后打开上次的分组";
 
 "Settings.Stories.Hide" = "隐藏故事";
 "Settings.Stories.WarnBeforeView" = "查看前询问";
-"Settings.Stories.DisableSwipeToRecord" = "禁用滑动以录制";
+"Settings.Stories.DisableSwipeToRecord" = "禁用滑动录制功能";
 
 "Settings.Translation.QuickTranslateButton" = "快速翻译按钮";
 
@@ -20,29 +20,30 @@
 "Stories.Warning.Notice" = "%@ 将能够看到你查看了他们的故事";
 "Stories.Warning.NoticeStealth" = "%@ 将无法看到您查看他们的故事。";
 
-"Settings.Photo.Quality.Notice" = "传出图片的质量";
-"Settings.Photo.SendLarge" = "发送大照片";
-"Settings.Photo.SendLarge.Notice" = "将压缩图像的侧边限制增加到 2560px";
+"Settings.Photo.Quality.Notice" = "发送图片的质量";
+"Settings.Photo.SendLarge" = "发送大尺寸照片";
+"Settings.Photo.SendLarge.Notice" = "将压缩图片的尺寸限制提高到 2560px";
 
 "Settings.VideoNotes.Header" = "圆形视频";
 "Settings.VideoNotes.StartWithRearCam" = "默认使用后置摄像头";
 
-"Settings.CustomColors.Header" = "帐户颜色";
+"Settings.CustomColors.Header" = "账户颜色";
 "Settings.CustomColors.Saturation" = "饱和度";
 /* Make sure to escape Percentage sign % */
-"Settings.CustomColors.Saturation.Notice" = "设置饱和度为 0%% 以禁用帐户颜色";
+"Settings.CustomColors.Saturation.Notice" = "设置饱和度为 0%% 以禁用账户颜色";
 
+"Settings.UploadsBoost" = "上传加速";
 "Settings.DownloadsBoost" = "下载加速";
 "Settings.DownloadsBoost.none" = "停用";
-"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.medium" = "中等";
 "Settings.DownloadsBoost.maximum" = "最大";
 
 "Settings.ShowProfileID" = "显示个人简介 ID";
 "Settings.SendWithReturnKey" = "使用返回键发送";
-"Settings.HidePhoneInSettingsUI" = "在设置中隐藏电话";
-"Settings.HidePhoneInSettingsUI.Notice" = "您的号码将仅隐藏在设置界面中。请转到隐私设置以隐藏其他设置。";
+"Settings.HidePhoneInSettingsUI" = "在设置中隐藏电话号码";
+"Settings.HidePhoneInSettingsUI.Notice" = "您的电话号码只会在设置界面中隐藏。要对其他人隐藏，可进入隐私设置调整。";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "如果离开5秒";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "离开 5 秒后";
 
 "ProxySettings.UseSystemDNS" = "使用系统DNS";
 "ProxySettings.UseSystemDNS.Notice" = "如果您无权访问 Google DNS，请使用系统 DNS";
@@ -53,7 +54,7 @@
 "Common.RestartNow" = "立即重启";
 "Common.OpenTelegram" = "开启Telegram";
 
-"Message.HoldToShowOrReport" = "按住来显示或报告。";
+"Message.HoldToShowOrReport" = "长按显示或举报";
 
-"Auth.AccountBackupReminder" = "请确保您有一个备份访问方法。保留一个SMS或一个额外会话登录以避免被锁定。";
+"Auth.AccountBackupReminder" = "请确保您有一个备用的访问方式。保留一张用于接收短信的 SIM 卡或多登录一个会话，以免被锁定。";
 "Auth.UnofficialAppCodeTitle" = "您只能通过官方应用程序获得代码";
