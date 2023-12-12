@@ -39,7 +39,7 @@
 "Settings.DownloadsBoost.maximum" = "最大";
 
 "Settings.ShowProfileID" = "顯示用戶 UID";
-"Settings.SendWithReturnKey" = "使用「換行」鍵重送";
+"Settings.SendWithReturnKey" = "使用「換行」鍵傳送";
 "Settings.HidePhoneInSettingsUI" = "在設定頁中隱藏電話號碼";
 "Settings.HidePhoneInSettingsUI.Notice" = "您的電話在「設定頁」中不再顯示，可到「隱私與安全性」設定來對其他人隱藏。";
 
