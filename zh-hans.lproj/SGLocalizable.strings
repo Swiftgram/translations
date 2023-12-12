@@ -1,8 +1,8 @@
 "Settings.ContentSettings" = "内容设置";
 
-"Settings.Tabs.Header" = "选项卡";
+"Settings.Tabs.Header" = "标签";
 "Settings.Tabs.ShowContacts" = "显示联系人标签";
-"Settings.Tabs.ShowNames" = "显示选项卡名称";
+"Settings.Tabs.ShowNames" = "显示标签名称";
 
 "Settings.Folders.BottomTab" = "底部分组";
 "Settings.Folders.RememberLast" = "打开上次分组";
@@ -17,7 +17,7 @@
 "Stories.Warning.Author" = "作者";
 "Stories.Warning.ViewStory" = "查看动态？";
 /* Author will be able to see that you viewed their Story */
-"Stories.Warning.Notice" = "%@ 将能够看到你查看了他们的故事";
+"Stories.Warning.Notice" = "%@ 将能够看到你查看了他们的动态";
 "Stories.Warning.NoticeStealth" = "%@ 将无法看到您查看他们的动态";
 
 "Settings.Photo.Quality.Notice" = "发送图片的质量";
