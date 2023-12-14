@@ -58,3 +58,5 @@
 
 "Auth.AccountBackupReminder" = "請確保您有備用訪問方法。保留用於接收簡訊的 SIM 卡或其他登入狀態以避免被鎖定。";
 "Auth.UnofficialAppCodeTitle" = "您只能透過官方 App 取得驗證碼";
+
+"Settings.SmallReactions" = "縮小回應圖示";
