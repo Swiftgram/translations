@@ -1,4 +1,4 @@
-"Settings.ContentSettings" = "內容設定";
+"Settings.ContentSettings" = "敏感內容設定";
 
 "Settings.Tabs.Header" = "頁籤";
 "Settings.Tabs.ShowContacts" = "顯示聯絡人頁籤";
@@ -6,11 +6,11 @@
 
 "Settings.Folders.BottomTab" = "底部頁籤";
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重新啟動或帳號切換後開啟最後瀏覽的對話盒";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重啟或帳號切換後開啟最後瀏覽的對話盒";
 
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
-"Settings.Stories.DisableSwipeToRecord" = "停用右滑進入相機";
+"Settings.Stories.DisableSwipeToRecord" = "停用滑動錄製功能";
 
 "Settings.Translation.QuickTranslateButton" = "快速翻譯按鈕";
 
@@ -21,8 +21,8 @@
 "Stories.Warning.NoticeStealth" = "%@ 將無法看到您瀏覽了限時動態";
 
 "Settings.Photo.Quality.Notice" = "傳送影像畫質";
-"Settings.Photo.SendLarge" = "傳送大圖";
-"Settings.Photo.SendLarge.Notice" = "將壓縮影像的限制增加到 2560px";
+"Settings.Photo.SendLarge" = "傳送大尺寸影像";
+"Settings.Photo.SendLarge.Notice" = "將壓縮影像的尺寸限制增加到 2560px";
 
 "Settings.VideoNotes.Header" = "圓形影片";
 "Settings.VideoNotes.StartWithRearCam" = "預設使用後置鏡頭";
@@ -32,20 +32,21 @@
 /* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "將飽和度設為 0%% 以停用帳戶顏色";
 
+"Settings.UploadsBoost" = "上傳加速";
 "Settings.DownloadsBoost" = "下載加速";
 "Settings.DownloadsBoost.none" = "已停用";
-"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.medium" = "中等";
 "Settings.DownloadsBoost.maximum" = "最大";
 
-"Settings.ShowProfileID" = "顯示用戶 ID";
-"Settings.SendWithReturnKey" = "使用「換行」鍵重送";
-"Settings.HidePhoneInSettingsUI" = "在設定中隱藏電話號碼";
-"Settings.HidePhoneInSettingsUI.Notice" = "您的電話再「設定頁」中不再顯示，可到「隱私與安全性」設定來對所有人隱藏。";
+"Settings.ShowProfileID" = "顯示用戶 UID";
+"Settings.SendWithReturnKey" = "使用「換行」鍵傳送";
+"Settings.HidePhoneInSettingsUI" = "在設定頁中隱藏電話號碼";
+"Settings.HidePhoneInSettingsUI.Notice" = "您的電話在「設定頁」中不再顯示，可到「隱私與安全性」設定來對其他人隱藏。";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "如果離開超過5秒";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "離開5秒後";
 
 "ProxySettings.UseSystemDNS" = "使用系統 DNS";
-"ProxySettings.UseSystemDNS.Notice" = "如果您無法存取 Google DNS，請使用系統 DNS";
+"ProxySettings.UseSystemDNS.Notice" = "如果您無法使用 Google DNS，請使用系統 DNS";
 
 /* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "您 **不需要** %@！";
@@ -53,7 +54,9 @@
 "Common.RestartNow" = "立即重啟";
 "Common.OpenTelegram" = "開啟 Telegram";
 
-"Message.HoldToShowOrReport" = "長按來顯示或回報";
+"Message.HoldToShowOrReport" = "按住以顯示訊息或報告";
 
 "Auth.AccountBackupReminder" = "請確保您有備用訪問方法。保留用於接收簡訊的 SIM 卡或其他登入狀態以避免被鎖定。";
 "Auth.UnofficialAppCodeTitle" = "您只能透過官方 App 取得驗證碼";
+
+"Settings.SmallReactions" = "縮小回應圖示";

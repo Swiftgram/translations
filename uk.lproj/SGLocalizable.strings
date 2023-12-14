@@ -1,13 +1,18 @@
+"Settings.ContentSettings" = "Налаштування контенту";
+
 "Settings.Tabs.Header" = "ВКЛАДКИ";
-"Settings.Tabs.ShowContacts" = "Показати вкладку Контакти";
+"Settings.Tabs.ShowContacts" = "Показувати вкладку Контакти";
 "Settings.Tabs.ShowNames" = "Назви вкладок";
 
-"Settings.Folders.BottomTab" = "Теки внизу";
-"Settings.Folders.RememberLast" = "Відкрити останню папку";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram відкриває останню папку після перезапуску або зміни акаунту";
+"Settings.Folders.BottomTab" = "Тека знизу";
+"Settings.Folders.RememberLast" = "Відкривати останню папку";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram відкриє останню відкриту теку після перезавантаження додатку або зміни акаунту";
 
-"Settings.Stories.Hide" = "Приховати історії";
-"Settings.Stories.WarnBeforeView" = "Запитати перед переглядом";
+"Settings.Stories.Hide" = "Приховувати історії";
+"Settings.Stories.WarnBeforeView" = "Питати перед переглядом";
+"Settings.Stories.DisableSwipeToRecord" = "Вимкнути \"Свайп для запису\"";
+
+"Settings.Translation.QuickTranslateButton" = "Кнопка швидкого перекладу";
 
 "Stories.Warning.Author" = "Автор";
 "Stories.Warning.ViewStory" = "Переглянути історію?";
@@ -15,11 +20,11 @@
 "Stories.Warning.Notice" = "%@ ЗМОЖЕ ПОБАЧИТИ, що ви переглянули їх Історію.";
 "Stories.Warning.NoticeStealth" = "%@ не зможе бачити, що Ви переглянули їх Історію.";
 
-"Settings.Photo.Quality.Notice" = "Якість вихідних фото та фото-історій";
+"Settings.Photo.Quality.Notice" = "Якість відправлених фото та фотоісторій";
 "Settings.Photo.SendLarge" = "Надсилати великі фотографії";
-"Settings.Photo.SendLarge.Notice" = "Збільшення ліміту сторони на стиснуті зображення до 2560px";
+"Settings.Photo.SendLarge.Notice" = "Збільшити ліміт розміру стиснутих зображень до 2560px";
 
-"Settings.VideoNotes.Header" = "ВІДЕОПОВІДОМЛЕННЯ";
+"Settings.VideoNotes.Header" = "КРУГЛІ ВІДЕО";
 "Settings.VideoNotes.StartWithRearCam" = "Починати запис з задньої камери";
 
 "Settings.CustomColors.Header" = "КОЛІРИ АККАУНТУ";
@@ -27,19 +32,20 @@
 /* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Встановіть насиченість на 0%%, щоб вимкнути персональні кольори";
 
+"Settings.UploadsBoost" = "Прискорення завантажень";
 "Settings.DownloadsBoost" = "Прискорення завантаження";
 "Settings.DownloadsBoost.none" = "Відключено";
-"Settings.DownloadsBoost.medium" = "Середні";
-"Settings.DownloadsBoost.maximum" = "Максимум";
+"Settings.DownloadsBoost.medium" = "Середній";
+"Settings.DownloadsBoost.maximum" = "Максимальний";
 
-"Settings.ShowProfileID" = "Показати ID профілю";
-"Settings.SendWithReturnKey" = "Надсилання кнопкою \"Введення\"";
-"Settings.HidePhoneInSettingsUI" = "Приховати телефон у налаштуваннях";
-"Settings.HidePhoneInSettingsUI.Notice" = "Номер буде приховано в меню \"Налаштування\". Перейдіть в налаштування приватності, щоб приховати його від інших.";
+"Settings.ShowProfileID" = "Показувати ID профілю";
+"Settings.SendWithReturnKey" = "Надсилати кнопкою \"Введення\"";
+"Settings.HidePhoneInSettingsUI" = "Приховати номер телефону у налаштуваннях";
+"Settings.HidePhoneInSettingsUI.Notice" = "Номер буде приховано тільки в меню \"Налаштування\". Перейдіть в налаштування приватності, щоб приховати його від інших.";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "Якщо ж ні, на 5 секунд";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Через 5 секунд";
 
-"ProxySettings.UseSystemDNS" = "Системні DNS";
+"ProxySettings.UseSystemDNS" = "Використовувати системні налаштування DNS";
 "ProxySettings.UseSystemDNS.Notice" = "Використовувати системний DNS для обходу його, якщо у вас немає доступу до Google DNS";
 
 /* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
@@ -48,7 +54,9 @@
 "Common.RestartNow" = "Перезавантажити";
 "Common.OpenTelegram" = "Відкрити Telegram";
 
-"Message.HoldToShowOrReport" = "Зачекайте, щоб переглянути або повідомити.";
+"Message.HoldToShowOrReport" = "Затисніть, щоб переглянути або поскаржитись.";
 
-"Auth.AccountBackupReminder" = "Переконайтеся, що у вас є метод доступу до резервної копії. Тримайте SIM-карту для SMS або додаткову сесію, щоб не бути заблокованою.";
+"Auth.AccountBackupReminder" = "Переконайтеся, що у вас є метод доступу до резервної копії. Тримайте SIM-карту для SMS або додаткову сесію, щоб не втратити доступ до акаунту.";
 "Auth.UnofficialAppCodeTitle" = "Ви можете отримати код тільки з офіційним додатком";
+
+"Settings.SmallReactions" = "Малі реакції";
