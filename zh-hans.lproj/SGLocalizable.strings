@@ -58,3 +58,5 @@
 
 "Auth.AccountBackupReminder" = "请确保您有一个备用的访问方式。保留一张用于接收短信的 SIM 卡或多登录一个会话，以免被锁定。";
 "Auth.UnofficialAppCodeTitle" = "您只能通过官方应用程序获得代码";
+
+"Settings.SmallReactions" = "缩小表情回应";
