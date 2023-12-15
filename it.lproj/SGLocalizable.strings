@@ -58,3 +58,5 @@
 
 "Auth.AccountBackupReminder" = "Assicurati di avere un metodo di accesso di backup. Tieni una SIM per gli SMS o delle sessioni aperte su altri dispositivi per evitare di essere bloccato fuori.";
 "Auth.UnofficialAppCodeTitle" = "Puoi ottenere il codice solo con l'applicazione ufficiale";
+
+"Settings.SmallReactions" = "Reazioni piccole";
