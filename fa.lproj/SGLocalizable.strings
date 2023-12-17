@@ -6,3 +6,4 @@
 "Settings.HidePhoneInSettingsUI.Notice" = "شماره شما فقط در رابط کاربری پنهان خواهد شد. برای پنهان کردن آن از دید دیگران ، لطفاً از تنظیمات حریم خصوصی استفاده کنید.";
 "Settings.ShowProfileID" = "نمایش ایدی پروفایل";
 "Settings.Translation.QuickTranslateButton" = "دکمه ترجمه سریع";
+"ContextMenu.SaveToCloud" = "ذخیره در فضای ابری";

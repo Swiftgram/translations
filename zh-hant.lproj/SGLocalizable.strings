@@ -60,3 +60,5 @@
 "Auth.UnofficialAppCodeTitle" = "您只能透過官方 App 取得驗證碼";
 
 "Settings.SmallReactions" = "縮小回應圖示";
+
+"ContextMenu.SaveToCloud" = "轉傳到儲存的訊息";

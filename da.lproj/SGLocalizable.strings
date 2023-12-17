@@ -8,3 +8,4 @@
 "Settings.ShowProfileID" = "Profil-ID anzeigen";
 "Settings.Translation.QuickTranslateButton" = "Schnellübersetzen-Schaltfläche";
 "Settings.Folders.BottomTab" = "Ordner - unten";
+"ContextMenu.SaveToCloud" = "In Cloud speichern";
