@@ -1,3 +1,62 @@
+"Settings.ContentSettings" = "Cài đặt nội dung";
+
+"Settings.Tabs.Header" = "THẺ";
 "Settings.Tabs.ShowContacts" = "Hiện Liên hệ";
+"Settings.Tabs.ShowNames" = "Hiện tên các thẻ";
+
+"Settings.Folders.BottomTab" = "Đặt thư mục tin nhắn ở dưới cùng";
+"Settings.Folders.RememberLast" = "Mở thư mục gần đây";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram sẽ mở thư mục gần nhất sau khi khởi động lại hoặc chuyển tài khoản";
+
+"Settings.Stories.Hide" = "Ẩn Tin";
+"Settings.Stories.WarnBeforeView" = "Hỏi trước khi xem";
+"Settings.Stories.DisableSwipeToRecord" = "Tắt vuốt để quay";
+
+"Settings.Translation.QuickTranslateButton" = "Hiện nút dịch nhanh";
+
+"Stories.Warning.Author" = "Tác giả";
+"Stories.Warning.ViewStory" = "Xem Tin?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ SẼ CÓ THỂ THẤY bạn đã xem Tin của họ.";
+"Stories.Warning.NoticeStealth" = "%@ sẽ không biết bạn đã xem Tin của họ.";
+
+"Settings.Photo.Quality.Notice" = "Chất lượng của ảnh gửi đi và ảnh Tin";
+"Settings.Photo.SendLarge" = "Gửi ảnh lớn";
+"Settings.Photo.SendLarge.Notice" = "Tăng giới hạn kích thước bên trên của hình ảnh nén lên 2560px";
+
+"Settings.VideoNotes.Header" = "VIDEO TRÒN";
 "Settings.VideoNotes.StartWithRearCam" = "Bắt đầu với camera sau";
-"Settings.Folders.BottomTab" = "Đặt mục chia tin nhắn ở dưới cùng";
+
+"Settings.CustomColors.Header" = "MÀU TÀI KHOẢN";
+"Settings.CustomColors.Saturation" = "ĐỘ BÃO HÒA";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Đặt độ bão hòa thành 0%% để tắt màu tài khoản";
+
+"Settings.UploadsBoost" = "Tăng tốc tải lên";
+"Settings.DownloadsBoost" = "Tăng tốc tải xuống";
+"Settings.DownloadsBoost.none" = "Tắt";
+"Settings.DownloadsBoost.medium" = "Trung bình";
+"Settings.DownloadsBoost.maximum" = "Tối đa";
+
+"Settings.ShowProfileID" = "Hiện ID hồ sơ";
+"Settings.SendWithReturnKey" = "Gửi tín nhắn bằng nút \"Nhập\"";
+"Settings.HidePhoneInSettingsUI" = "Ẩn số điện thoại trong cài đặt";
+"Settings.HidePhoneInSettingsUI.Notice" = "Số điện thoại của bạn sẽ chỉ ẩn đi trong cài đặt. Đến cài đặt \"Riêng tư và Bảo mật\" để ẩn đối với người khác\".";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Nếu rời đi trong 5 giây";
+
+"ProxySettings.UseSystemDNS" = "Sử dụng DNS hệ thống";
+"ProxySettings.UseSystemDNS.Notice" = "Sử dụng DNS hệ thống để bỏ qua thời gian chờ nếu bạn không có quyền truy cập vào DNS của Google";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Bạn **không cần** %@!";
+"Common.RestartRequired" = "Yêu cầu khởi động lại";
+"Common.RestartNow" = "Khởi động lại";
+"Common.OpenTelegram" = "Mở Telegram";
+
+"Message.HoldToShowOrReport" = "Nhấn giữ để Hiển thị hoặc Báo cáo.";
+
+"Auth.AccountBackupReminder" = "Hãy đảm bảo bạn có một phương pháp truy cập dự phòng. Giữ lại một SIM để nhận SMS hoặc một phiên đăng nhập bổ sung để tránh bị khóa tài khoản.";
+"Auth.UnofficialAppCodeTitle" = "Bạn chỉ có thể nhận được mã thông qua ứng dụng chính thức";
+
+"Settings.SmallReactions" = "Thu nhỏ biểu tượng cảm xúc";
