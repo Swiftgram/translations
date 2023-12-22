@@ -1,0 +1,59 @@
+"Settings.ContentSettings" = "הגדרות תוכן";
+
+"Settings.Tabs.Header" = "כרטיסיות";
+"Settings.Tabs.ShowContacts" = "הצג כרטיסיית אנשי קשר";
+"Settings.Tabs.ShowNames" = "הצג שמות כרטיסיות";
+
+"Settings.Folders.BottomTab" = "תיקיות בתחתית";
+"Settings.Folders.RememberLast" = "פתח את התיקיה האחרונה";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram תפתח את התיקיה שנעשה בה שימוש לאחרונה לאחר הפעלה מחדש או החלפת חשבון";
+
+"Settings.Stories.Hide" = "הסתר סיפורים";
+"Settings.Stories.WarnBeforeView" = "שאל לפני צפייה";
+"Settings.Stories.DisableSwipeToRecord" = "בטל החלקה להקלטה";
+
+"Settings.Translation.QuickTranslateButton" = "כפתור תרגום מהיר";
+
+"Stories.Warning.Author" = "מחבר";
+"Stories.Warning.ViewStory" = "לצפות בסיפור?";
+"Stories.Warning.Notice" = "%@ יוכל לראות שצפית בסיפור שלו.";
+"Stories.Warning.NoticeStealth" = "%@ לא יוכל לראות שצפית בסיפור שלו.";
+
+"Settings.Photo.Quality.Notice" = "איכות התמונות היוצאות והסיפורים בתמונות";
+"Settings.Photo.SendLarge" = "שלח תמונות גדולות";
+"Settings.Photo.SendLarge.Notice" = "הגדל את הגבול הצידי של תמונות מודחקות ל-2560px";
+
+"Settings.VideoNotes.Header" = "וידאו מעוגלים";
+"Settings.VideoNotes.StartWithRearCam" = "התחל עם מצלמה אחורית";
+
+"Settings.CustomColors.Header" = "צבעי חשבון";
+"Settings.CustomColors.Saturation" = "רווי";
+"Settings.CustomColors.Saturation.Notice" = "קבע רווי ל-0%% כדי לבטל צבעי חשבון";
+
+"Settings.UploadsBoost" = "תוספת העלאות";
+"Settings.DownloadsBoost" = "תוספת הורדות";
+"Settings.DownloadsBoost.none" = "מבוטל";
+"Settings.DownloadsBoost.medium" = "בינוני";
+"Settings.DownloadsBoost.maximum" = "מרבי";
+
+"Settings.ShowProfileID" = "הצג מזהה פרופיל";
+"Settings.SendWithReturnKey" = "שלח עם מקש \"חזור\"";
+"Settings.HidePhoneInSettingsUI" = "הסתר טלפון בהגדרות";
+"Settings.HidePhoneInSettingsUI.Notice" = "המספר שלך יהיה מוסתר בממשק ההגדרות בלבד. עבור להגדרות פרטיות כדי להסתיר אותו מאחרים.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "נעל אוטומטית אחרי 5 שניות";
+
+"ProxySettings.UseSystemDNS" = "השתמש ב-DNS של המערכת";
+"ProxySettings.UseSystemDNS.Notice" = "השתמש ב-DNS של המערכת כדי לעקוף זמן תגובה אם אין לך גישה ל-Google DNS";
+
+"Common.NoTelegramPremiumNeeded" = "אין **צורך** ב%@!";
+"Common.RestartRequired" = "נדרש הפעלה מחדש";
+"Common.RestartNow" = "הפעל מחדש עכשיו";
+"Common.OpenTelegram" = "פתח טלגרם";
+
+"Message.HoldToShowOrReport" = "החזק כדי להציג או לדווח.";
+
+"Auth.AccountBackupReminder" = "ודא שיש לך שיטת גישה לגיבוי. שמור כרטיס SIM ל-SMS או פתח סשן נוסף כדי למנוע חסימה.";
+"Auth.UnofficialAppCodeTitle" = "תוכל לקבל את הקוד רק דרך האפליקציה הרשמית";
+
+"Settings.SmallReactions" = "תגובות קטנות";

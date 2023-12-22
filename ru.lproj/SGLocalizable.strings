@@ -60,3 +60,5 @@
 "Auth.UnofficialAppCodeTitle" = "Вы можете получить код только в официальном приложении";
 
 "Settings.SmallReactions" = "Маленькие реакции";
+
+"ContextMenu.SaveToCloud" = "Сохранить в Избранное";

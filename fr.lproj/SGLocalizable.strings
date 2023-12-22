@@ -1,7 +1,8 @@
 "Settings.ContentSettings" = "Paramètres du contenu";
 
 "Settings.Tabs.Header" = "ONGLETS";
-"Settings.Tabs.ShowContacts" = "Afficher l'onglet « Contacts »";
+
+"Settings.Tabs.ShowContacts" = "Afficher l'onglet Contacts";
 "Settings.Tabs.ShowNames" = "Afficher les noms des onglets";
 
 "Settings.Folders.BottomTab" = "Dossiers en bas";
@@ -60,3 +61,4 @@
 "Auth.UnofficialAppCodeTitle" = "Vous ne pouvez obtenir le code qu'avec l'application officielle";
 
 "Settings.SmallReactions" = "Petites réactions";
+"ContextMenu.SaveToCloud" = "Sauvegarder dans le cloud";

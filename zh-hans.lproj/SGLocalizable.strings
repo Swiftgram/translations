@@ -60,3 +60,5 @@
 "Auth.UnofficialAppCodeTitle" = "您只能通过官方应用程序获得代码";
 
 "Settings.SmallReactions" = "缩小表情回应";
+
+"ContextMenu.SaveToCloud" = "保存到收藏夹";

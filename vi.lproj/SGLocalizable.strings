@@ -26,6 +26,7 @@
 
 "Settings.VideoNotes.Header" = "VIDEO TRÒN";
 "Settings.VideoNotes.StartWithRearCam" = "Bắt đầu với camera sau";
+"ContextMenu.SaveToCloud" = "Lưu vào Đám mây";
 
 "Settings.CustomColors.Header" = "MÀU TÀI KHOẢN";
 "Settings.CustomColors.Saturation" = "ĐỘ BÃO HÒA";

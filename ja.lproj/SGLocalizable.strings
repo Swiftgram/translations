@@ -1,0 +1,62 @@
+"Settings.ContentSettings" = "コンテンツ設定";
+
+"Settings.Tabs.Header" = "タブ";
+"Settings.Tabs.ShowContacts" = "連絡先タブを表示";
+"Settings.Tabs.ShowNames" = "タブ名を表示";
+
+"Settings.Folders.BottomTab" = "下部のフォルダ";
+"Settings.Folders.RememberLast" = "最後のフォルダを開く";
+"Settings.Folders.RememberLast.Notice" = "Swiftgramは再起動またはアカウント切替後に最後に使用したフォルダを開きます";
+
+"Settings.Stories.Hide" = "ストーリーを隠す";
+"Settings.Stories.WarnBeforeView" = "視聴前に確認";
+"Settings.Stories.DisableSwipeToRecord" = "スワイプで録画を無効にする";
+
+"Settings.Translation.QuickTranslateButton" = "クイック翻訳ボタン";
+
+"Stories.Warning.Author" = "著者";
+"Stories.Warning.ViewStory" = "ストーリーを見ますか？";
+/* 著者はあなたがそのストーリーを見たことを確認できます */
+"Stories.Warning.Notice" = "%@はあなたがそのストーリーを見たことを確認できます。";
+"Stories.Warning.NoticeStealth" = "%@はあなたがそのストーリーを見たことを確認できません。";
+
+"Settings.Photo.Quality.Notice" = "送信する写真とフォトストーリーの品質";
+"Settings.Photo.SendLarge" = "大きな写真を送信";
+"Settings.Photo.SendLarge.Notice" = "圧縮画像のサイド制限を2560pxに増加";
+
+"Settings.VideoNotes.Header" = "丸いビデオ";
+"Settings.VideoNotes.StartWithRearCam" = "リアカメラで開始";
+
+"Settings.CustomColors.Header" = "アカウントの色";
+"Settings.CustomColors.Saturation" = "彩度";
+/* パーセンテージ記号 % をエスケープすること */
+"Settings.CustomColors.Saturation.Notice" = "彩度を0%%に設定してアカウントの色を無効にする";
+
+"Settings.UploadsBoost" = "アップロードのブースト";
+"Settings.DownloadsBoost" = "ダウンロードのブースト";
+"Settings.DownloadsBoost.none" = "無効";
+"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.maximum" = "最大";
+
+"Settings.ShowProfileID" = "プロファイルIDを表示";
+"Settings.SendWithReturnKey" = "「リターン」キーで送信";
+"Settings.HidePhoneInSettingsUI" = "設定で電話番号を隠す";
+"Settings.HidePhoneInSettingsUI.Notice" = "あなたの番号は設定UIでのみ隠されます。他の人から隠すにはプライバシー設定に移動してください。";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "5秒間離れると自動ロック";
+
+"ProxySettings.UseSystemDNS" = "システムDNSを使用";
+"ProxySettings.UseSystemDNS.Notice" = "Google DNSにアクセスできない場合はシステムDNSを使用してタイムアウトを回避";
+
+/* マークダウンのアスタリスクを保持する！例：Telegram Premiumは**必要ありません**！ */
+"Common.NoTelegramPremiumNeeded" = "%@は**必要ありません**！";
+"Common.RestartRequired" = "再起動が必要";
+"Common.RestartNow" = "今すぐ再起動";
+"Common.OpenTelegram" = "Telegramを開く";
+
+"Message.HoldToShowOrReport" = "表示または報告するために押し続ける。";
+
+"Auth.AccountBackupReminder" = "バックアップアクセス方法があることを確認してください。SMS用のSIMを保持するか、追加のセッションにログインしてロックアウトを避けてください。";
+"Auth.UnofficialAppCodeTitle" = "コードは公式アプリでのみ取得できます";
+
+"Settings.SmallReactions" = "小さなリアクション";
