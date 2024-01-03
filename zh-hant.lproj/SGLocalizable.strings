@@ -62,3 +62,7 @@
 "Settings.SmallReactions" = "縮小回應圖示";
 
 "ContextMenu.SaveToCloud" = "轉傳到儲存的訊息";
+"ContextMenu.SelectFromUser" = "從作者中選擇";
+
+"Settings.ContextMenu" = "內容選單";
+"Settings.ContextMenu.Notice" = "禁用的選項可在 Swiftgram 選單中使用";
