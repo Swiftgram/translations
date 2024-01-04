@@ -64,5 +64,5 @@
 "ContextMenu.SaveToCloud" = "保存到收藏夹";
 "ContextMenu.SelectFromUser" = "选取此人的所有讯息";
 
-"Settings.ContextMenu" = "內容选单";
+"Settings.ContextMenu" = "消息菜单";
 "Settings.ContextMenu.Notice" = "已禁用的项目可在 Swiftgram 子菜单中找到";
