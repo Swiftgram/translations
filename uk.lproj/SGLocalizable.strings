@@ -60,4 +60,9 @@
 "Auth.UnofficialAppCodeTitle" = "Ви можете отримати код тільки з офіційним додатком";
 
 "Settings.SmallReactions" = "Малі реакції";
-"ContextMenu.SaveToCloud" = "Зберегти до хмари";
+
+"ContextMenu.SaveToCloud" = "Переслати в збережене";
+"ContextMenu.SelectFromUser" = "Вибрати все від користувача";
+
+"Settings.ContextMenu" = "КОНТЕКСТНЕ МЕНЮ";
+"Settings.ContextMenu.Notice" = "Відключенні кнопки будуть доступні в меню \"Swiftgram\".";
