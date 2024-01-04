@@ -62,8 +62,7 @@
 "Settings.SmallReactions" = "Маленькие реакции";
 
 "ContextMenu.SaveToCloud" = "Сохранить в Избранное";
-
-"ContextMenu.SelectFromUser" = "Выбрать от Автора";
+"ContextMenu.SelectFromUser" = "Выбрать всё от пользователя";
 
 "Settings.ContextMenu" = "КОНТЕКСТНОЕ МЕНЮ";
-"Settings.ContextMenu.Notice" = "Выключенные пункты будут доступны в подменю «Swiftgram».";
+"Settings.ContextMenu.Notice" = "Отключенные кнопки будут доступны в меню \"Swiftgram\".";
