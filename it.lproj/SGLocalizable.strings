@@ -62,3 +62,7 @@
 "Settings.SmallReactions" = "Reazioni piccole";
 
 "ContextMenu.SaveToCloud" = "Salva sul cloud";
+"ContextMenu.SelectFromUser" = "Seleziona dall'autore";
+
+"Settings.ContextMenu" = "MENU CONTESTUALE";
+"Settings.ContextMenu.Notice" = "Le voci disabilitate saranno disponibili nel sottomenu \"Swiftgram\".";
