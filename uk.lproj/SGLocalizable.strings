@@ -60,4 +60,8 @@
 "Auth.UnofficialAppCodeTitle" = "Ви можете отримати код тільки з офіційним додатком";
 
 "Settings.SmallReactions" = "Малі реакції";
-"ContextMenu.SaveToCloud" = "Зберегти до хмари";
+
+"ContextMenu.SaveToCloud" = "Переслати в Збережене";
+"ContextMenu.SelectFromUser" = "Вибрати від Автора";
+
+"Settings.ContextMenu" = "КОНТЕКСТНЕ МЕНЮ";
