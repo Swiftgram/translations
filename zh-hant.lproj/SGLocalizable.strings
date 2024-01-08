@@ -66,3 +66,6 @@
 
 "Settings.ContextMenu" = "內容選單";
 "Settings.ContextMenu.Notice" = "禁用的選項可在 Swiftgram 選單中使用";
+
+"Settings.DisableChatSwipeOptions" = "停用對話滑動功能";
+"Settings.DisableScrollToNextChannel" = "停用跳轉到下一個頻道";
