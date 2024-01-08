@@ -66,3 +66,6 @@
 
 "Settings.ContextMenu" = "CONTEXT MENU";
 "Settings.ContextMenu.Notice" = "Disabled entries will be available in \"Swiftgram\" sub-menu.";
+
+"Settings.DisableChatSwipeOptions" = "Disable chat swipe options";
+"Settings.DisableScrollToNextChannel" = "Disable scroll to next channel";
