@@ -59,4 +59,13 @@
 "Auth.AccountBackupReminder" = "Stelle sicher, dass du eine weiter Möglichkeit hast auf den Account zuzugreifen. Behalte die SIM Karte im SMS zum Login empfangen zu können oder nutze weitere Apps/Geräte mit einer aktive Sitzung deines Accounts.";
 "Auth.UnofficialAppCodeTitle" = "Du kannst den Code nur mit der offiziellen App erhalten";
 
-"ContextMenu.SaveToCloud" = "In Cloud speichern";
+"Settings.SmallReactions" = "Kleine Reaktionen";
+
+"ContextMenu.SaveToCloud" = "In die Cloud speichern";
+"ContextMenu.SelectFromUser" = "Vom Autor auswählen";
+
+"Settings.ContextMenu" = "KONTEXTMENÜ";
+"Settings.ContextMenu.Notice" = "Deaktivierte Einträge sind im 'Swiftgram'-Untermenü verfügbar.";
+
+"Settings.DisableChatSwipeOptions" = "Chat-Wisch-Optionen deaktivieren";
+"Settings.DisableScrollToNextChannel" = "Scrollen zum nächsten Kanal deaktivieren";
