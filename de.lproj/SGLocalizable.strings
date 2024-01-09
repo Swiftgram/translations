@@ -61,11 +61,11 @@
 
 "Settings.SmallReactions" = "Kleine Reaktionen";
 
-"ContextMenu.SaveToCloud" = "In die Cloud speichern";
+"ContextMenu.SaveToCloud" = "In Cloud speichern";
 "ContextMenu.SelectFromUser" = "Vom Autor auswählen";
 
 "Settings.ContextMenu" = "KONTEXTMENÜ";
 "Settings.ContextMenu.Notice" = "Deaktivierte Einträge sind im 'Swiftgram'-Untermenü verfügbar.";
 
-"Settings.DisableChatSwipeOptions" = "Chat-Wisch-Optionen deaktivieren";
+"Settings.DisableChatSwipeOptions" = "Deaktiviere in der Chatliste das wischen";
 "Settings.DisableScrollToNextChannel" = "Scrollen zum nächsten Kanal deaktivieren";
