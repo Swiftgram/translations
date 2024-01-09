@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Configuració del Contingut";
+
+"Settings.Tabs.Header" = "PESTANYES";
+"Settings.Tabs.ShowContacts" = "Mostrar Pestanya de Contactes";
+"Settings.Tabs.ShowNames" = "Mostrar noms de les pestanyes";
+
+"Settings.Folders.BottomTab" = "Carpetes a la part inferior";
+"Settings.Folders.RememberLast" = "Obrir l'última carpeta";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram obrirà l'última carpeta utilitzada després de reiniciar o canviar de compte";
+
+"Settings.Stories.Hide" = "Amagar Històries";
+"Settings.Stories.WarnBeforeView" = "Preguntar abans de veure";
+"Settings.Stories.DisableSwipeToRecord" = "Desactivar lliscar per enregistrar";
+
+"Settings.Translation.QuickTranslateButton" = "Botó de Traducció Ràpida";
+
+"Stories.Warning.Author" = "Autor";
+"Stories.Warning.ViewStory" = "Veure Història?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ PODRÀ VEURE que has vist la seva Història.";
+"Stories.Warning.NoticeStealth" = "%@ no podrà veure que has vist la seva Història.";
+
+"Settings.Photo.Quality.Notice" = "Qualitat de les fotos sortints i històries de fotos";
+"Settings.Photo.SendLarge" = "Enviar fotos grans";
+"Settings.Photo.SendLarge.Notice" = "Incrementar el límit de mida en imatges comprimides a 2560px";
+
+"Settings.VideoNotes.Header" = "VÍDEOS RODONS";
+"Settings.VideoNotes.StartWithRearCam" = "Començar amb càmera posterior";
+
+"Settings.CustomColors.Header" = "COLORS DEL COMPTE";
+"Settings.CustomColors.Saturation" = "SATURACIÓ";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Estableix la saturació a 0%% per desactivar els colors del compte";
+
+"Settings.UploadsBoost" = "Millora de càrregues";
+"Settings.DownloadsBoost" = "Millora de baixades";
+"Settings.DownloadsBoost.none" = "Desactivat";
+"Settings.DownloadsBoost.medium" = "Mitjà";
+"Settings.DownloadsBoost.maximum" = "Màxim";
+
+"Settings.ShowProfileID" = "Mostrar ID de perfil";
+"Settings.SendWithReturnKey" = "Enviar amb clau \"retorn\"";
+"Settings.HidePhoneInSettingsUI" = "Amagar telèfon en la interfície d'ajustos";
+"Settings.HidePhoneInSettingsUI.Notice" = "El teu número serà amagat només en la Interfície d'Usuari d'Ajustos. Vés a ajustos de privacitat per amagar-lo d'altres.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Si no hi ha en 5 segons";
+
+"ProxySettings.UseSystemDNS" = "Utilitzar DNS del sistema";
+"ProxySettings.UseSystemDNS.Notice" = "Utilitzar DNS del sistema per evitar el temps d'espera si no tens accés a Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "No **necessites** %@!";
+"Common.RestartRequired" = "Reinici requerit";
+"Common.RestartNow" = "Reiniciar Ara";
+"Common.OpenTelegram" = "Obrir Telegram";
+
+"Message.HoldToShowOrReport" = "Mantingues per Mostrar o Informar.";
+
+"Auth.AccountBackupReminder" = "Assegura't de tenir un mètode d'accés de reserva. Mantingues un SIM per a SMS o una sessió addicional registrada per evitar quedar bloquejat.";
+"Auth.UnofficialAppCodeTitle" = "Només pots obtenir el codi amb l'aplicació oficial";
+
+"Settings.SmallReactions" = "Petites reaccions";
+
+"ContextMenu.SaveToCloud" = "Desar al Núvol";
+"ContextMenu.SelectFromUser" = "Seleccionar de l'Autor";
+
+"Settings.ContextMenu" = "MENÚ CONTEXTUAL";
+"Settings.ContextMenu.Notice" = "Les entrades desactivades estaran disponibles al submenú \"Swiftgram\".";
+
+"Settings.DisableChatSwipeOptions" = "Desactivar opcions de desplaçament en xat";
+"Settings.DisableScrollToNextChannel" = "Desactivar desplaçament al següent canal";
