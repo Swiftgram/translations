@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Подешавања садржаја";
+
+"Settings.Tabs.Header" = "ТАБОВИ";
+"Settings.Tabs.ShowContacts" = "Прикажи таб Контакти";
+"Settings.Tabs.ShowNames" = "Прикажи имена табова";
+
+"Settings.Folders.BottomTab" = "Фасцикле на дну";
+"Settings.Folders.RememberLast" = "Отвори последњи фолдер";
+"Settings.Folders.RememberLast.Notice" = "Свифтграм ће отворити последње коришћену фасциклу након поновног покретања или промене налога";
+
+"Settings.Stories.Hide" = "Сакриј приче";
+"Settings.Stories.WarnBeforeView" = "Упитај пре прегледа";
+"Settings.Stories.DisableSwipeToRecord" = "Онемогући клизање за снимање";
+
+"Settings.Translation.QuickTranslateButton" = "Дугме за брзо превођење";
+
+"Stories.Warning.Author" = "Аутор";
+"Stories.Warning.ViewStory" = "Погледај причу?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ ЋЕ ВИДЕТИ да сте видели њихову причу.";
+"Stories.Warning.NoticeStealth" = "%@ неће моћи видети да сте видели њихову причу.";
+
+"Settings.Photo.Quality.Notice" = "Квалитет одлазећих фотографија и фото-прича";
+"Settings.Photo.SendLarge" = "Пошаљи велике фотографије";
+"Settings.Photo.SendLarge.Notice" = "Повећај лимит величине за компресоване слике на 2560пкс";
+
+"Settings.VideoNotes.Header" = "КРУГ ВИДЕО";
+"Settings.VideoNotes.StartWithRearCam" = "Почни са задњом камером";
+
+"Settings.CustomColors.Header" = "БОЈЕ НАЛОГА";
+"Settings.CustomColors.Saturation" = "ЗАСИЋЕЊЕ";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Постави засићење на 0%% да би онемогућио боје налога";
+
+"Settings.UploadsBoost" = "Појачање отпремања";
+"Settings.DownloadsBoost" = "Појачање преузимања";
+"Settings.DownloadsBoost.none" = "Онемогућено";
+"Settings.DownloadsBoost.medium" = "Средње";
+"Settings.DownloadsBoost.maximum" = "Максимално";
+
+"Settings.ShowProfileID" = "Прикажи ID профила";
+"Settings.SendWithReturnKey" = "Пошаљи са 'повратак' тастером";
+"Settings.HidePhoneInSettingsUI" = "Сакриј телефон у подешавањима";
+"Settings.HidePhoneInSettingsUI.Notice" = "Ваш број ће бити сакривен само у корисничком интерфејсу подешавања. Иди у подешавања приватности да га сакријеш од других.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Ако је одсутан 5 секунди";
+
+"ProxySettings.UseSystemDNS" = "Користи системски DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Користи системски DNS да заобиђеш временски лимит ако немаш приступ Google DNS-у";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Не треба вам **%@**!";
+"Common.RestartRequired" = "Потребно поновно покретање";
+"Common.RestartNow" = "Поново покрени сада";
+"Common.OpenTelegram" = "Отвори Телеграм";
+
+"Message.HoldToShowOrReport" = "Држи да би показао или пријавио.";
+
+"Auth.AccountBackupReminder" = "Обезбеди да имаш методу приступа за резерву. Задржи СИМ за СМС или додатну сесију пријављену да избегнеш блокирање.";
+"Auth.UnofficialAppCodeTitle" = "Код можете добити само са званичном апликацијом";
+
+"Settings.SmallReactions" = "Мале реакције";
+
+"ContextMenu.SaveToCloud" = "Сачувај у облак";
+"ContextMenu.SelectFromUser" = "Изабери од аутора";
+
+"Settings.ContextMenu" = "КОНТЕКСТ МЕНИ";
+"Settings.ContextMenu.Notice" = "Онемогућени уноси ће бити доступни у 'Swiftgram' подменују.";
+
+"Settings.DisableChatSwipeOptions" = "Онемогући опције клизања за ћаскање";
+"Settings.DisableScrollToNextChannel" = "Онемогући скроловање до следећег канала";
