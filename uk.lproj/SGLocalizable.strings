@@ -65,3 +65,7 @@
 "ContextMenu.SelectFromUser" = "Вибрати від Автора";
 
 "Settings.ContextMenu" = "КОНТЕКСТНЕ МЕНЮ";
+"Settings.ContextMenu.Notice" = "Відключені пункти будуть доступні у підменю 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Вимкнути опції свайпу в чаті";
+"Settings.DisableScrollToNextChannel" = "Вимкнути прокрутку до наступного каналу";
