@@ -1,62 +1,71 @@
 "Settings.ContentSettings" = "Pengaturan Konten";
 
-"Settings.Tabs.Header" = "TABS";
+"Settings.Tabs.Header" = "TAB";
 "Settings.Tabs.ShowContacts" = "Tampilkan Tab Kontak";
-"Settings.Tabs.ShowNames" = "Tampilkan Nama Tab";
+"Settings.Tabs.ShowNames" = "Tampilkan nama tab";
 
-"Settings.Folders.BottomTab" = "Folder di bawah";
+"Settings.Folders.BottomTab" = "Folder di bagian bawah";
 "Settings.Folders.RememberLast" = "Buka folder terakhir";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram akan membuka folder yang terakhir digunakan setelah restart atau pergantian akun";
 
 "Settings.Stories.Hide" = "Sembunyikan Cerita";
-"Settings.Stories.WarnBeforeView" = "Tanyakan sebelum melihat";
+"Settings.Stories.WarnBeforeView" = "Tanya sebelum melihat";
 "Settings.Stories.DisableSwipeToRecord" = "Nonaktifkan gesekan untuk merekam";
 
-"Settings.Translation.QuickTranslateButton" = "Bottone di traduzione rapida";
+"Settings.Translation.QuickTranslateButton" = "Tombol Terjemahan Cepat";
 
-"Stories.Warning.Author" = "Penulis";
+"Stories.Warning.Author" = "Pengarang";
 "Stories.Warning.ViewStory" = "Lihat Cerita?";
-/* Penulis akan tahu bahwa Anda telah melihat Cerita mereka */
-"Stories.Warning.Notice" = "%@ AKAN TAHU bahwa Anda telah melihat Cerita mereka.";
-"Stories.Warning.NoticeStealth" = "%@ tidak akan tahu bahwa Anda telah melihat Cerita mereka.";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ AKAN DAPAT MELIHAT bahwa Anda telah melihat Ceritanya.";
+"Stories.Warning.NoticeStealth" = "%@ tidak akan dapat melihat bahwa Anda telah melihat Ceritanya.";
 
-"Settings.Photo.Quality.Notice" = "Kualitas foto keluar dan cerita foto";
+"Settings.Photo.Quality.Notice" = "Kualitas foto keluaran dan cerita-foto";
 "Settings.Photo.SendLarge" = "Kirim foto besar";
-"Settings.Photo.SendLarge.Notice" = "Tingkatkan batas sisi pada gambar terkompresi menjadi 2560px";
+"Settings.Photo.SendLarge.Notice" = "Tingkatkan batas ukuran pada gambar yang dikompresi menjadi 2560px";
 
 "Settings.VideoNotes.Header" = "VIDEO BULAT";
 "Settings.VideoNotes.StartWithRearCam" = "Mulai dengan kamera belakang";
 
 "Settings.CustomColors.Header" = "WARNA AKUN";
 "Settings.CustomColors.Saturation" = "KEJENUHAN";
-/* Pastikan untuk mengeksploitasi tanda persentase % */
+/* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Atur kejenuhan ke 0%% untuk menonaktifkan warna akun";
 
-"Settings.UploadsBoost" = "Peningkatan Unggahan";
-"Settings.DownloadsBoost" = "Peningkatan Unduhan";
+"Settings.UploadsBoost" = "Peningkatan unggahan";
+"Settings.DownloadsBoost" = "Peningkatan unduhan";
 "Settings.DownloadsBoost.none" = "Dinonaktifkan";
 "Settings.DownloadsBoost.medium" = "Sedang";
-"Settings.DownloadsBoost.maximum" = "Maksimal";
+"Settings.DownloadsBoost.maximum" = "Maksimum";
 
-"Settings.ShowProfileID" = "Tampilkan ID Profil";
-"Settings.SendWithReturnKey" = "Kirim dengan kunci \"kembali\"";
+"Settings.ShowProfileID" = "Tampilkan ID profil";
+"Settings.SendWithReturnKey" = "Kirim dengan tombol \"kembali\"";
 "Settings.HidePhoneInSettingsUI" = "Sembunyikan telepon di pengaturan";
-"Settings.HidePhoneInSettingsUI.Notice" = "Nomor Anda akan disembunyikan hanya di UI Pengaturan. Kunjungi Pengaturan Privasi untuk menyembunyikannya dari orang lain.";
+"Settings.HidePhoneInSettingsUI.Notice" = "Nomor Anda akan disembunyikan di UI Pengaturan saja. Pergi ke pengaturan Privasi untuk menyembunyikannya dari orang lain.";
 
 "PasscodeSettings.AutoLock.InFiveSeconds" = "Jika tidak ada selama 5 detik";
 
 "ProxySettings.UseSystemDNS" = "Gunakan DNS sistem";
-"ProxySettings.UseSystemDNS.Notice" = "Gunakan DNS sistem untuk menghindari timeout jika Anda tidak memiliki akses ke Google DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Gunakan DNS sistem untuk mengatasi timeout jika Anda tidak memiliki akses ke Google DNS";
 
-/* Pertahankan tanda bintang markdown! Contoh: Anda **tidak** memerlukan Telegram Premium! */
-"Common.NoTelegramPremiumNeeded" = "Anda **tidak memerlukan** %@!";
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Anda **tidak perlu** %@!";
 "Common.RestartRequired" = "Diperlukan restart";
 "Common.RestartNow" = "Restart Sekarang";
 "Common.OpenTelegram" = "Buka Telegram";
 
-"Message.HoldToShowOrReport" = "Tahan untuk Menampilkan atau Melaporkan.";
+"Message.HoldToShowOrReport" = "Tahan untuk Menunjukkan atau Melaporkan.";
 
 "Auth.AccountBackupReminder" = "Pastikan Anda memiliki metode akses cadangan. Simpan SIM untuk SMS atau sesi tambahan yang masuk untuk menghindari terkunci.";
-"Auth.UnofficialAppCodeTitle" = "Anda hanya dapat mendapatkan kode dengan aplikasi resmi";
+"Auth.UnofficialAppCodeTitle" = "Anda hanya bisa mendapatkan kode dengan aplikasi resmi";
 
 "Settings.SmallReactions" = "Reaksi Kecil";
+
+"ContextMenu.SaveToCloud" = "Simpan ke Cloud";
+"ContextMenu.SelectFromUser" = "Pilih dari Pengarang";
+
+"Settings.ContextMenu" = "MENU KONTEKS";
+"Settings.ContextMenu.Notice" = "Entri yang dinonaktifkan akan tersedia di sub-menu \"Swiftgram\".";
+
+"Settings.DisableChatSwipeOptions" = "Nonaktifkan opsi gesekan obrolan";
+"Settings.DisableScrollToNextChannel" = "Nonaktifkan gulir ke saluran berikutnya";
