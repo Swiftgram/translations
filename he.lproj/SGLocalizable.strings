@@ -5,8 +5,8 @@
 "Settings.Tabs.ShowNames" = "הצג שמות כרטיסיות";
 
 "Settings.Folders.BottomTab" = "תיקיות בתחתית";
-"Settings.Folders.RememberLast" = "פתח את התיקיה האחרונה";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram תפתח את התיקיה שנעשה בה שימוש לאחרונה לאחר הפעלה מחדש או החלפת חשבון";
+"Settings.Folders.RememberLast" = "פתח את התיקייה האחרונה";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram יפתח את התיקייה האחרונה שנעשתה בה שימוש לאחר הפעלה מחדש או החלפת חשבון";
 
 "Settings.Stories.Hide" = "הסתר סיפורים";
 "Settings.Stories.WarnBeforeView" = "שאל לפני צפייה";
@@ -15,45 +15,57 @@
 "Settings.Translation.QuickTranslateButton" = "כפתור תרגום מהיר";
 
 "Stories.Warning.Author" = "מחבר";
-"Stories.Warning.ViewStory" = "לצפות בסיפור?";
-"Stories.Warning.Notice" = "%@ יוכל לראות שצפית בסיפור שלו.";
-"Stories.Warning.NoticeStealth" = "%@ לא יוכל לראות שצפית בסיפור שלו.";
+"Stories.Warning.ViewStory" = "צפה בסיפור?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ יוכל/תוכל לראות שצפית בסיפור שלהם.";
+"Stories.Warning.NoticeStealth" = "%@ לא יוכל/תוכל לראות שצפית בסיפור שלהם.";
 
-"Settings.Photo.Quality.Notice" = "איכות התמונות היוצאות והסיפורים בתמונות";
+"Settings.Photo.Quality.Notice" = "איכות תמונות יוצאות וסיפורי תמונות";
 "Settings.Photo.SendLarge" = "שלח תמונות גדולות";
-"Settings.Photo.SendLarge.Notice" = "הגדל את הגבול הצידי של תמונות מודחקות ל-2560px";
+"Settings.Photo.SendLarge.Notice" = "הגדל את הגבול הצדדי של תמונות מודחסות ל-2560 פיקסלים";
 
-"Settings.VideoNotes.Header" = "וידאו מעוגלים";
+"Settings.VideoNotes.Header" = "וידאו מעגלי";
 "Settings.VideoNotes.StartWithRearCam" = "התחל עם מצלמה אחורית";
 
 "Settings.CustomColors.Header" = "צבעי חשבון";
-"Settings.CustomColors.Saturation" = "רווי";
-"Settings.CustomColors.Saturation.Notice" = "קבע רווי ל-0%% כדי לבטל צבעי חשבון";
+"Settings.CustomColors.Saturation" = "רווייה";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "הגדר רווייה ל-0%% כדי לבטל צבעי חשבון";
 
-"Settings.UploadsBoost" = "תוספת העלאות";
-"Settings.DownloadsBoost" = "תוספת הורדות";
+"Settings.UploadsBoost" = "הגברת העלאות";
+"Settings.DownloadsBoost" = "הגברת הורדות";
 "Settings.DownloadsBoost.none" = "מבוטל";
 "Settings.DownloadsBoost.medium" = "בינוני";
-"Settings.DownloadsBoost.maximum" = "מרבי";
+"Settings.DownloadsBoost.maximum" = "מקסימלי";
 
-"Settings.ShowProfileID" = "הצג מזהה פרופיל";
-"Settings.SendWithReturnKey" = "שלח עם מקש \"חזור\"";
+"Settings.ShowProfileID" = "הצג זיהוי פרופיל";
+"Settings.SendWithReturnKey" = "שלח עם מקש 'חזור'";
 "Settings.HidePhoneInSettingsUI" = "הסתר טלפון בהגדרות";
-"Settings.HidePhoneInSettingsUI.Notice" = "המספר שלך יהיה מוסתר בממשק ההגדרות בלבד. עבור להגדרות פרטיות כדי להסתיר אותו מאחרים.";
+"Settings.HidePhoneInSettingsUI.Notice" = "מספר הטלפון שלך יוסתר רק בממשק המשתמש של ההגדרות. עבור להגדרות הפרטיות כדי להסתיר אותו מאחרים.";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "נעל אוטומטית אחרי 5 שניות";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "אם לא נמצא במשך 5 שניות";
 
 "ProxySettings.UseSystemDNS" = "השתמש ב-DNS של המערכת";
-"ProxySettings.UseSystemDNS.Notice" = "השתמש ב-DNS של המערכת כדי לעקוף זמן תגובה אם אין לך גישה ל-Google DNS";
+"ProxySettings.UseSystemDNS.Notice" = "השתמש ב-DNS של המערכת כדי לעקוף תפוגת זמן אם אין לך גישה ל-Google DNS";
 
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "אין **צורך** ב%@!";
-"Common.RestartRequired" = "נדרש הפעלה מחדש";
-"Common.RestartNow" = "הפעל מחדש עכשיו";
-"Common.OpenTelegram" = "פתח טלגרם";
+"Common.RestartRequired" = "נדרש אתחול";
+"Common.RestartNow" = "אתחל כעת";
+"Common.OpenTelegram" = "פתח את טלגרם";
 
 "Message.HoldToShowOrReport" = "החזק כדי להציג או לדווח.";
 
-"Auth.AccountBackupReminder" = "ודא שיש לך שיטת גישה לגיבוי. שמור כרטיס SIM ל-SMS או פתח סשן נוסף כדי למנוע חסימה.";
-"Auth.UnofficialAppCodeTitle" = "תוכל לקבל את הקוד רק דרך האפליקציה הרשמית";
+"Auth.AccountBackupReminder" = "ודא שיש לך שיטת גישה לגיבוי. שמור כרטיס SIM ל-SMS או מושב נוסף פתוח כדי למנוע נעילה.";
+"Auth.UnofficialAppCodeTitle" = "ניתן לקבל את הקוד רק עם האפליקציה הרשמית";
 
 "Settings.SmallReactions" = "תגובות קטנות";
+
+"ContextMenu.SaveToCloud" = "שמור בענן";
+"ContextMenu.SelectFromUser" = "בחר מהמשתמש";
+
+"Settings.ContextMenu" = "תפריט הקשר";
+"Settings.ContextMenu.Notice" = "פריטים מבוטלים יהיו זמינים בתת-תפריט 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "בטל אפשרויות החלקה בצ'אט";
+"Settings.DisableScrollToNextChannel" = "בטל גלילה לערוץ הבא";
