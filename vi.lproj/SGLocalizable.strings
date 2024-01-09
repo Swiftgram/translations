@@ -26,7 +26,6 @@
 
 "Settings.VideoNotes.Header" = "VIDEO TRÒN";
 "Settings.VideoNotes.StartWithRearCam" = "Bắt đầu với camera sau";
-"ContextMenu.SaveToCloud" = "Lưu vào Đám mây";
 
 "Settings.CustomColors.Header" = "MÀU TÀI KHOẢN";
 "Settings.CustomColors.Saturation" = "ĐỘ BÃO HÒA";
@@ -61,3 +60,12 @@
 "Auth.UnofficialAppCodeTitle" = "Bạn chỉ có thể nhận được mã thông qua ứng dụng chính thức";
 
 "Settings.SmallReactions" = "Thu nhỏ biểu tượng cảm xúc";
+
+"ContextMenu.SaveToCloud" = "Lưu vào Đám mây";
+"ContextMenu.SelectFromUser" = "Chọn từ Tác giả";
+
+"Settings.ContextMenu" = "MENU NGỮ CẢNH";
+"Settings.ContextMenu.Notice" = "Mục nhập đã vô hiệu hóa sẽ có sẵn trong menu phụ 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Vô hiệu hóa tùy chọn vuốt chat";
+"Settings.DisableScrollToNextChannel" = "Vô hiệu hóa cuộn đến kênh tiếp theo";
