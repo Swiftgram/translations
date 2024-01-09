@@ -6,31 +6,31 @@
 
 "Settings.Folders.BottomTab" = "下部のフォルダ";
 "Settings.Folders.RememberLast" = "最後のフォルダを開く";
-"Settings.Folders.RememberLast.Notice" = "Swiftgramは再起動またはアカウント切替後に最後に使用したフォルダを開きます";
+"Settings.Folders.RememberLast.Notice" = "Swiftgramは再起動またはアカウント切り替え後に最後に使用したフォルダを開きます";
 
 "Settings.Stories.Hide" = "ストーリーを隠す";
-"Settings.Stories.WarnBeforeView" = "視聴前に確認";
-"Settings.Stories.DisableSwipeToRecord" = "スワイプで録画を無効にする";
+"Settings.Stories.WarnBeforeView" = "閲覧前に警告する";
+"Settings.Stories.DisableSwipeToRecord" = "スワイプして録音するのを無効にする";
 
 "Settings.Translation.QuickTranslateButton" = "クイック翻訳ボタン";
 
 "Stories.Warning.Author" = "著者";
 "Stories.Warning.ViewStory" = "ストーリーを見ますか？";
-/* 著者はあなたがそのストーリーを見たことを確認できます */
-"Stories.Warning.Notice" = "%@はあなたがそのストーリーを見たことを確認できます。";
-"Stories.Warning.NoticeStealth" = "%@はあなたがそのストーリーを見たことを確認できません。";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@はあなたが彼らのストーリーを見たことを確認できます。";
+"Stories.Warning.NoticeStealth" = "%@はあなたが彼らのストーリーを見たことを確認できません。";
 
-"Settings.Photo.Quality.Notice" = "送信する写真とフォトストーリーの品質";
-"Settings.Photo.SendLarge" = "大きな写真を送信";
-"Settings.Photo.SendLarge.Notice" = "圧縮画像のサイド制限を2560pxに増加";
+"Settings.Photo.Quality.Notice" = "送信される写真とフォトストーリーの品質";
+"Settings.Photo.SendLarge" = "大きな写真を送る";
+"Settings.Photo.SendLarge.Notice" = "圧縮された画像のサイズ制限を2560pxに増やす";
 
-"Settings.VideoNotes.Header" = "丸いビデオ";
+"Settings.VideoNotes.Header" = "ラウンドビデオ";
 "Settings.VideoNotes.StartWithRearCam" = "リアカメラで開始";
 
 "Settings.CustomColors.Header" = "アカウントの色";
 "Settings.CustomColors.Saturation" = "彩度";
-/* パーセンテージ記号 % をエスケープすること */
-"Settings.CustomColors.Saturation.Notice" = "彩度を0%%に設定してアカウントの色を無効にする";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "アカウントの色を無効にするために彩度を0%%に設定";
 
 "Settings.UploadsBoost" = "アップロードのブースト";
 "Settings.DownloadsBoost" = "ダウンロードのブースト";
@@ -40,23 +40,32 @@
 
 "Settings.ShowProfileID" = "プロファイルIDを表示";
 "Settings.SendWithReturnKey" = "「リターン」キーで送信";
-"Settings.HidePhoneInSettingsUI" = "設定で電話番号を隠す";
-"Settings.HidePhoneInSettingsUI.Notice" = "あなたの番号は設定UIでのみ隠されます。他の人から隠すにはプライバシー設定に移動してください。";
+"Settings.HidePhoneInSettingsUI" = "設定で電話を隠す";
+"Settings.HidePhoneInSettingsUI.Notice" = "あなたの番号は設定UIでのみ隠されます。他人から隠すにはプライバシー設定に進んでください。";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "5秒間離れると自動ロック";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "5秒間不在の場合";
 
-"ProxySettings.UseSystemDNS" = "システムDNSを使用";
-"ProxySettings.UseSystemDNS.Notice" = "Google DNSにアクセスできない場合はシステムDNSを使用してタイムアウトを回避";
+"ProxySettings.UseSystemDNS" = "システムDNSを使用する";
+"ProxySettings.UseSystemDNS.Notice" = "Google DNSへのアクセスがない場合、タイムアウトを回避するためにシステムDNSを使用する";
 
-/* マークダウンのアスタリスクを保持する！例：Telegram Premiumは**必要ありません**！ */
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "%@は**必要ありません**！";
 "Common.RestartRequired" = "再起動が必要";
 "Common.RestartNow" = "今すぐ再起動";
 "Common.OpenTelegram" = "Telegramを開く";
 
-"Message.HoldToShowOrReport" = "表示または報告するために押し続ける。";
+"Message.HoldToShowOrReport" = "長押しして表示または報告する。";
 
-"Auth.AccountBackupReminder" = "バックアップアクセス方法があることを確認してください。SMS用のSIMを保持するか、追加のセッションにログインしてロックアウトを避けてください。";
+"Auth.AccountBackupReminder" = "バックアップアクセス方法を確保してください。ロックアウトを避けるためにSMS用のSIMまたは追加のセッションをログインしておく。";
 "Auth.UnofficialAppCodeTitle" = "コードは公式アプリでのみ取得できます";
 
 "Settings.SmallReactions" = "小さなリアクション";
+
+"ContextMenu.SaveToCloud" = "クラウドに保存";
+"ContextMenu.SelectFromUser" = "著者から選択";
+
+"Settings.ContextMenu" = "コンテキストメニュー";
+"Settings.ContextMenu.Notice" = "無効にされたエントリは'Swiftgram'サブメニューで利用可能です。";
+
+"Settings.DisableChatSwipeOptions" = "チャットスワイプオプションを無効にする";
+"Settings.DisableScrollToNextChannel" = "次のチャンネルへのスクロールを無効にする";
