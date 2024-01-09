@@ -1,4 +1,4 @@
-"Settings.ContentSettings" = "Ustawienia zawartości";
+"Settings.ContentSettings" = "Ustawienia treści";
 
 "Settings.Tabs.Header" = "ZAKŁADKI";
 "Settings.Tabs.ShowContacts" = "Pokaż zakładkę kontakty";
@@ -9,18 +9,18 @@
 "Settings.Folders.RememberLast.Notice" = "Swiftgram otworzy ostatnio używany folder po ponownym uruchomieniu lub zmianie konta";
 
 "Settings.Stories.Hide" = "Ukryj Historie";
-"Settings.Stories.WarnBeforeView" = "Pytaj przed wyświetleniem";
+"Settings.Stories.WarnBeforeView" = "Zapytaj przed wyświetleniem";
 "Settings.Stories.DisableSwipeToRecord" = "Wyłącz przesuwanie do nagrywania";
 
-"Settings.Translation.QuickTranslateButton" = "Przycisk Szybkie tłumaczenie";
+"Settings.Translation.QuickTranslateButton" = "Przycisk szybkiego tłumaczenia";
 
 "Stories.Warning.Author" = "Autor";
 "Stories.Warning.ViewStory" = "Zobaczyć Historię?";
-/* Autor będzie wiedział, że obejrzałeś ich Historię */
-"Stories.Warning.Notice" = "%@ BĘDZIE WIEDZIAŁ, że obejrzałeś ich Historię.";
-"Stories.Warning.NoticeStealth" = "%@ nie będzie wiedział, że obejrzałeś ich Historię.";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ ZOBACZY, że obejrzałeś/aś ich Historię.";
+"Stories.Warning.NoticeStealth" = "%@ nie zobaczy, że obejrzałeś/aś ich Historię.";
 
-"Settings.Photo.Quality.Notice" = "Jakość wychodzących zdjęć i fotorelacji";
+"Settings.Photo.Quality.Notice" = "Jakość wychodzących zdjęć i historii zdjęć";
 "Settings.Photo.SendLarge" = "Wyślij duże zdjęcia";
 "Settings.Photo.SendLarge.Notice" = "Zwiększ limit rozmiaru skompresowanych obrazów do 2560px";
 
@@ -29,17 +29,17 @@
 
 "Settings.CustomColors.Header" = "KOLORY KONTA";
 "Settings.CustomColors.Saturation" = "NASYCENIE";
-/* Upewnij się, że znak procentu % jest zapisany */
+/* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Ustaw nasycenie na 0%%, aby wyłączyć kolory konta";
 
-"Settings.UploadsBoost" = "Przyśpieszenie wysyłania";
-"Settings.DownloadsBoost" = "Przyśpieszenie pobierania";
+"Settings.UploadsBoost" = "Przyspieszenie wysyłania";
+"Settings.DownloadsBoost" = "Przyspieszenie pobierania";
 "Settings.DownloadsBoost.none" = "Wyłączone";
 "Settings.DownloadsBoost.medium" = "Średnie";
 "Settings.DownloadsBoost.maximum" = "Maksymalne";
 
 "Settings.ShowProfileID" = "Pokaż ID";
-"Settings.SendWithReturnKey" = "Wyślij klawiszem „return”";
+"Settings.SendWithReturnKey" = "Wyślij klawiszem 'powrót'";
 "Settings.HidePhoneInSettingsUI" = "Ukryj numer telefonu w ustawieniach";
 "Settings.HidePhoneInSettingsUI.Notice" = "Twój numer zostanie ukryty tylko w interfejsie użytkownika. Aby ukryć go przed innymi, użyj ustawień prywatności.";
 
@@ -48,16 +48,24 @@
 "ProxySettings.UseSystemDNS" = "Użyj systemowego DNS";
 "ProxySettings.UseSystemDNS.Notice" = "Użyj systemowego DNS, aby ominąć limit czasu, jeśli nie masz dostępu do Google DNS";
 
-/* Zachowaj znaczniki Markdown! Przykład: Nie **potrzebujesz** Telegram Premium! */
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "Nie **potrzebujesz** %@!";
 "Common.RestartRequired" = "Wymagany restart";
-"Common.RestartNow" = "Uruchom ponownie teraz";
+"Common.RestartNow" = "Zrestartuj teraz";
 "Common.OpenTelegram" = "Otwórz Telegram";
 
-"Message.HoldToShowOrReport" = "Przytrzymaj, aby Pokazać lub Zgłosić.";
+"Message.HoldToShowOrReport" = "Przytrzymaj, aby pokazać lub zgłosić.";
 
-"Auth.AccountBackupReminder" = "Upewnij się, że masz metodę zapasowego dostępu. Zachowaj SIM do SMS lub dodatkową sesję, aby uniknąć blokady.";
-"Auth.UnofficialAppCodeTitle" = "Kod można uzyskać tylko za pomocą oficjalnej aplikacji";
+"Auth.AccountBackupReminder" = "Upewnij się, że masz metodę dostępu zapasowego. Zachowaj SIM do SMS lub dodatkową sesję zalogowaną, aby uniknąć blokady.";
+"Auth.UnofficialAppCodeTitle" = "Kod możesz uzyskać tylko za pomocą oficjalnej aplikacji";
 
 "Settings.SmallReactions" = "Małe reakcje";
+
 "ContextMenu.SaveToCloud" = "Zapisz w chmurze";
+"ContextMenu.SelectFromUser" = "Wybierz od autora";
+
+"Settings.ContextMenu" = "MENU KONTEKSTOWE";
+"Settings.ContextMenu.Notice" = "Wyłączone wpisy będą dostępne w podmenu 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Wyłącz opcje przesuwania czatu";
+"Settings.DisableScrollToNextChannel" = "Wyłącz przewijanie do następnego kanału";
