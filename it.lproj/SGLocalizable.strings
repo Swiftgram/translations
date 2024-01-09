@@ -66,3 +66,6 @@
 
 "Settings.ContextMenu" = "MENU CONTESTUALE";
 "Settings.ContextMenu.Notice" = "Le voci disabilitate saranno disponibili nel sottomenu \"Swiftgram\".";
+
+"Settings.DisableChatSwipeOptions" = "Disattiva opzioni di scorrimento chat";
+"Settings.DisableScrollToNextChannel" = "Disattiva lo scorrimento al prossimo canale";
