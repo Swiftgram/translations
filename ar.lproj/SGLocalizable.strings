@@ -1,12 +1,71 @@
+"Settings.ContentSettings" = "إعدادات المحتوى";
+
 "Settings.Tabs.Header" = "تبويبات";
 "Settings.Tabs.ShowContacts" = "إظهار تبويب جهات الاتصال";
+"Settings.Tabs.ShowNames" = "إظهار أسماء التبويبات";
+
+"Settings.Folders.BottomTab" = "المجلدات في الأسفل";
+"Settings.Folders.RememberLast" = "فتح آخر مجلد";
+"Settings.Folders.RememberLast.Notice" = "سيفتح سويفتغرام آخر مجلد تم استخدامه بعد إعادة التشغيل أو تبديل الحساب";
+
+"Settings.Stories.Hide" = "إخفاء الستوري";
+"Settings.Stories.WarnBeforeView" = "سؤال قبل المشاهدة";
+"Settings.Stories.DisableSwipeToRecord" = "تعطيل السحب للتسجيل";
+
+"Settings.Translation.QuickTranslateButton" = "زر الترجمة الفوري";
+
+"Stories.Warning.Author" = "الكاتب";
+"Stories.Warning.ViewStory" = "عرض القصة؟";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "سيتمكن %@ من مشاهدة أنك شاهدت قصته.";
+"Stories.Warning.NoticeStealth" = "لن يتمكن %@ من مشاهدة أنك شاهدت قصته.";
+
+"Settings.Photo.Quality.Notice" = "جودة الصور الصادرة وقصص الصور";
+"Settings.Photo.SendLarge" = "إرسال صور كبيرة";
+"Settings.Photo.SendLarge.Notice" = "زيادة الحد الأقصى لحجم الصور المضغوطة إلى 2560 بكسل";
+
 "Settings.VideoNotes.Header" = "فيديوهات مستديرة";
 "Settings.VideoNotes.StartWithRearCam" = "البدء بالكاميرا الخلفية";
-"Settings.Tabs.ShowNames" = "إظهار أسماء التبويبات";
+
+"Settings.CustomColors.Header" = "ألوان الحساب";
+"Settings.CustomColors.Saturation" = "التشبع";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "ضبط التشبع على 0%% لتعطيل ألوان الحساب";
+
+"Settings.UploadsBoost" = "تعزيز الرفع";
+"Settings.DownloadsBoost" = "تعزيز التحميل";
+"Settings.DownloadsBoost.none" = "معطل";
+"Settings.DownloadsBoost.medium" = "متوسط";
+"Settings.DownloadsBoost.maximum" = "الحد الأقصى";
+
+"Settings.ShowProfileID" = "إظهار معرف الملف الشخصي ID";
+"Settings.SendWithReturnKey" = "إرسال مع مفتاح \"العودة\"";
 "Settings.HidePhoneInSettingsUI" = "إخفاء الرقم من الإعدادات";
 "Settings.HidePhoneInSettingsUI.Notice" = "سيتم اخفاء رقمك من التطبيق فقط. لأخفاءهُ من المستخدمين الآخرين، يرجى استخدام إعدادات الخصوصية.";
-"Settings.ShowProfileID" = "إظهار معرف الملف الشخصي ID";
-"Settings.Stories.Hide" = "إخفاء الستوري";
-"Settings.Translation.QuickTranslateButton" = "زر الترجمة الفوري";
-"Settings.Folders.BottomTab" = "المجلدات في الأسفل";
-"ContextMenu.SaveToCloud" = "الحفظ في السحابة";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "إذا كان بعيدا لمدة 5 ثوان";
+
+"ProxySettings.UseSystemDNS" = "استخدم DNS النظام";
+"ProxySettings.UseSystemDNS.Notice" = "استخدام نظام DNS لتجاوز التوقيت إذا لم يكن لديك وصول إلى Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "أنت **لا تحتاج** %@!";
+"Common.RestartRequired" = "إعادة التشغيل مطلوب";
+"Common.RestartNow" = "إعادة التشغيل الآن";
+"Common.OpenTelegram" = "افتح Telegram";
+
+"Message.HoldToShowOrReport" = "اضغط مع الاستمرار لإظهار أو التبليغ.";
+
+"Auth.AccountBackupReminder" = "تأكد من وجود طريقة وصول احتياطية. احتفظ ببطاقة SIM للرسائل النصية أو جلسة إضافية مسجلة لتجنب الإقفال.";
+"Auth.UnofficialAppCodeTitle" = "يمكنك الحصول على الرمز فقط مع التطبيق الرسمي";
+
+"Settings.SmallReactions" = "ردود فعل صغيرة";
+
+"ContextMenu.SaveToCloud" = "حفظ إلى السحابة";
+"ContextMenu.SelectFromUser" = "اختيار من المؤلف";
+
+"Settings.ContextMenu" = "قائمة السياق";
+"Settings.ContextMenu.Notice" = "الإدخالات المعطلة ستكون متاحة في قائمة فرعية \"سويفتغرام\".";
+
+"Settings.DisableChatSwipeOptions" = "تعطيل خيارات التمرير في الدردشة";
+"Settings.DisableScrollToNextChannel" = "تعطيل التمرير إلى القناة التالية";
