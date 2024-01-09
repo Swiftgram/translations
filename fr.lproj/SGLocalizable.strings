@@ -1,8 +1,7 @@
 "Settings.ContentSettings" = "Paramètres du contenu";
 
 "Settings.Tabs.Header" = "ONGLETS";
-
-"Settings.Tabs.ShowContacts" = "Afficher l'onglet Contacts";
+"Settings.Tabs.ShowContacts" = "Afficher l'onglet « Contacts »";
 "Settings.Tabs.ShowNames" = "Afficher les noms des onglets";
 
 "Settings.Folders.BottomTab" = "Dossiers en bas";
@@ -61,4 +60,12 @@
 "Auth.UnofficialAppCodeTitle" = "Vous ne pouvez obtenir le code qu'avec l'application officielle";
 
 "Settings.SmallReactions" = "Petites réactions";
-"ContextMenu.SaveToCloud" = "Sauvegarder dans le cloud";
+
+"ContextMenu.SaveToCloud" = "Sauvegarder dans le Cloud";
+"ContextMenu.SelectFromUser" = "Sélectionner de l'Auteur";
+
+"Settings.ContextMenu" = "MENU CONTEXTUEL";
+"Settings.ContextMenu.Notice" = "Les entrées désactivées seront disponibles dans le sous-menu 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Désactiver les options de balayage de chat";
+"Settings.DisableScrollToNextChannel" = "Désactiver le défilement vers le prochain canal";
