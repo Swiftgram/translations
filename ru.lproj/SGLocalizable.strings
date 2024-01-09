@@ -66,3 +66,6 @@
 
 "Settings.ContextMenu" = "КОНТЕКСТНОЕ МЕНЮ";
 "Settings.ContextMenu.Notice" = "Выключенные пункты будут доступны в подменю «Swiftgram».";
+
+"Settings.DisableChatSwipeOptions" = "Отключить параметры свайпа в чате";
+"Settings.DisableScrollToNextChannel" = "Выключить свайп для перехода в следующий канал";
