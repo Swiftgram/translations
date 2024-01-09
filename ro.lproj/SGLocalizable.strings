@@ -1,9 +1,71 @@
+"Settings.ContentSettings" = "Setări de Conținut";
+
 "Settings.Tabs.Header" = "FERESTRE";
 "Settings.Tabs.ShowContacts" = "Vizualizare contacte";
+"Settings.Tabs.ShowNames" = "Arată Fereastra cu Numele";
+
+"Settings.Folders.BottomTab" = "Foldere în partea de jos";
+"Settings.Folders.RememberLast" = "Deschide ultimul folder";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram va deschide ultimul folder utilizat după repornire sau schimbarea contului";
+
+"Settings.Stories.Hide" = "Ascunde Poveștile";
+"Settings.Stories.WarnBeforeView" = "Întreabă înainte de vizualizare";
+"Settings.Stories.DisableSwipeToRecord" = "Dezactivează glisarea pentru înregistrare";
+
+"Settings.Translation.QuickTranslateButton" = "Buton de Traducere Rapidă";
+
+"Stories.Warning.Author" = "Autor";
+"Stories.Warning.ViewStory" = "Vizualizează Povestea?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ VA VEDREA că ai vizualizat Povestea lor.";
+"Stories.Warning.NoticeStealth" = "%@ nu va vedea că ai vizualizat Povestea lor.";
+
+"Settings.Photo.Quality.Notice" = "Calitatea fotografiilor și poveștilor foto trimise";
+"Settings.Photo.SendLarge" = "Trimite fotografii mari";
+"Settings.Photo.SendLarge.Notice" = "Mărește limita de dimensiune pentru imagini comprimate la 2560px";
+
 "Settings.VideoNotes.Header" = "VIDEO ROTUND";
 "Settings.VideoNotes.StartWithRearCam" = "Începe cu camera posterioară";
-"Settings.Tabs.ShowNames" = "Arată Fereastra cu Numele";
+
+"Settings.CustomColors.Header" = "CULORI CONT";
+"Settings.CustomColors.Saturation" = "SATURAȚIE";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Setează saturația la 0%% pentru a dezactiva culorile contului";
+
+"Settings.UploadsBoost" = "Creșterea Încărcărilor";
+"Settings.DownloadsBoost" = "Creșterea Descărcărilor";
+"Settings.DownloadsBoost.none" = "Dezactivat";
+"Settings.DownloadsBoost.medium" = "Mediu";
+"Settings.DownloadsBoost.maximum" = "Maxim";
+
+"Settings.ShowProfileID" = "Arată ID-ul Profilului";
+"Settings.SendWithReturnKey" = "Trimite cu tasta 'Întoarcere'";
 "Settings.HidePhoneInSettingsUI" = "Ascunde telefonul din setări";
-"Settings.Translation.QuickTranslateButton" = "Butonul Traducere Rapidă";
-"Settings.Folders.BottomTab" = "Dosare de jos";
+"Settings.HidePhoneInSettingsUI.Notice" = "Numărul tău va fi ascuns doar în interfața utilizatorului de setări. Mergi la setările de confidențialitate pentru a-l ascunde de alții.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Dacă este absent timp de 5 secunde";
+
+"ProxySettings.UseSystemDNS" = "Utilizează DNS-ul sistemului";
+"ProxySettings.UseSystemDNS.Notice" = "Utilizează DNS-ul sistemului pentru a evita timpul de așteptare dacă nu ai acces la Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Nu **ai nevoie** de %@!";
+"Common.RestartRequired" = "Este necesară repornirea";
+"Common.RestartNow" = "Reporniți Acum";
+"Common.OpenTelegram" = "Deschide Telegram";
+
+"Message.HoldToShowOrReport" = "Ține apăsat pentru a Arăta sau Raporta.";
+
+"Auth.AccountBackupReminder" = "Asigură-te că ai o metodă de backup pentru acces. Păstrează un SIM pentru SMS sau o sesiune suplimentară conectată pentru a evita blocarea.";
+"Auth.UnofficialAppCodeTitle" = "Poți obține codul doar cu aplicația oficială";
+
+"Settings.SmallReactions" = "Reacții mici";
+
 "ContextMenu.SaveToCloud" = "Salvează în Cloud";
+"ContextMenu.SelectFromUser" = "Selectează de la Autor";
+
+"Settings.ContextMenu" = "MENIU CONTEXTUAL";
+"Settings.ContextMenu.Notice" = "Intrările dezactivate vor fi disponibile în submeniul 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Dezactivează opțiunile de glisare pentru chat";
+"Settings.DisableScrollToNextChannel" = "Dezactivează derularea la următorul canal";
