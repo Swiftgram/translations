@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Tartalombeállítások";
+
+"Settings.Tabs.Header" = "FÜLEK";
+"Settings.Tabs.ShowContacts" = "Kapcsolatok fül megjelenítése";
+"Settings.Tabs.ShowNames" = "Fülek nevének megjelenítése";
+
+"Settings.Folders.BottomTab" = "Mappák alul";
+"Settings.Folders.RememberLast" = "Utolsó mappa megnyitása";
+"Settings.Folders.RememberLast.Notice" = "A Swiftgram az utoljára használt mappát nyitja meg újraindítás vagy fiókváltás után";
+
+"Settings.Stories.Hide" = "Történetek elrejtése";
+"Settings.Stories.WarnBeforeView" = "Kérdezzen megtekintés előtt";
+"Settings.Stories.DisableSwipeToRecord" = "Lapozás rögzítésének letiltása";
+
+"Settings.Translation.QuickTranslateButton" = "Gyors Fordítás gomb";
+
+"Stories.Warning.Author" = "Szerző";
+"Stories.Warning.ViewStory" = "Történet megtekintése?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ LÁTNI FOGJA, hogy megtekintetted a történetüket.";
+"Stories.Warning.NoticeStealth" = "%@ nem fogja látni, hogy megtekintetted a történetüket.";
+
+"Settings.Photo.Quality.Notice" = "Kimenő fényképek és fotó-történetek minősége";
+"Settings.Photo.SendLarge" = "Nagy fényképek küldése";
+"Settings.Photo.SendLarge.Notice" = "Növelje a tömörített képek oldalméretének határát 2560px-re";
+
+"Settings.VideoNotes.Header" = "KEREK VIDEÓK";
+"Settings.VideoNotes.StartWithRearCam" = "Kezdés a hátsó kamerával";
+
+"Settings.CustomColors.Header" = "FIÓK SZÍNEI";
+"Settings.CustomColors.Saturation" = "TELÍTETTSÉG";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Állítsa a telítettséget 0%%-ra a fiók színeinek kikapcsolásához";
+
+"Settings.UploadsBoost" = "Feltöltések növelése";
+"Settings.DownloadsBoost" = "Letöltések növelése";
+"Settings.DownloadsBoost.none" = "Kikapcsolva";
+"Settings.DownloadsBoost.medium" = "Közepes";
+"Settings.DownloadsBoost.maximum" = "Maximális";
+
+"Settings.ShowProfileID" = "Profil azonosító megjelenítése";
+"Settings.SendWithReturnKey" = "Küldés 'vissza' gombbal";
+"Settings.HidePhoneInSettingsUI" = "Telefon elrejtése a beállításokban";
+"Settings.HidePhoneInSettingsUI.Notice" = "A számod csak a Beállítások felhasználói felületén lesz elrejtve. Menj a privát beállításokhoz, hogy mások elől is elrejtsd.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Ha 5 másodpercig távol van";
+
+"ProxySettings.UseSystemDNS" = "Rendszer DNS használata";
+"ProxySettings.UseSystemDNS.Notice" = "Használja a rendszer DNS-t, ha nem fér hozzá a Google DNS-hez";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Nem **szükséges** %@!";
+"Common.RestartRequired" = "Újraindítás szükséges";
+"Common.RestartNow" = "Újraindítás most";
+"Common.OpenTelegram" = "Telegram megnyitása";
+
+"Message.HoldToShowOrReport" = "Tartsa lenyomva a Megjelenítéshez vagy Jelentéshez.";
+
+"Auth.AccountBackupReminder" = "Győződjön meg róla, hogy van biztonsági másolat hozzáférési módszere. Tartsa meg a SMS-hez használt SIM-et vagy egy másik bejelentkezett munkamenetet, hogy elkerülje a kizárást.";
+"Auth.UnofficialAppCodeTitle" = "A kódot csak a hivatalos alkalmazással szerezheti meg";
+
+"Settings.SmallReactions" = "Kis reakciók";
+
+"ContextMenu.SaveToCloud" = "Mentés a Felhőbe";
+"ContextMenu.SelectFromUser" = "Kiválasztás a Szerzőtől";
+
+"Settings.ContextMenu" = "KONTEXTUS MENÜ";
+"Settings.ContextMenu.Notice" = "A kikapcsolt bejegyzések elérhetők lesznek a 'Swiftgram' almenüjében.";
+
+"Settings.DisableChatSwipeOptions" = "Chat húzó opciók letiltása";
+"Settings.DisableScrollToNextChannel" = "A következő csatornára görgetés letiltása";
