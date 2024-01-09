@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Inhoudinstellings";
+
+"Settings.Tabs.Header" = "OORTJIES";
+"Settings.Tabs.ShowContacts" = "Wys Kontak Oortjie";
+"Settings.Tabs.ShowNames" = "Wys oortjiename";
+
+"Settings.Folders.BottomTab" = "Lêers onderaan";
+"Settings.Folders.RememberLast" = "Maak laaste lêer oop";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram sal die laaste gebruikte lêer oopmaak na herbegin of rekeningwissel";
+
+"Settings.Stories.Hide" = "Versteek Stories";
+"Settings.Stories.WarnBeforeView" = "Vra voor besigtiging";
+"Settings.Stories.DisableSwipeToRecord" = "Deaktiveer swiep om op te neem";
+
+"Settings.Translation.QuickTranslateButton" = "Vinnige Vertaalknoppie";
+
+"Stories.Warning.Author" = "Outeur";
+"Stories.Warning.ViewStory" = "Besigtig Storie?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ SAL KAN SIEN dat jy hul Storie besigtig het.";
+"Stories.Warning.NoticeStealth" = "%@ sal nie kan sien dat jy hul Storie besigtig het nie.";
+
+"Settings.Photo.Quality.Notice" = "Kwaliteit van uitgaande foto's en fotostories";
+"Settings.Photo.SendLarge" = "Stuur groot foto's";
+"Settings.Photo.SendLarge.Notice" = "Verhoog die sybeperking op saamgeperste beelde tot 2560px";
+
+"Settings.VideoNotes.Header" = "RONDE VIDEOS";
+"Settings.VideoNotes.StartWithRearCam" = "Begin met agterkamera";
+
+"Settings.CustomColors.Header" = "REKENING KLEURE";
+"Settings.CustomColors.Saturation" = "VERSATIGING";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Stel versadiging op 0%% om rekening kleure te deaktiveer";
+
+"Settings.UploadsBoost" = "Oplaai versterking";
+"Settings.DownloadsBoost" = "Aflaai versterking";
+"Settings.DownloadsBoost.none" = "Gedeaktiveer";
+"Settings.DownloadsBoost.medium" = "Medium";
+"Settings.DownloadsBoost.maximum" = "Maksimum";
+
+"Settings.ShowProfileID" = "Wys profiel ID";
+"Settings.SendWithReturnKey" = "Stuur met \"terug\" sleutel";
+"Settings.HidePhoneInSettingsUI" = "Versteek telefoon in instellings";
+"Settings.HidePhoneInSettingsUI.Notice" = "Jou nommer sal slegs in die UI Instellings versteek word. Gaan na Privaatheidsinstellings om dit van ander te versteek.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "As weg vir 5 sekondes";
+
+"ProxySettings.UseSystemDNS" = "Gebruik stelsel DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Gebruik stelsel DNS om uitvaltyd te omseil as jy nie toegang tot Google DNS het nie";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Jy **het nie nodig** %@ nie!";
+"Common.RestartRequired" = "Herbegin benodig";
+"Common.RestartNow" = "Herbegin Nou";
+"Common.OpenTelegram" = "Maak Telegram oop";
+
+"Message.HoldToShowOrReport" = "Hou vas om te Wys of te Rapporteer.";
+
+"Auth.AccountBackupReminder" = "Maak seker jy het 'n rugsteun toegangsmetode. Hou 'n SIM vir SMS of 'n addisionele sessie aangemeld om te verhoed dat jy uitgesluit word.";
+"Auth.UnofficialAppCodeTitle" = "Jy kan die kode slegs met die amptelike app kry";
+
+"Settings.SmallReactions" = "Klein reaksies";
+
+"ContextMenu.SaveToCloud" = "Stoor na Wolk";
+"ContextMenu.SelectFromUser" = "Kies vanaf Outeur";
+
+"Settings.ContextMenu" = "KONTEKSMENU";
+"Settings.ContextMenu.Notice" = "Gedeaktiveerde inskrywings sal beskikbaar wees in die \"Swiftgram\" sub-menu.";
+
+"Settings.DisableChatSwipeOptions" = "Deaktiveer geselskap swiep opsies";
+"Settings.DisableScrollToNextChannel" = "Deaktiveer blaai na volgende kanaal";
