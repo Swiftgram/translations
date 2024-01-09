@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Innehållsinställningar";
+
+"Settings.Tabs.Header" = "Flikar";
+"Settings.Tabs.ShowContacts" = "Visa Kontakter-flik";
+"Settings.Tabs.ShowNames" = "Visa fliknamn";
+
+"Settings.Folders.BottomTab" = "Mappar längst ner";
+"Settings.Folders.RememberLast" = "Öppna senaste mappen";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram kommer att öppna den senast använda mappen efter omstart eller kontobyte";
+
+"Settings.Stories.Hide" = "Dölj Berättelser";
+"Settings.Stories.WarnBeforeView" = "Fråga innan visning";
+"Settings.Stories.DisableSwipeToRecord" = "Inaktivera svep för att spela in";
+
+"Settings.Translation.QuickTranslateButton" = "Snabböversättningsknapp";
+
+"Stories.Warning.Author" = "Författare";
+"Stories.Warning.ViewStory" = "Visa Berättelse?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ KOMMER ATT SE att du har sett deras Berättelse.";
+"Stories.Warning.NoticeStealth" = "%@ kommer inte att se att du har sett deras Berättelse.";
+
+"Settings.Photo.Quality.Notice" = "Kvalitet på utgående foton och fotoberättelser";
+"Settings.Photo.SendLarge" = "Skicka stora foton";
+"Settings.Photo.SendLarge.Notice" = "Öka sidgränsen för komprimerade bilder till 2560px";
+
+"Settings.VideoNotes.Header" = "RUND VIDEO";
+"Settings.VideoNotes.StartWithRearCam" = "Börja med bakre kamera";
+
+"Settings.CustomColors.Header" = "KONTOFÄRGER";
+"Settings.CustomColors.Saturation" = "MÄTTNING";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Ställ in mättnaden till 0%% för att inaktivera kontofärger";
+
+"Settings.UploadsBoost" = "Öka uppladdningar";
+"Settings.DownloadsBoost" = "Öka nedladdningar";
+"Settings.DownloadsBoost.none" = "Inaktiverad";
+"Settings.DownloadsBoost.medium" = "Medium";
+"Settings.DownloadsBoost.maximum" = "Maximal";
+
+"Settings.ShowProfileID" = "Visa profil-ID";
+"Settings.SendWithReturnKey" = "Skicka med 'retur'-tangenten";
+"Settings.HidePhoneInSettingsUI" = "Dölj telefon i inställningar";
+"Settings.HidePhoneInSettingsUI.Notice" = "Ditt nummer kommer endast att döljas i användargränssnittet för inställningar. Gå till sekretessinställningar för att dölja det från andra.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Om borta i 5 sekunder";
+
+"ProxySettings.UseSystemDNS" = "Använd system-DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Använd system-DNS för att kringgå timeout om du inte har tillgång till Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Du **behöver inte** %@!";
+"Common.RestartRequired" = "Omstart krävs";
+"Common.RestartNow" = "Starta om Nu";
+"Common.OpenTelegram" = "Öppna Telegram";
+
+"Message.HoldToShowOrReport" = "Håll in för att Visa eller Rapportera.";
+
+"Auth.AccountBackupReminder" = "Se till att du har en backup-åtkomstmetod. Behåll ett SIM för SMS eller en extra session inloggad för att undvika att bli utelåst.";
+"Auth.UnofficialAppCodeTitle" = "Du kan endast få koden med den officiella appen";
+
+"Settings.SmallReactions" = "Små reaktioner";
+
+"ContextMenu.SaveToCloud" = "Spara till Molnet";
+"ContextMenu.SelectFromUser" = "Välj från Författaren";
+
+"Settings.ContextMenu" = "KONTEXTMENY";
+"Settings.ContextMenu.Notice" = "Inaktiverade poster kommer att vara tillgängliga i 'Swiftgram'-undermenyn.";
+
+"Settings.DisableChatSwipeOptions" = "Inaktivera svepalternativ för chatt";
+"Settings.DisableScrollToNextChannel" = "Inaktivera scrollning till nästa kanal";
