@@ -1,0 +1,71 @@
+"Settings.ContentSettings" = "Innholdsinnstillinger";
+
+"Settings.Tabs.Header" = "FANER";
+"Settings.Tabs.ShowContacts" = "Vis kontakter-fane";
+"Settings.Tabs.ShowNames" = "Vis navn på faner";
+
+"Settings.Folders.BottomTab" = "Mapper nederst";
+"Settings.Folders.RememberLast" = "Åpne siste mappe";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram vil åpne den sist brukte mappen etter omstart eller kontoendring";
+
+"Settings.Stories.Hide" = "Skjul Historier";
+"Settings.Stories.WarnBeforeView" = "Spør før visning";
+"Settings.Stories.DisableSwipeToRecord" = "Deaktiver sveip for å ta opp";
+
+"Settings.Translation.QuickTranslateButton" = "Hurtigoversettelsesknapp";
+
+"Stories.Warning.Author" = "Forfatter";
+"Stories.Warning.ViewStory" = "Se Historie?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ VIL SE at du har sett deres Historie.";
+"Stories.Warning.NoticeStealth" = "%@ vil ikke kunne se at du har sett deres Historie.";
+
+"Settings.Photo.Quality.Notice" = "Kvalitet på utgående bilder og fotofortellinger";
+"Settings.Photo.SendLarge" = "Send store bilder";
+"Settings.Photo.SendLarge.Notice" = "Øk sidestørrelsesgrensen på komprimerte bilder til 2560px";
+
+"Settings.VideoNotes.Header" = "RUNDE VIDEOER";
+"Settings.VideoNotes.StartWithRearCam" = "Start med bakre kamera";
+
+"Settings.CustomColors.Header" = "KONTOFARGER";
+"Settings.CustomColors.Saturation" = "METNING";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Still metning til 0%% for å deaktivere kontoens farger";
+
+"Settings.UploadsBoost" = "Opplastningsøkning";
+"Settings.DownloadsBoost" = "Nedlastningsøkning";
+"Settings.DownloadsBoost.none" = "Deaktivert";
+"Settings.DownloadsBoost.medium" = "Middels";
+"Settings.DownloadsBoost.maximum" = "Maksimum";
+
+"Settings.ShowProfileID" = "Vis profil-ID";
+"Settings.SendWithReturnKey" = "Send med 'retur'-tasten";
+"Settings.HidePhoneInSettingsUI" = "Skjul telefon i innstillinger";
+"Settings.HidePhoneInSettingsUI.Notice" = "Telefonnummeret ditt vil kun være skjult i brukergrensesnittet for innstillinger. Gå til personverninnstillinger for å skjule det for andre.";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Hvis borte i 5 sekunder";
+
+"ProxySettings.UseSystemDNS" = "Bruk system DNS";
+"ProxySettings.UseSystemDNS.Notice" = "Bruk system DNS for å omgå timeout hvis du ikke har tilgang til Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "Du **trenger ikke** %@!";
+"Common.RestartRequired" = "Omstart kreves";
+"Common.RestartNow" = "Omstart Nå";
+"Common.OpenTelegram" = "Åpne Telegram";
+
+"Message.HoldToShowOrReport" = "Hold for å vise eller rapportere.";
+
+"Auth.AccountBackupReminder" = "Sørg for at du har en sikkerhetskopiert tilgangsmetode. Oppretthold en SIM for SMS eller en ekstra økt logget inn for å unngå å bli låst ute.";
+"Auth.UnofficialAppCodeTitle" = "Du kan bare få koden med den offisielle appen";
+
+"Settings.SmallReactions" = "Små reaksjoner";
+
+"ContextMenu.SaveToCloud" = "Lagre til skyen";
+"ContextMenu.SelectFromUser" = "Velg fra forfatter";
+
+"Settings.ContextMenu" = "KONTEKSTMENY";
+"Settings.ContextMenu.Notice" = "Deaktiverte oppføringer vil være tilgjengelige i 'Swiftgram'-undermenyen.";
+
+"Settings.DisableChatSwipeOptions" = "Deaktiver chat-sveipealternativer";
+"Settings.DisableScrollToNextChannel" = "Deaktiver rulling til neste kanal";
