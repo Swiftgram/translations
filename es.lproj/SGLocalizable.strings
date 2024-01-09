@@ -1,11 +1,71 @@
+"Settings.ContentSettings" = "Configuraciones de Contenido";
+
 "Settings.Tabs.Header" = "PESTAÑAS";
 "Settings.Tabs.ShowContacts" = "Mostrar pestaña de Contactos";
+"Settings.Tabs.ShowNames" = "Mostrar nombres de pestañas";
+
+"Settings.Folders.BottomTab" = "Carpetas en la parte inferior";
+"Settings.Folders.RememberLast" = "Abrir última carpeta";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram abrirá la última carpeta utilizada después de reiniciar o cambiar de cuenta";
+
+"Settings.Stories.Hide" = "Ocultar Historias";
+"Settings.Stories.WarnBeforeView" = "Preguntar antes de ver";
+"Settings.Stories.DisableSwipeToRecord" = "Deshabilitar deslizar para grabar";
+
+"Settings.Translation.QuickTranslateButton" = "Botón de Traducción Rápida";
+
+"Stories.Warning.Author" = "Autor";
+"Stories.Warning.ViewStory" = "¿Ver Historia?";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ PODRÁ VER que has visto su Historia.";
+"Stories.Warning.NoticeStealth" = "%@ no podrá ver que has visto su Historia.";
+
+"Settings.Photo.Quality.Notice" = "Calidad de fotos salientes y fotorelatos";
+"Settings.Photo.SendLarge" = "Enviar fotos grandes";
+"Settings.Photo.SendLarge.Notice" = "Aumentar el límite de tamaño en imágenes comprimidas a 2560px";
+
 "Settings.VideoNotes.Header" = "VIDEOS REDONDOS";
 "Settings.VideoNotes.StartWithRearCam" = "Comenzar con la cámara trasera";
-"Settings.Tabs.ShowNames" = "Mostrar nombres de pestañas";
+
+"Settings.CustomColors.Header" = "COLORES DE CUENTA";
+"Settings.CustomColors.Saturation" = "SATURACIÓN";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Establecer la saturación al 0%% para desactivar los colores de la cuenta";
+
+"Settings.UploadsBoost" = "Aumento de Subidas";
+"Settings.DownloadsBoost" = "Aumento de Descargas";
+"Settings.DownloadsBoost.none" = "Desactivado";
+"Settings.DownloadsBoost.medium" = "Medio";
+"Settings.DownloadsBoost.maximum" = "Máximo";
+
+"Settings.ShowProfileID" = "Mostrar ID del perfil";
+"Settings.SendWithReturnKey" = "Enviar con tecla 'retorno'";
 "Settings.HidePhoneInSettingsUI" = "Ocultar número en Ajustes";
 "Settings.HidePhoneInSettingsUI.Notice" = "Su número estará oculto solo en la interfaz de usuario. Para ocultarlo a los demás, por favor utilice la configuración de privacidad.";
-"Settings.ShowProfileID" = "Mostrar ID del perfil";
-"Settings.Stories.Hide" = "Ocultar Historias";
-"Settings.Translation.QuickTranslateButton" = "Botón de traducción rápida";
-"ContextMenu.SaveToCloud" = "Guardar en la nube";
+
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Si está ausente durante 5 segundos";
+
+"ProxySettings.UseSystemDNS" = "Usar DNS del sistema";
+"ProxySettings.UseSystemDNS.Notice" = "Usar DNS del sistema para evitar tiempo de espera si no tienes acceso a Google DNS";
+
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "No **necesitas** %@!";
+"Common.RestartRequired" = "Reinicio requerido";
+"Common.RestartNow" = "Reiniciar Ahora";
+"Common.OpenTelegram" = "Abrir Telegram";
+
+"Message.HoldToShowOrReport" = "Mantener presionado para Mostrar o Reportar.";
+
+"Auth.AccountBackupReminder" = "Asegúrate de tener un método de acceso de respaldo. Mantén un SIM para SMS o una sesión adicional iniciada para evitar ser bloqueado.";
+"Auth.UnofficialAppCodeTitle" = "Solo puedes obtener el código con la aplicación oficial";
+
+"Settings.SmallReactions" = "Reacciones pequeñas";
+
+"ContextMenu.SaveToCloud" = "Guardar en la Nube";
+"ContextMenu.SelectFromUser" = "Seleccionar del Autor";
+
+"Settings.ContextMenu" = "MENÚ CONTEXTUAL";
+"Settings.ContextMenu.Notice" = "Las entradas desactivadas estarán disponibles en el submenú 'Swiftgram'.";
+
+"Settings.DisableChatSwipeOptions" = "Desactivar opciones de deslizamiento en chat";
+"Settings.DisableScrollToNextChannel" = "Desactivar desplazamiento al siguiente canal";
