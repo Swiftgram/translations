@@ -1,62 +1,71 @@
-"Settings.ContentSettings" = "कंटेंट सेटिंग्स";
+"Settings.ContentSettings" = "सामग्री सेटिंग्स";
 
 "Settings.Tabs.Header" = "टैब्स";
 "Settings.Tabs.ShowContacts" = "संपर्क टैब दिखाएं";
-"Settings.Tabs.ShowNames" = "टैब नाम दिखाएं";
+"Settings.Tabs.ShowNames" = "टैब के नाम दिखाएं";
 
-"Settings.Folders.BottomTab" = "निचले टैब में फोल्डर्स";
-"Settings.Folders.RememberLast" = "आखिरी फोल्डर खोलें";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram पुनः आरंभ या खाता स्विच करने के बाद अंतिम प्रयुक्त फोल्डर को खोलेगा";
+"Settings.Folders.BottomTab" = "नीचे के टैब में फ़ोल्डर";
+"Settings.Folders.RememberLast" = "अंतिम फ़ोल्डर खोलें";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram पुनः आरंभ करने या खाता बदलने के बाद अंतिम इस्तेमाल किए गए फ़ोल्डर को खोलेगा";
 
-"Settings.Stories.Hide" = "कहानियाँ छुपाएं";
+"Settings.Stories.Hide" = "कहानियाँ छुपाएँ";
 "Settings.Stories.WarnBeforeView" = "देखने से पहले पूछें";
-"Settings.Stories.DisableSwipeToRecord" = "रिकॉर्ड करने के लिए स्वाइप को अक्षम करें";
+"Settings.Stories.DisableSwipeToRecord" = "रिकॉर्ड करने के लिए स्वाइप करना बंद करें";
 
 "Settings.Translation.QuickTranslateButton" = "त्वरित अनुवाद बटन";
 
 "Stories.Warning.Author" = "लेखक";
 "Stories.Warning.ViewStory" = "कहानी देखें?";
-/* लेखक देख सकता है कि आपने उनकी कहानी देखी है */
-"Stories.Warning.Notice" = "%@ देख सकते हैं कि आपने उनकी कहानी देखी है।";
-"Stories.Warning.NoticeStealth" = "%@ नहीं देख सकते कि आपने उनकी कहानी देखी है।";
+/* Author will be able to see that you viewed their Story */
+"Stories.Warning.Notice" = "%@ देख पाएंगे कि आपने उनकी कहानी देखी है।";
+"Stories.Warning.NoticeStealth" = "%@ नहीं देख पाएंगे कि आपने उनकी कहानी देखी है।";
 
-"Settings.Photo.Quality.Notice" = "भेजे गए फोटो और फोटो-कहानियों की गुणवत्ता";
-"Settings.Photo.SendLarge" = "बड़े फोटो भेजें";
-"Settings.Photo.SendLarge.Notice" = "संकुचित छवियों पर साइड सीमा को 2560px तक बढ़ाएं";
+"Settings.Photo.Quality.Notice" = "बाहर जाने वाली तस्वीरों और फ़ोटो-कहानियों की गुणवत्ता";
+"Settings.Photo.SendLarge" = "बड़ी तस्वीरें भेजें";
+"Settings.Photo.SendLarge.Notice" = "संकुचित छवियों पर आकार सीमा को 2560px तक बढ़ाएं";
 
 "Settings.VideoNotes.Header" = "गोल वीडियो";
-"Settings.VideoNotes.StartWithRearCam" = "रियर कैमरा के साथ शुरू करें";
+"Settings.VideoNotes.StartWithRearCam" = "पिछले कैमरे से शुरू करें";
 
-"Settings.CustomColors.Header" = "खाता रंग";
+"Settings.CustomColors.Header" = "खाते के रंग";
 "Settings.CustomColors.Saturation" = "संतृप्ति";
-/* प्रतिशत चिह्न % को बचाना सुनिश्चित करें */
-"Settings.CustomColors.Saturation.Notice" = "खाता रंगों को निष्क्रिय करने के लिए संतृप्ति को 0%% पर सेट करें";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "खाते के रंगों को बंद करने के लिए संतृप्ति को 0%% पर सेट करें";
 
-"Settings.UploadsBoost" = "अपलोड बूस्ट";
-"Settings.DownloadsBoost" = "डाउनलोड बूस्ट";
+"Settings.UploadsBoost" = "अपलोड बढ़ावा";
+"Settings.DownloadsBoost" = "डाउनलोड बढ़ावा";
 "Settings.DownloadsBoost.none" = "निष्क्रिय";
 "Settings.DownloadsBoost.medium" = "मध्यम";
 "Settings.DownloadsBoost.maximum" = "अधिकतम";
 
-"Settings.ShowProfileID" = "प्रोफ़ाइल ID दिखाएं";
+"Settings.ShowProfileID" = "प्रोफाइल आईडी दिखाएं";
 "Settings.SendWithReturnKey" = "\"रिटर्न\" कुंजी के साथ भेजें";
-"Settings.HidePhoneInSettingsUI" = "सेटिंग्स में फोन छिपाएं";
-"Settings.HidePhoneInSettingsUI.Notice" = "आपका नंबर केवल सेटिंग्स UI में छिपा होगा। इसे दूसरों से छिपाने के लिए गोपनीयता सेटिंग्स में जाएं।";
+"Settings.HidePhoneInSettingsUI" = "सेटिंग्स में फोन छुपाएं";
+"Settings.HidePhoneInSettingsUI.Notice" = "आपका नंबर केवल सेटिंग्स UI में ही छिपा होगा। दूसरों से छिपाने के लिए प्राइवेसी सेटिंग्स में जाएं।";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "5 सेकंड के लिए दूर रहने पर";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "5 सेकंड में दूर होने पर";
 
 "ProxySettings.UseSystemDNS" = "सिस्टम DNS का उपयोग करें";
-"ProxySettings.UseSystemDNS.Notice" = "यदि आपके पास Google DNS तक पहुँच नहीं है तो टाइमआउट से बचने के लिए सिस्टम DNS का उपयोग करें";
+"ProxySettings.UseSystemDNS.Notice" = "गूगल DNS तक पहुंच न होने पर समय समाप्ति को दरकिनार करने के लिए सिस्टम DNS का उपयोग करें";
 
-/* मार्कडाउन एस्टेरिस्क को बनाए रखें! उदाहरण: आपको **टेलीग्राम प्रीमियम की आवश्यकता नहीं** है! */
-"Common.NoTelegramPremiumNeeded" = "आपको %@ की **आवश्यकता नहीं** है!";
-"Common.RestartRequired" = "पुनः आरंभ की आवश्यकता";
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "आपको **%@ की आवश्यकता नहीं** है!";
+"Common.RestartRequired" = "पुनः आरंभ करना आवश्यक";
 "Common.RestartNow" = "अभी पुनः आरंभ करें";
 "Common.OpenTelegram" = "टेलीग्राम खोलें";
 
-"Message.HoldToShowOrReport" = "दिखाने या रिपोर्ट करने के लिए दबाए रखें।";
+"Message.HoldToShowOrReport" = "दिखाने या रिपोर्ट करने के लिए दबाकर रखें।";
 
-"Auth.AccountBackupReminder" = "सुनिश्चित करें कि आपके पास बैकअप एक्सेस विधि है। एसएमएस के लिए एक सिम रखें या बाहर निकलने से बचने के लिए एक अतिरिक्त सत्र में लॉग इन करें।";
+"Auth.AccountBackupReminder" = "सुनिश्चित करें कि आपके पास बैकअप पहुंच विधि है। बाहर निकलने से बचने के लिए एक SMS के लिए SIM या एक अतिरिक्त सत्र लॉग इन रखें।";
 "Auth.UnofficialAppCodeTitle" = "आप कोड केवल आधिकारिक ऐप के साथ प्राप्त कर सकते हैं";
 
 "Settings.SmallReactions" = "छोटी प्रतिक्रियाएं";
+
+"ContextMenu.SaveToCloud" = "क्लाउड में सहेजें";
+"ContextMenu.SelectFromUser" = "उपयोगकर्ता से चुनें";
+
+"Settings.ContextMenu" = "संदर्भ मेनू";
+"Settings.ContextMenu.Notice" = "'Swiftgram' उप-मेनू में निष्क्रिय प्रविष्टियाँ उपलब्ध होंगी।";
+
+"Settings.DisableChatSwipeOptions" = "चैट स्वाइप विकल्प अक्षम करें";
+"Settings.DisableScrollToNextChannel" = "अगले चैनल पर स्क्रॉल करना अक्षम करें";
