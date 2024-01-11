@@ -62,7 +62,13 @@
 "Settings.SmallReactions" = "缩小表情回应";
 
 "ContextMenu.SaveToCloud" = "保存到收藏夹";
-"ContextMenu.SelectFromUser" = "选取此人的所有讯息";
+"ContextMenu.SelectFromUser" = "选择此人所有消息";
 
 "Settings.ContextMenu" = "消息菜单";
 "Settings.ContextMenu.Notice" = "已禁用的项目可在 Swiftgram 子菜单中找到";
+
+"Settings.DisableChatSwipeOptions" = "禁用消息滑动选项";
+"Settings.DisableScrollToNextChannel" = "禁用滚动到下个频道";
+"Settings.DisableGalleryCamera" = "禁用图库相机";
+"Settings.DisableSendAsButton" = "禁用消息身份选择";
+"Settings.DisableSnapDeletionEffect" = "禁用消息删除特效";

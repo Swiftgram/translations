@@ -43,7 +43,7 @@
 "Settings.HidePhoneInSettingsUI" = "Telefon in den Einstellungen ausblenden";
 "Settings.HidePhoneInSettingsUI.Notice" = "Deine Nummer wird nur in der Benutzeroberfläche versteckt. Um sie vor anderen zu verbergen, verwende bitte die Privatsphäre-Einstellungen.";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "Falls 5 Sekunden weg";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Falls 5 Sekunden inaktiv";
 
 "ProxySettings.UseSystemDNS" = "Benutze System DNS";
 "ProxySettings.UseSystemDNS.Notice" = "Benutze System DNS um Timeout zu umgehen, wenn du keinen Zugriff auf Google DNS hast";
@@ -59,4 +59,16 @@
 "Auth.AccountBackupReminder" = "Stelle sicher, dass du eine weiter Möglichkeit hast auf den Account zuzugreifen. Behalte die SIM Karte im SMS zum Login empfangen zu können oder nutze weitere Apps/Geräte mit einer aktive Sitzung deines Accounts.";
 "Auth.UnofficialAppCodeTitle" = "Du kannst den Code nur mit der offiziellen App erhalten";
 
+"Settings.SmallReactions" = "Kleine Reaktionen";
+
 "ContextMenu.SaveToCloud" = "In Cloud speichern";
+"ContextMenu.SelectFromUser" = "Vom Autor auswählen";
+
+"Settings.ContextMenu" = "KONTEXTMENÜ";
+"Settings.ContextMenu.Notice" = "Deaktivierte Einträge sind im 'Swiftgram'-Untermenü verfügbar.";
+
+"Settings.DisableChatSwipeOptions" = "Deaktiviere in der Chatliste das wischen";
+"Settings.DisableScrollToNextChannel" = "Scrollen zum nächsten Kanal deaktivieren";
+"Settings.DisableGalleryCamera" = "Galeriekamera deaktivieren";
+"Settings.DisableSendAsButton" = "Deaktiviere \"Senden als...\" Button";
+"Settings.DisableSnapDeletionEffect" = "Deaktiviere die Animation beim löschen einer Nachricht";
