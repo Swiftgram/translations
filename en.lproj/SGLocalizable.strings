@@ -71,3 +71,4 @@
 "Settings.DisableScrollToNextChannel" = "Disable scroll to next channel";
 "Settings.DisableGalleryCamera" = "Disable gallery camera";
 "Settings.DisableSendAsButton" = "Disable \"Send As...\" button";
+"Settings.DisableSnapDeletionEffect" = "Disable message deletion effects";
