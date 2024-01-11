@@ -70,3 +70,4 @@
 "Settings.DisableChatSwipeOptions" = "Disable chatlist swipe options";
 "Settings.DisableScrollToNextChannel" = "Disable scroll to next channel";
 "Settings.DisableGalleryCamera" = "Disable gallery camera";
+"Settings.DisableSendAsButton" = "Disable \"Send As...\" button";
