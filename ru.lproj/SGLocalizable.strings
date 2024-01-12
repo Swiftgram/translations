@@ -66,3 +66,9 @@
 
 "Settings.ContextMenu" = "КОНТЕКСТНОЕ МЕНЮ";
 "Settings.ContextMenu.Notice" = "Выключенные пункты будут доступны в подменю «Swiftgram».";
+
+"Settings.DisableChatSwipeOptions" = "Отключить опции чатов при свайпе";
+"Settings.DisableScrollToNextChannel" = "Выключить свайп в следующий канал";
+"Settings.DisableGalleryCamera" = "Отключить камеру в галерее";
+"Settings.DisableSendAsButton" = "Отключить кнопку \"Отправить Как...\"";
+"Settings.DisableSnapDeletionEffect" = "Отключить эффект удаления сообщений";
