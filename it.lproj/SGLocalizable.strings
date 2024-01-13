@@ -66,3 +66,9 @@
 
 "Settings.ContextMenu" = "MENU CONTESTUALE";
 "Settings.ContextMenu.Notice" = "Le voci disabilitate saranno disponibili nel sottomenu \"Swiftgram\".";
+
+"Settings.DisableChatSwipeOptions" = "Disabilita opzioni con scorrimento nella lista delle chat";
+"Settings.DisableScrollToNextChannel" = "Disattiva il passaggio al canale successivo";
+"Settings.DisableGalleryCamera" = "Disabilita fotocamera galleria";
+"Settings.DisableSendAsButton" = "Disabilita il pulsante \"Invia come...\"";
+"Settings.DisableSnapDeletionEffect" = "Disabilita effetti eliminazione messaggi";
