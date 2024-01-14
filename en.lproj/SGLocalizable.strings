@@ -5,6 +5,12 @@
 "Settings.Tabs.ShowNames" = "Show tab names";
 
 "Settings.Folders.BottomTab" = "Folders at bottom";
+"Settings.Folders.BottomTabStyle" = "Bottom folders style";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Open last folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder after restart or account switch";
 
