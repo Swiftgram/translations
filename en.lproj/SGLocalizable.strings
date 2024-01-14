@@ -67,8 +67,11 @@
 "Settings.ContextMenu" = "CONTEXT MENU";
 "Settings.ContextMenu.Notice" = "Disabled entries will be available in \"Swiftgram\" sub-menu.";
 
-"Settings.DisableChatSwipeOptions" = "Disable chatlist swipe options";
-"Settings.DisableScrollToNextChannel" = "Disable scroll to next channel";
-"Settings.DisableGalleryCamera" = "Disable gallery camera";
-"Settings.DisableSendAsButton" = "Disable \"Send As...\" button";
-"Settings.DisableSnapDeletionEffect" = "Disable message deletion effects";
+
+"Settings.ChatSwipeOptions" = "Chatlist swipe options";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Pull to next unread channel";
+"Settings.GalleryCamera" = "Camera in gallery";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "\"%@\" button";
+"Settings.SnapDeletionEffect" = "Message deletion effects";
