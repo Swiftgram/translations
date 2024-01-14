@@ -9,6 +9,7 @@
 
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
 
 "Settings.Folders.RememberLast" = "Open last folder";
