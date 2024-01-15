@@ -5,6 +5,13 @@
 "Settings.Tabs.ShowNames" = "Назви вкладок";
 
 "Settings.Folders.BottomTab" = "Тека знизу";
+"Settings.Folders.BottomTabStyle" = "Стиль нижніх тек";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Відкривати останню папку";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram відкриє останню відкриту теку після перезавантаження додатку або зміни акаунту";
 
@@ -65,3 +72,13 @@
 "ContextMenu.SelectFromUser" = "Вибрати від Автора";
 
 "Settings.ContextMenu" = "КОНТЕКСТНЕ МЕНЮ";
+"Settings.ContextMenu.Notice" = "Вимкнені елементи будуть доступні в підменю \"Swiftgram\".";
+
+
+"Settings.ChatSwipeOptions" = "Опції свайпу у списку чатів";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Потягнути до наступного непрочитаного каналу";
+"Settings.GalleryCamera" = "Камера в галереї";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "Кнопка \"%@\"";
+"Settings.SnapDeletionEffect" = "Ефекти видалення повідомлення";
