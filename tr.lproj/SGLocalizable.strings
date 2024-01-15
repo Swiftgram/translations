@@ -5,18 +5,25 @@
 "Settings.Tabs.ShowNames" = "Sekme İsimlerini Göster";
 
 "Settings.Folders.BottomTab" = "Alttaki Klasörler";
+"Settings.Folders.BottomTabStyle" = "Alt klasör stili";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Son klasörü aç";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram, yeniden başlatma veya hesap değiştirme sonrasında son kullanılan klasörü açacak";
+"Settings.Folders.RememberLast.Notice" = "Swiftgram, yeniden başlatıldıktan ya da hesap değişiminden sonra son kullanılan klasörü açacaktır";
 
 "Settings.Stories.Hide" = "Hikayeleri Gizle";
 "Settings.Stories.WarnBeforeView" = "Görüntülemeden önce sor";
-"Settings.Stories.DisableSwipeToRecord" = "Kayıt için kaydırmayı devre dışı bırak";
+"Settings.Stories.DisableSwipeToRecord" = "Kaydetmek için kaydırmayı devre dışı bırak";
 
 "Settings.Translation.QuickTranslateButton" = "Hızlı Çeviri butonu";
 
 "Stories.Warning.Author" = "Yazar";
 "Stories.Warning.ViewStory" = "Hikayeyi Görüntüle?";
-/* Yazar, hikayelerini görüntülediğinizi görebilecek */
+/* Author will be able to see that you viewed their Story */
 "Stories.Warning.Notice" = "%@, hikayesini görüntülediğinizi GÖREBİLECEK.";
 "Stories.Warning.NoticeStealth" = "%@, hikayesini görüntülediğinizi göremeyecek.";
 
@@ -29,14 +36,14 @@
 
 "Settings.CustomColors.Header" = "HESAP RENKLERİ";
 "Settings.CustomColors.Saturation" = "DOYUM";
-/* Yüzde işaretini %% ile kaçın */
+/* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Hesap renklerini devre dışı bırakmak için doyumu 0%%'a ayarlayın";
 
-"Settings.UploadsBoost" = "Yüklemeleri Hızlandır";
-"Settings.DownloadsBoost" = "İndirmeleri Hızlandır";
-"Settings.DownloadsBoost.none" = "Devre Dışı";
+"Settings.UploadsBoost" = "Karşıya yüklemeleri hızlandır";
+"Settings.DownloadsBoost" = "İndirmeleri hızlandır";
+"Settings.DownloadsBoost.none" = "Devre dışı";
 "Settings.DownloadsBoost.medium" = "Orta";
-"Settings.DownloadsBoost.maximum" = "Maksimum";
+"Settings.DownloadsBoost.maximum" = "En fazla";
 
 "Settings.ShowProfileID" = "Profil ID'sini Göster";
 "Settings.SendWithReturnKey" = "\"enter\" tuşu ile gönder";
@@ -48,16 +55,30 @@
 "ProxySettings.UseSystemDNS" = "Sistem DNS'sini kullan";
 "ProxySettings.UseSystemDNS.Notice" = "Google DNS'ye erişiminiz yoksa, zaman aşımını aşmak için sistem DNS'sini kullanın";
 
-/* Markdown asterisklerini koruyun! Örnek: Telegram Premium'a **ihtiyacınız yok**! */
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "%@ **gerekmez**!";
-"Common.RestartRequired" = "Yeniden başlatma gerekiyor";
+"Common.RestartRequired" = "Yeniden başlatma gerekli";
 "Common.RestartNow" = "Şimdi Yeniden Başlat";
 "Common.OpenTelegram" = "Telegram'ı Aç";
 
 "Message.HoldToShowOrReport" = "Göstermek veya Bildirmek için Basılı Tutun.";
 
 "Auth.AccountBackupReminder" = "Yedek erişim yönteminiz olduğundan emin olun. Kilitlenmeden kaçınmak için bir SIM kartı saklayın veya ek bir oturum açın.";
-"Auth.UnofficialAppCodeTitle" = "Kodu yalnızca resmi uygulama ile alabilirsiniz";
+"Auth.UnofficialAppCodeTitle" = "Kodu yalnızca resmi uygulamadan edinebilirsiniz";
 
 "Settings.SmallReactions" = "Küçük tepkiler";
+
 "ContextMenu.SaveToCloud" = "Buluta Kaydet";
+"ContextMenu.SelectFromUser" = "Yazardan Seç";
+
+"Settings.ContextMenu" = "BAĞLAM MENÜSÜ";
+"Settings.ContextMenu.Notice" = "Devre dışı bırakılmış girişler \"Swiftgram\" alt menüsünde mevcut olacaktır.";
+
+
+"Settings.ChatSwipeOptions" = "Sohbet listesi kaydırma seçenekleri";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Sonraki okunmamış kanal için çekin";
+"Settings.GalleryCamera" = "Galeride kamera";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "\"%@\" butonu";
+"Settings.SnapDeletionEffect" = "Mesaj silme efektleri";
