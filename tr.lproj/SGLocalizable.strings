@@ -2,9 +2,9 @@
 
 "Settings.Tabs.Header" = "SEKMELER";
 "Settings.Tabs.ShowContacts" = "Kişiler Sekmesini Göster";
-"Settings.Tabs.ShowNames" = "Sekme İsimlerini Göster";
+"Settings.Tabs.ShowNames" = "Sekme isimlerini göster";
 
-"Settings.Folders.BottomTab" = "Alttaki Klasörler";
+"Settings.Folders.BottomTab" = "Altta klasörler";
 "Settings.Folders.BottomTabStyle" = "Alt klasör stili";
 
 /* Do not translate */
@@ -24,7 +24,7 @@
 "Stories.Warning.Author" = "Yazar";
 "Stories.Warning.ViewStory" = "Hikayeyi Görüntüle?";
 /* Author will be able to see that you viewed their Story */
-"Stories.Warning.Notice" = "%@, hikayesini görüntülediğinizi GÖREBİLECEK.";
+"Stories.Warning.Notice" = "%@, Hikayesini görüntülediğinizi GÖREBİLECEK.";
 "Stories.Warning.NoticeStealth" = "%@, hikayesini görüntülediğinizi göremeyecek.";
 
 "Settings.Photo.Quality.Notice" = "Gönderilen fotoğrafların ve foto-hikayelerin kalitesi";
