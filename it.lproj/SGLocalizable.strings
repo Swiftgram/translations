@@ -5,6 +5,13 @@
 "Settings.Tabs.ShowNames" = "Mostra nomi tab";
 
 "Settings.Folders.BottomTab" = "Cartelle in basso";
+"Settings.Folders.BottomTabStyle" = "Stile cartelle in basso";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Apri l'ultima cartella";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram aprirà l'ultima cartella utilizzata dopo il riavvio o il cambio account";
 
@@ -12,7 +19,7 @@
 "Settings.Stories.WarnBeforeView" = "Chiedi prima di visualizzare";
 "Settings.Stories.DisableSwipeToRecord" = "Disabilita lo scorrimento per registrare";
 
-"Settings.Translation.QuickTranslateButton" = "Bottone di traduzione rapida";
+"Settings.Translation.QuickTranslateButton" = "Pulsante traduzione rapida";
 
 "Stories.Warning.Author" = "Autore";
 "Stories.Warning.ViewStory" = "Visualizzare la storia?";
@@ -66,3 +73,12 @@
 
 "Settings.ContextMenu" = "MENU CONTESTUALE";
 "Settings.ContextMenu.Notice" = "Le voci disabilitate saranno disponibili nel sottomenu \"Swiftgram\".";
+
+
+"Settings.ChatSwipeOptions" = "Opzioni scorrimento nella lista delle chat";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Tira per il prossimo canale non letto";
+"Settings.GalleryCamera" = "Fotocamera nella galleria";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "Pulsante \"%@\"";
+"Settings.SnapDeletionEffect" = "Effetti eliminazione messaggi";
