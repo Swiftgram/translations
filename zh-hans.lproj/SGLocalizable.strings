@@ -5,7 +5,7 @@
 "Settings.Tabs.ShowNames" = "显示标签名称";
 
 "Settings.Folders.BottomTab" = "底部分组";
-"Settings.Folders.BottomTabStyle" = "底部文件夹样式";
+"Settings.Folders.BottomTabStyle" = "底部分组样式";
 
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
@@ -78,7 +78,7 @@
 "Settings.ChatSwipeOptions" = "聊天列表滑动选项";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "上滑到下一未读频道";
-"Settings.GalleryCamera" = "相机在相册";
+"Settings.GalleryCamera" = "图库中的相机";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" 按钮";
-"Settings.SnapDeletionEffect" = "消息删除特效";
+"Settings.SnapDeletionEffect" = "删除消息的特效";
