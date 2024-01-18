@@ -5,6 +5,13 @@
 "Settings.Tabs.ShowNames" = "Имена вкладок";
 
 "Settings.Folders.BottomTab" = "Папки снизу";
+"Settings.Folders.BottomTabStyle" = "Стиль папок внизу";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Открывать последнюю папку";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram откроет последнюю использованную папку после перезапуска или переключения учетной записи";
 
@@ -67,8 +74,11 @@
 "Settings.ContextMenu" = "КОНТЕКСТНОЕ МЕНЮ";
 "Settings.ContextMenu.Notice" = "Выключенные пункты будут доступны в подменю «Swiftgram».";
 
-"Settings.DisableChatSwipeOptions" = "Отключить опции чатов при свайпе";
-"Settings.DisableScrollToNextChannel" = "Выключить свайп в следующий канал";
-"Settings.DisableGalleryCamera" = "Отключить камеру в галерее";
-"Settings.DisableSendAsButton" = "Отключить кнопку \"Отправить Как...\"";
-"Settings.DisableSnapDeletionEffect" = "Отключить эффект удаления сообщений";
+
+"Settings.ChatSwipeOptions" = "Опции чатов при свайпе";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Потянуть для перехода в канал";
+"Settings.GalleryCamera" = "Камера в галерее";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "Кнопка \"%@\"";
+"Settings.SnapDeletionEffect" = "Эффекты удаления сообщений";
