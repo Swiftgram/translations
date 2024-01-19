@@ -82,3 +82,6 @@
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" butonu";
 "Settings.SnapDeletionEffect" = "Mesaj silme efektleri";
+
+"Settings.Stickers.Size" = "BOYUT";
+"Settings.Stickers.Timestamp" = "Zaman Damgasını Göster";
