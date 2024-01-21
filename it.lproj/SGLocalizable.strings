@@ -82,3 +82,6 @@
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "Pulsante \"%@\"";
 "Settings.SnapDeletionEffect" = "Effetti eliminazione messaggi";
+
+"Settings.Stickers.Size" = "DIMENSIONE";
+"Settings.Stickers.Timestamp" = "Mostra timestamp";
