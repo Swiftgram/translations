@@ -82,3 +82,6 @@
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" 按钮";
 "Settings.SnapDeletionEffect" = "删除消息的特效";
+
+"Settings.Stickers.Size" = "尺寸";
+"Settings.Stickers.Timestamp" = "显示时间";
