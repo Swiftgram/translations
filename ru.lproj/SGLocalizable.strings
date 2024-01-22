@@ -82,3 +82,6 @@
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "Кнопка \"%@\"";
 "Settings.SnapDeletionEffect" = "Эффекты удаления сообщений";
+
+"Settings.Stickers.Size" = "РАЗМЕР";
+"Settings.Stickers.Timestamp" = "Показывать время";
