@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "Restart required";
 "Common.RestartNow" = "Restart Now";
 "Common.OpenTelegram" = "Open Telegram";
+"Common.UseTelegramForPremium" = "Please note that to get Telegram Premium, you must use the official Telegram app. Once you have obtained Telegram Premium, all its features will become available in Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Hold to Show or Report.";
 
