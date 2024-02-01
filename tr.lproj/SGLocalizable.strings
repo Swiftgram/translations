@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "Yeniden başlatma gerekli";
 "Common.RestartNow" = "Şimdi Yeniden Başlat";
 "Common.OpenTelegram" = "Telegram'ı Aç";
+"Common.UseTelegramForPremium" = "Unutmayın ki Telegram Premium'u edinmek için resmî Telegram uygulamasını kullanmanız gerekmektedir. Telegram Premium sahibi olduktan sonra onun tüm özellikleri Swiftgram'da mevcut olacaktır.";
 
 "Message.HoldToShowOrReport" = "Göstermek veya Bildirmek için Basılı Tutun.";
 
