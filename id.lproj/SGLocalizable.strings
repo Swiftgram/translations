@@ -5,58 +5,84 @@
 "Settings.Tabs.ShowNames" = "Tampilkan Nama Tab";
 
 "Settings.Folders.BottomTab" = "Folder di bawah";
+"Settings.Folders.BottomTabStyle" = "Gaya folder bawah";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Buka folder terakhir";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram akan membuka folder yang terakhir digunakan setelah restart atau pergantian akun";
 
 "Settings.Stories.Hide" = "Sembunyikan Cerita";
 "Settings.Stories.WarnBeforeView" = "Tanyakan sebelum melihat";
-"Settings.Stories.DisableSwipeToRecord" = "Nonaktifkan gesekan untuk merekam";
+"Settings.Stories.DisableSwipeToRecord" = "Nonaktifkan geser untuk merekam";
 
 "Settings.Translation.QuickTranslateButton" = "Bottone di traduzione rapida";
 
 "Stories.Warning.Author" = "Penulis";
 "Stories.Warning.ViewStory" = "Lihat Cerita?";
-/* Penulis akan tahu bahwa Anda telah melihat Cerita mereka */
+/* Author will be able to see that you viewed their Story */
 "Stories.Warning.Notice" = "%@ AKAN TAHU bahwa Anda telah melihat Cerita mereka.";
 "Stories.Warning.NoticeStealth" = "%@ tidak akan tahu bahwa Anda telah melihat Cerita mereka.";
 
 "Settings.Photo.Quality.Notice" = "Kualitas foto keluar dan cerita foto";
-"Settings.Photo.SendLarge" = "Kirim foto besar";
+"Settings.Photo.SendLarge" = "Kirim foto berukuran besar";
 "Settings.Photo.SendLarge.Notice" = "Tingkatkan batas sisi pada gambar terkompresi menjadi 2560px";
 
 "Settings.VideoNotes.Header" = "VIDEO BULAT";
 "Settings.VideoNotes.StartWithRearCam" = "Mulai dengan kamera belakang";
 
 "Settings.CustomColors.Header" = "WARNA AKUN";
-"Settings.CustomColors.Saturation" = "KEJENUHAN";
-/* Pastikan untuk mengeksploitasi tanda persentase % */
-"Settings.CustomColors.Saturation.Notice" = "Atur kejenuhan ke 0%% untuk menonaktifkan warna akun";
+"Settings.CustomColors.Saturation" = "SATURASI";
+/* Make sure to escape Percentage sign % */
+"Settings.CustomColors.Saturation.Notice" = "Setel saturasi menjadi 0%% untuk menonaktifkan warna akun";
 
 "Settings.UploadsBoost" = "Peningkatan Unggahan";
 "Settings.DownloadsBoost" = "Peningkatan Unduhan";
-"Settings.DownloadsBoost.none" = "Dinonaktifkan";
+"Settings.DownloadsBoost.none" = "Nonaktif";
 "Settings.DownloadsBoost.medium" = "Sedang";
 "Settings.DownloadsBoost.maximum" = "Maksimal";
 
 "Settings.ShowProfileID" = "Tampilkan ID Profil";
 "Settings.SendWithReturnKey" = "Kirim dengan kunci \"kembali\"";
-"Settings.HidePhoneInSettingsUI" = "Sembunyikan telepon di pengaturan";
+"Settings.HidePhoneInSettingsUI" = "Sembunyikan nomor telepon di pengaturan";
 "Settings.HidePhoneInSettingsUI.Notice" = "Nomor Anda akan disembunyikan hanya di UI Pengaturan. Kunjungi Pengaturan Privasi untuk menyembunyikannya dari orang lain.";
 
-"PasscodeSettings.AutoLock.InFiveSeconds" = "Jika tidak ada selama 5 detik";
+"PasscodeSettings.AutoLock.InFiveSeconds" = "Jika menjauh selama 5 detik";
 
 "ProxySettings.UseSystemDNS" = "Gunakan DNS sistem";
 "ProxySettings.UseSystemDNS.Notice" = "Gunakan DNS sistem untuk menghindari timeout jika Anda tidak memiliki akses ke Google DNS";
 
-/* Pertahankan tanda bintang markdown! Contoh: Anda **tidak** memerlukan Telegram Premium! */
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "Anda **tidak memerlukan** %@!";
 "Common.RestartRequired" = "Diperlukan restart";
 "Common.RestartNow" = "Restart Sekarang";
 "Common.OpenTelegram" = "Buka Telegram";
+"Common.UseTelegramForPremium" = "Harap dicatat bahwa untuk mendapatkan Telegram Premium, Anda harus menggunakan aplikasi Telegram resmi. Setelah Anda mendapatkan Telegram Premium, semua fiturnya akan tersedia di Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Tahan untuk Menampilkan atau Melaporkan.";
 
 "Auth.AccountBackupReminder" = "Pastikan Anda memiliki metode akses cadangan. Simpan SIM untuk SMS atau sesi tambahan yang masuk untuk menghindari terkunci.";
 "Auth.UnofficialAppCodeTitle" = "Anda hanya dapat mendapatkan kode dengan aplikasi resmi";
 
-"Settings.SmallReactions" = "Reaksi Kecil";
+"Settings.SmallReactions" = "Reaksi kecil";
+
+"ContextMenu.SaveToCloud" = "Simpan ke Cloud";
+"ContextMenu.SelectFromUser" = "Pilih dari Penulis";
+
+"Settings.ContextMenu" = "MENU KONTEKS";
+"Settings.ContextMenu.Notice" = "Entri yang dinonaktifkan akan tersedia di sub-menu \"Swiftgram\".";
+
+
+"Settings.ChatSwipeOptions" = "Opsi gesek daftar obrolan";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Tarik untuk obrolan berikutnya";
+"Settings.GalleryCamera" = "Kamera di galeri";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "Tombol \"%@\"";
+"Settings.SnapDeletionEffect" = "Efek penghapusan pesan";
+
+"Settings.Stickers.Size" = "UKURAN";
+"Settings.Stickers.Timestamp" = "Tampilkan Timestamp";

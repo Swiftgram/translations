@@ -5,6 +5,13 @@
 "Settings.Tabs.ShowNames" = "顯示頁籤名稱";
 
 "Settings.Folders.BottomTab" = "底部頁籤";
+"Settings.Folders.BottomTabStyle" = "底部對話盒樣式";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重啟或帳號切換後開啟最後瀏覽的對話盒";
 
@@ -53,6 +60,7 @@
 "Common.RestartRequired" = "需要重新啟動";
 "Common.RestartNow" = "立即重啟";
 "Common.OpenTelegram" = "開啟 Telegram";
+"Common.UseTelegramForPremium" = "要獲得 Telegram Premium，您必須使用官方 Telegram App。一旦您擁有 Telegram Premium，其所有功能都將在 Swiftgram 中可用。";
 
 "Message.HoldToShowOrReport" = "按住以顯示訊息或報告";
 
@@ -65,4 +73,16 @@
 "ContextMenu.SelectFromUser" = "選取此人的所有訊息";
 
 "Settings.ContextMenu" = "內容選單";
-"Settings.ContextMenu.Notice" = "禁用的選項可在 Swiftgram 選單中使用";
+"Settings.ContextMenu.Notice" = "停用的選項可在 Swiftgram 選單中使用";
+
+
+"Settings.ChatSwipeOptions" = "對話列表滑動選項";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "頻道瀑布流";
+"Settings.GalleryCamera" = "相簿圖庫";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "\"%@\" 按鈕";
+"Settings.SnapDeletionEffect" = "訊息刪除效果";
+
+"Settings.Stickers.Size" = "尺寸";
+"Settings.Stickers.Timestamp" = "顯示訊息時間";
