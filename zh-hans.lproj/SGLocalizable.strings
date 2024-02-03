@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "需要重启";
 "Common.RestartNow" = "立即重启";
 "Common.OpenTelegram" = "打开 Telegram";
+"Common.UseTelegramForPremium" = "请注意，您必须使用官方的 Telegram 客户端才可购买 Telegram Premium，一旦您获得 Telegram Premium，其所有功能也将在 Swiftgram 中生效。";
 
 "Message.HoldToShowOrReport" = "长按显示或举报";
 
