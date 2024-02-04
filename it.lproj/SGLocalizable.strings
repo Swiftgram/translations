@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "Riavvio richiesto";
 "Common.RestartNow" = "Riavvia Adesso";
 "Common.OpenTelegram" = "Apri Telegram";
+"Common.UseTelegramForPremium" = "Si prega di notare che per ottenere Telegram Premium, è necessario utilizzare l'app ufficiale Telegram. Una volta ottenuto Telegram Premium, tutte le sue funzionalità saranno disponibili su Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Tieni premuto per mostrare o segnalare.";
 
