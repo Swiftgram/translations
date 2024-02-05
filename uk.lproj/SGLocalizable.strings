@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "Потрібен перезапуск";
 "Common.RestartNow" = "Перезавантажити";
 "Common.OpenTelegram" = "Відкрити Telegram";
+"Common.UseTelegramForPremium" = "Зверніть увагу, що для отримання Telegram Premium ви маєте використовувати офіційний додаток Telegram. Після отримання Telegram Premium, усі переваги стануть доступними у Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Затисніть, щоб переглянути або поскаржитись.";
 
@@ -82,3 +83,6 @@
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "Кнопка \"%@\"";
 "Settings.SnapDeletionEffect" = "Ефекти видалення повідомлення";
+
+"Settings.Stickers.Size" = "РОЗМІР";
+"Settings.Stickers.Timestamp" = "Показувати час";
