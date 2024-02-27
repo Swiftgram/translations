@@ -86,3 +86,5 @@
 
 "Settings.Stickers.Size" = "SIZE";
 "Settings.Stickers.Timestamp" = "Show Timestamp";
+
+"Settings.RecordingButton" = "Voice recording button";
