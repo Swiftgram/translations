@@ -17,7 +17,7 @@
 
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
-"Settings.Stories.DisableSwipeToRecord" = "停用滑動錄製功能";
+"Settings.Stories.DisableSwipeToRecord" = "停用滑動錄製";
 
 "Settings.Translation.QuickTranslateButton" = "快速翻譯按鈕";
 
@@ -85,6 +85,6 @@
 "Settings.SnapDeletionEffect" = "訊息刪除效果";
 
 "Settings.Stickers.Size" = "尺寸";
-"Settings.Stickers.Timestamp" = "顯示訊息時間";
+"Settings.Stickers.Timestamp" = "顯示時間戳";
 
 "Settings.RecordingButton" = "錄音按鈕";
