@@ -60,6 +60,7 @@
 "Common.RestartRequired" = "Необходим перезапуск";
 "Common.RestartNow" = "Перезапустить Сейчас";
 "Common.OpenTelegram" = "Открыть Telegram";
+"Common.UseTelegramForPremium" = "Обратите внимание, что для получения Telegram Premium, вы должны использовать официальное приложение Telegram. Как только вы получите Telegram Premium, все его функции станут доступны в Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Удерживайте для Показа или Жалобы.";
 
@@ -85,3 +86,5 @@
 
 "Settings.Stickers.Size" = "РАЗМЕР";
 "Settings.Stickers.Timestamp" = "Показывать время";
+
+"Settings.RecordingButton" = "Кнопка записи голоса";
