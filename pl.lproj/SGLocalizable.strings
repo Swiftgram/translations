@@ -5,22 +5,29 @@
 "Settings.Tabs.ShowNames" = "Pokaż nazwy zakładek";
 
 "Settings.Folders.BottomTab" = "Foldery na dole";
+"Settings.Folders.BottomTabStyle" = "Styl folderów na dole";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Otwórz ostatni folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram otworzy ostatnio używany folder po ponownym uruchomieniu lub zmianie konta";
 
-"Settings.Stories.Hide" = "Ukryj Historie";
+"Settings.Stories.Hide" = "Ukryj relacje";
 "Settings.Stories.WarnBeforeView" = "Pytaj przed wyświetleniem";
-"Settings.Stories.DisableSwipeToRecord" = "Wyłącz przesuwanie do nagrywania";
+"Settings.Stories.DisableSwipeToRecord" = "Wyłącz przeciągnij, aby nagrać";
 
 "Settings.Translation.QuickTranslateButton" = "Przycisk Szybkie tłumaczenie";
 
 "Stories.Warning.Author" = "Autor";
-"Stories.Warning.ViewStory" = "Zobaczyć Historię?";
-/* Autor będzie wiedział, że obejrzałeś ich Historię */
-"Stories.Warning.Notice" = "%@ BĘDZIE WIEDZIAŁ, że obejrzałeś ich Historię.";
-"Stories.Warning.NoticeStealth" = "%@ nie będzie wiedział, że obejrzałeś ich Historię.";
+"Stories.Warning.ViewStory" = "Zobaczyć relację?";
+/* Autor będzie wiedział, że obejrzano jego relację */
+"Stories.Warning.Notice" = "%@ BĘDZIE WIEDZIAŁ, że obejrzano jego relację.";
+"Stories.Warning.NoticeStealth" = "%@ nie będzie wiedział, że obejrzano jego relację.";
 
-"Settings.Photo.Quality.Notice" = "Jakość wychodzących zdjęć i fotorelacji";
+"Settings.Photo.Quality.Notice" = "Jakość wysyłanych zdjęć i fotorelacji";
 "Settings.Photo.SendLarge" = "Wyślij duże zdjęcia";
 "Settings.Photo.SendLarge.Notice" = "Zwiększ limit rozmiaru skompresowanych obrazów do 2560px";
 
@@ -51,13 +58,33 @@
 /* Zachowaj znaczniki Markdown! Przykład: Nie **potrzebujesz** Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "Nie **potrzebujesz** %@!";
 "Common.RestartRequired" = "Wymagany restart";
-"Common.RestartNow" = "Uruchom ponownie teraz";
+"Common.RestartNow" = "Uruchom teraz ponownie";
 "Common.OpenTelegram" = "Otwórz Telegram";
+"Common.UseTelegramForPremium" = "Pamiętaj, że aby otrzymać Telegram Premium, musisz skorzystać z oficjalnej aplikacji Telegram. Po uzyskaniu Telegram Premium wszystkie jego funkcje staną się dostępne w Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Przytrzymaj, aby Pokazać lub Zgłosić.";
 
-"Auth.AccountBackupReminder" = "Upewnij się, że masz metodę zapasowego dostępu. Zachowaj SIM do SMS lub dodatkową sesję, aby uniknąć blokady.";
+"Auth.AccountBackupReminder" = "Upewnij się, że masz zapasową metodę dostępu. Zachowaj SIM do SMS-ów lub zalogowaną dodatkową sesję, aby uniknąć zablokowania.";
 "Auth.UnofficialAppCodeTitle" = "Kod można uzyskać tylko za pomocą oficjalnej aplikacji";
 
 "Settings.SmallReactions" = "Małe reakcje";
+
 "ContextMenu.SaveToCloud" = "Zapisz w chmurze";
+"ContextMenu.SelectFromUser" = "Zaznacz od autora";
+
+"Settings.ContextMenu" = "MENU KONTEKSTOWE";
+"Settings.ContextMenu.Notice" = "Wyłączone wpisy będą dostępne w podmenu „Swiftgram”.";
+
+
+"Settings.ChatSwipeOptions" = "Opcje przesuwania listy czatów";
+/* Przeredaguj jak ten ciąg w oficjalnej aplikacji https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Pociągnij ➝ następny kanał";
+"Settings.GalleryCamera" = "Aparat w galerii";
+/* Przycisk "Wyślij wiadomość jako..." */
+"Settings.SendAsButton" = "Przycisk „%@”";
+"Settings.SnapDeletionEffect" = "Efekty usuwania wiadomości";
+
+"Settings.Stickers.Size" = "WIELKOŚĆ";
+"Settings.Stickers.Timestamp" = "Pokaż znak czasu";
+
+"Settings.RecordingButton" = "Przycisk głośności nagrywania";
