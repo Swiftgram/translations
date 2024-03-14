@@ -1,11 +1,18 @@
-"Settings.ContentSettings" = "コンテンツ設定";
+"Settings.ContentSettings" = "コンテンツの設定";
 
 "Settings.Tabs.Header" = "タブ";
-"Settings.Tabs.ShowContacts" = "連絡先タブを表示";
-"Settings.Tabs.ShowNames" = "タブ名を表示";
+"Settings.Tabs.ShowContacts" = "連絡先のタブを表示";
+"Settings.Tabs.ShowNames" = "タブの名前を隠す";
 
-"Settings.Folders.BottomTab" = "下部のフォルダ";
-"Settings.Folders.RememberLast" = "最後のフォルダを開く";
+"Settings.Folders.BottomTab" = "フォルダーを下に表示";
+"Settings.Folders.BottomTabStyle" = "チャットフォルダーのスタイル";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
+"Settings.Folders.RememberLast" = "最後に開いたフォルダを開く";
 "Settings.Folders.RememberLast.Notice" = "Swiftgramは再起動またはアカウント切替後に最後に使用したフォルダを開きます";
 
 "Settings.Stories.Hide" = "ストーリーを隠す";
@@ -14,9 +21,9 @@
 
 "Settings.Translation.QuickTranslateButton" = "クイック翻訳ボタン";
 
-"Stories.Warning.Author" = "著者";
-"Stories.Warning.ViewStory" = "ストーリーを見ますか？";
-/* 著者はあなたがそのストーリーを見たことを確認できます */
+"Stories.Warning.Author" = "投稿者";
+"Stories.Warning.ViewStory" = "ストーリーを表示？";
+/* Author will be able to see that you viewed their Story */
 "Stories.Warning.Notice" = "%@はあなたがそのストーリーを見たことを確認できます。";
 "Stories.Warning.NoticeStealth" = "%@はあなたがそのストーリーを見たことを確認できません。";
 
@@ -29,17 +36,17 @@
 
 "Settings.CustomColors.Header" = "アカウントの色";
 "Settings.CustomColors.Saturation" = "彩度";
-/* パーセンテージ記号 % をエスケープすること */
+/* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "彩度を0%%に設定してアカウントの色を無効にする";
 
-"Settings.UploadsBoost" = "アップロードのブースト";
-"Settings.DownloadsBoost" = "ダウンロードのブースト";
+"Settings.UploadsBoost" = "アップロードブースト";
+"Settings.DownloadsBoost" = "ダウンロードブースト";
 "Settings.DownloadsBoost.none" = "無効";
-"Settings.DownloadsBoost.medium" = "中";
+"Settings.DownloadsBoost.medium" = "中程度";
 "Settings.DownloadsBoost.maximum" = "最大";
 
-"Settings.ShowProfileID" = "プロファイルIDを表示";
-"Settings.SendWithReturnKey" = "「リターン」キーで送信";
+"Settings.ShowProfileID" = "プロフィールIDを表示";
+"Settings.SendWithReturnKey" = "\"return\" キーで送信";
 "Settings.HidePhoneInSettingsUI" = "設定で電話番号を隠す";
 "Settings.HidePhoneInSettingsUI.Notice" = "あなたの番号は設定UIでのみ隠されます。他の人から隠すにはプライバシー設定に移動してください。";
 
@@ -48,15 +55,37 @@
 "ProxySettings.UseSystemDNS" = "システムDNSを使用";
 "ProxySettings.UseSystemDNS.Notice" = "Google DNSにアクセスできない場合はシステムDNSを使用してタイムアウトを回避";
 
-/* マークダウンのアスタリスクを保持する！例：Telegram Premiumは**必要ありません**！ */
-"Common.NoTelegramPremiumNeeded" = "%@は**必要ありません**！";
-"Common.RestartRequired" = "再起動が必要";
-"Common.RestartNow" = "今すぐ再起動";
-"Common.OpenTelegram" = "Telegramを開く";
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
+"Common.NoTelegramPremiumNeeded" = "** %@は必要ありません**！";
+"Common.RestartRequired" = "再起動が必要です";
+"Common.RestartNow" = "今すぐ再実行";
+"Common.OpenTelegram" = "Telegram を開く";
+"Common.UseTelegramForPremium" = "Telegram Premiumを登録するには、公式のTelegramアプリが必要です。
+登録すると、Swiftgram等の非公式アプリ含め、Telegram Premiumをサポートする全てのアプリでプレミアムメソッドを利用できます。";
 
 "Message.HoldToShowOrReport" = "表示または報告するために押し続ける。";
 
 "Auth.AccountBackupReminder" = "バックアップアクセス方法があることを確認してください。SMS用のSIMを保持するか、追加のセッションにログインしてロックアウトを避けてください。";
-"Auth.UnofficialAppCodeTitle" = "コードは公式アプリでのみ取得できます";
+"Auth.UnofficialAppCodeTitle" = "テレグラムの公式アプリでのみログインコードを取得できます";
 
-"Settings.SmallReactions" = "小さなリアクション";
+"Settings.SmallReactions" = "小さいリアクション";
+
+"ContextMenu.SaveToCloud" = "メッセージを保存";
+"ContextMenu.SelectFromUser" = "全て選択";
+
+"Settings.ContextMenu" = "コンテキスト メニュー";
+"Settings.ContextMenu.Notice" = "無効化されたエントリは、「Swiftgram」サブメニューから利用できます。";
+
+
+"Settings.ChatSwipeOptions" = "チャットリストのスワイプ設定";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "次の未読チャンネルまでプルする";
+"Settings.GalleryCamera" = "ギャラリーのカメラを隠す";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "\"%@\" ボタン";
+"Settings.SnapDeletionEffect" = "メッセージ削除のエフェクト";
+
+"Settings.Stickers.Size" = "サイズ";
+"Settings.Stickers.Timestamp" = "タイムスタンプを表示";
+
+"Settings.RecordingButton" = "音声録音ボタン";
