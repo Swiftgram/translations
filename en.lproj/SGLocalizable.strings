@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "Content Settings";
 
 "Settings.Tabs.Header" = "TABS";
+"Settings.Tabs.HideTabBar" = "Hide Tab bar";
 "Settings.Tabs.ShowContacts" = "Show Contacts Tab";
 "Settings.Tabs.ShowNames" = "Show tab names";
 
