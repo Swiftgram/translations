@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "コンテンツの設定";
 
 "Settings.Tabs.Header" = "タブ";
+"Settings.Tabs.HideTabBar" = "タブバーを非表示にする";
 "Settings.Tabs.ShowContacts" = "連絡先のタブを表示";
 "Settings.Tabs.ShowNames" = "タブの名前を隠す";
 
