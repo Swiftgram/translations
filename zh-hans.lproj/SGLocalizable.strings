@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "敏感内容设置";
 
 "Settings.Tabs.Header" = "标签";
+"Settings.Tabs.HideTabBar" = "隐藏底部导航栏";
 "Settings.Tabs.ShowContacts" = "显示联系人标签";
 "Settings.Tabs.ShowNames" = "显示标签名称";
 

@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "敏感內容設定";
 
 "Settings.Tabs.Header" = "頁籤";
+"Settings.Tabs.HideTabBar" = "隱藏導航列";
 "Settings.Tabs.ShowContacts" = "顯示聯絡人頁籤";
 "Settings.Tabs.ShowNames" = "顯示頁籤名稱";
 
