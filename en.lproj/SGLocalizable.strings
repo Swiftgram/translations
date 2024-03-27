@@ -93,5 +93,5 @@
 
 "Settings.RecordingButton" = "Voice recording button";
 
-/* Date when chat was created. For example: Created 24 May 2016 */
-"Chat.Created" = "Created";
+/* Date when chat was created. "Created: 24 May 2016" */
+"Chat.Created" = "created: %@";
