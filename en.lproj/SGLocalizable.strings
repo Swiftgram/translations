@@ -97,4 +97,4 @@
 "Chat.Created" = "created: %@";
 
 /* Date when user joined the chat. "Joined the Swiftgram Chat" */
-"Chat.JoinedDateTitle" = "Joined the %@";
+"Chat.JoinedDateTitle" = "Joined %@";
