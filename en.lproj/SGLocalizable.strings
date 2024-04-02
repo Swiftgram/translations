@@ -3,22 +3,22 @@
 "Settings.Tabs.Header" = "TABS";
 "Settings.Tabs.HideTabBar" = "Hide Tab bar";
 "Settings.Tabs.ShowContacts" = "Show Contacts Tab";
-"Settings.Tabs.ShowNames" = "Show tab names";
+"Settings.Tabs.ShowNames" = "Show Tab Names";
 
-"Settings.Folders.BottomTab" = "Folders at bottom";
-"Settings.Folders.BottomTabStyle" = "Bottom folders style";
+"Settings.Folders.BottomTab" = "Folders at Bottom";
+"Settings.Folders.BottomTabStyle" = "Bottom Folders Style";
 
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
 
-"Settings.Folders.RememberLast" = "Open last folder";
-"Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder after restart or account switch";
+"Settings.Folders.RememberLast" = "Open Last Folder";
+"Settings.Folders.RememberLast.Notice" = "Open the last folder when you switch accounts or restart Swiftgram.";
 
 "Settings.Stories.Hide" = "Hide Stories";
-"Settings.Stories.WarnBeforeView" = "Ask before viewing";
-"Settings.Stories.DisableSwipeToRecord" = "Disable swipe to record";
+"Settings.Stories.WarnBeforeView" = "Ask Before Viewing";
+"Settings.Stories.DisableSwipeToRecord" = "Disable Swipe to Record";
 
 "Settings.Translation.QuickTranslateButton" = "Quick Translate button";
 
@@ -28,31 +28,31 @@
 "Stories.Warning.Notice" = "%@ WILL BE ABLE TO SEE that you viewed their Story.";
 "Stories.Warning.NoticeStealth" = "%@ will not be able to see that you viewed their Story.";
 
-"Settings.Photo.Quality.Notice" = "Quality of outgoing photos and photo-stories";
-"Settings.Photo.SendLarge" = "Send large photos";
-"Settings.Photo.SendLarge.Notice" = "Increase the side limit on compressed images to 2560px";
+"Settings.Photo.Quality.Notice" = "Quality of uploaded photos and stories.";
+"Settings.Photo.SendLarge" = "Send Large Photos";
+"Settings.Photo.SendLarge.Notice" = "Increase the side limit on compressed images to 2560px.";
 
 "Settings.VideoNotes.Header" = "ROUND VIDEOS";
-"Settings.VideoNotes.StartWithRearCam" = "Start with rear camera";
+"Settings.VideoNotes.StartWithRearCam" = "Start with Rear Camera";
 
 "Settings.CustomColors.Header" = "ACCOUNT COLORS";
 "Settings.CustomColors.Saturation" = "SATURATION";
 /* Make sure to escape Percentage sign % */
-"Settings.CustomColors.Saturation.Notice" = "Set saturation to 0%% to disable account colors";
+"Settings.CustomColors.Saturation.Notice" = "Set to 0%% to disable account colors.";
 
-"Settings.UploadsBoost" = "Uploads boost";
-"Settings.DownloadsBoost" = "Downloads boost";
+"Settings.UploadsBoost" = "Upload Boost";
+"Settings.DownloadsBoost" = "Download Boost";
 "Settings.DownloadsBoost.none" = "Disabled";
 "Settings.DownloadsBoost.medium" = "Medium";
 "Settings.DownloadsBoost.maximum" = "Maximum";
 
-"Settings.ShowProfileID" = "Show profile ID";
-"Settings.ShowDC" = "Show DataCenter";
-"Settings.ShowCreationDate" = "Show chat creation date";
-"Settings.ShowCreationDate.Notice" = "The creation date may be missing for some chats.";
-"Settings.SendWithReturnKey" = "Send with \"return\" key";
-"Settings.HidePhoneInSettingsUI" = "Hide phone in settings";
-"Settings.HidePhoneInSettingsUI.Notice" = "Your number will be hidden in Settings UI only. Go to Privacy settings to hide it from others.";
+"Settings.ShowProfileID" = "Show Profile ID";
+"Settings.ShowDC" = "Show Data Center";
+"Settings.ShowCreationDate" = "Show Chat Creation Date";
+"Settings.ShowCreationDate.Notice" = "The creation date may be unknown for some chats.";
+"Settings.SendWithReturnKey" = "Send with “return” Key";
+"Settings.HidePhoneInSettingsUI" = "Hide Phone in Settings";
+"Settings.HidePhoneInSettingsUI.Notice" = "This will only hide your phone number from the settings interface. To hide it from others, go to Privacy and Security.";
 
 "PasscodeSettings.AutoLock.InFiveSeconds" = "If away for 5 seconds";
 
@@ -71,27 +71,27 @@
 "Auth.AccountBackupReminder" = "Make sure you have a backup access method. Keep a SIM for SMS or an additional session logged in to avoid being locked out.";
 "Auth.UnofficialAppCodeTitle" = "You can get the code only with official app";
 
-"Settings.SmallReactions" = "Small reactions";
+"Settings.SmallReactions" = "Small Reactions";
 
 "ContextMenu.SaveToCloud" = "Save to Cloud";
 "ContextMenu.SelectFromUser" = "Select from Author";
 
 "Settings.ContextMenu" = "CONTEXT MENU";
-"Settings.ContextMenu.Notice" = "Disabled entries will be available in \"Swiftgram\" sub-menu.";
+"Settings.ContextMenu.Notice" = "Disabled entries will be available in the Swiftgram sub-menu.";
 
 
-"Settings.ChatSwipeOptions" = "Chatlist swipe options";
+"Settings.ChatSwipeOptions" = "Chat List Swipe Options";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
-"Settings.PullToNextChannel" = "Pull to next unread channel";
-"Settings.GalleryCamera" = "Camera in gallery";
+"Settings.PullToNextChannel" = "Pull to Next Unread Channel";
+"Settings.GalleryCamera" = "Camera in Gallery";
 /* "Send Message As..." button */
-"Settings.SendAsButton" = "\"%@\" button";
-"Settings.SnapDeletionEffect" = "Message deletion effects";
+"Settings.SendAsButton" = "\"%@\" Button";
+"Settings.SnapDeletionEffect" = "Message Deletion Effects";
 
 "Settings.Stickers.Size" = "SIZE";
 "Settings.Stickers.Timestamp" = "Show Timestamp";
 
-"Settings.RecordingButton" = "Voice recording button";
+"Settings.RecordingButton" = "Voice Recording Button";
 
 /* Date when chat was created. "Created: 24 May 2016" */
 "Chat.Created" = "created: %@";
