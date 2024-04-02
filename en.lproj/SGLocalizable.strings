@@ -94,7 +94,7 @@
 "Settings.RecordingButton" = "Voice recording button";
 
 /* Date when chat was created. "Created: 24 May 2016" */
-"Chat.Created" = "created: %@";
+"Chat.Created" = "Created: %@";
 
 /* Date when user joined the chat. "Joined the Swiftgram Chat" */
 "Chat.JoinedDateTitle" = "Joined the %@";
