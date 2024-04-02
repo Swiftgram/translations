@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "Настройки контента";
 
 "Settings.Tabs.Header" = "ВКЛАДКИ";
+"Settings.Tabs.HideTabBar" = "Скрыть панель вкладок";
 "Settings.Tabs.ShowContacts" = "Вкладка «Контакты»";
 "Settings.Tabs.ShowNames" = "Имена вкладок";
 
@@ -46,6 +47,9 @@
 "Settings.DownloadsBoost.maximum" = "Максимум";
 
 "Settings.ShowProfileID" = "ID профилей";
+"Settings.ShowDC" = "Показать DataCenter";
+"Settings.ShowCreationDate" = "Показать дату создания чата";
+"Settings.ShowCreationDate.Notice" = "В некоторых чатах может отсутствовать дата создания.";
 "Settings.SendWithReturnKey" = "Отправка кнопкой \"Ввод\"";
 "Settings.HidePhoneInSettingsUI" = "Скрыть номер";
 "Settings.HidePhoneInSettingsUI.Notice" = "Ваш номер будет скрыт только в интерфейсе настроек. Используйте настройки Конфиденциальности, чтобы скрыть его от других.";
@@ -88,3 +92,9 @@
 "Settings.Stickers.Timestamp" = "Показывать время";
 
 "Settings.RecordingButton" = "Кнопка записи голоса";
+
+/* Date when chat was created. "Created: 24 May 2016" */
+"Chat.Created" = "Создан: %@";
+
+/* Date when user joined the chat. "Joined the Swiftgram Chat" */
+"Chat.JoinedDateTitle" = "Присоединился к %@";
