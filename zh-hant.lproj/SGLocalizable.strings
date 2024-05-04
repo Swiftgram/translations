@@ -50,6 +50,10 @@
 "Settings.ShowDC" = "顯示資料中心 (DC)";
 "Settings.ShowCreationDate" = "顯示對話建立日期";
 "Settings.ShowCreationDate.Notice" = "某些對話可能會缺少建立日期";
+
+"Settings.ShowRegDate" = "顯示註冊日期";
+"Settings.ShowRegDate.Notice" = "大約註冊日期";
+
 "Settings.SendWithReturnKey" = "使用「換行」鍵傳送";
 "Settings.HidePhoneInSettingsUI" = "在設定頁中隱藏電話號碼";
 "Settings.HidePhoneInSettingsUI.Notice" = "您的電話在「設定頁」中不再顯示，可到「隱私與安全性」設定來對其他人隱藏。";
@@ -98,3 +102,5 @@
 
 /* Date when user joined the chat. "Joined Swiftgram Chat" */
 "Chat.JoinedDateTitle" = "已加入 %@";
+/* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
+"Chat.RegDate" = "註冊日期";
