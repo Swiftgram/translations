@@ -50,6 +50,10 @@
 "Settings.ShowDC" = "Show Data Center";
 "Settings.ShowCreationDate" = "Show Chat Creation Date";
 "Settings.ShowCreationDate.Notice" = "The creation date may be unknown for some chats.";
+
+"Settings.ShowRegDate" = "Show Registration Date";
+"Settings.ShowRegDate.Notice" = "The registration date is approximate.";
+
 "Settings.SendWithReturnKey" = "Send with \"return\" key";
 "Settings.HidePhoneInSettingsUI" = "Hide Phone in Settings";
 "Settings.HidePhoneInSettingsUI.Notice" = "This will only hide your phone number from the settings interface. To hide it from others, go to Privacy and Security.";
@@ -98,3 +102,5 @@
 
 /* Date when user joined the chat. "Joined Swiftgram Chat" */
 "Chat.JoinedDateTitle" = "Joined %@";
+/* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
+"Chat.RegDate" = "Registered";
