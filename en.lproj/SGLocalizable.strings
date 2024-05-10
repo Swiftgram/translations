@@ -16,6 +16,11 @@
 "Settings.Folders.RememberLast" = "Open Last Folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder when you restart the app or switch accounts.";
 
+"Settings.ChatList.Header" = "Chat List";
+"Settings.CompactChatList" = "Compact Chat List";
+
+"Settings.Profiles.Header" = "Profiles";
+
 "Settings.Stories.Hide" = "Hide Stories";
 "Settings.Stories.WarnBeforeView" = "Ask Before Viewing";
 "Settings.Stories.DisableSwipeToRecord" = "Disable Swipe to Record";
