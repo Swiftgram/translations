@@ -16,6 +16,7 @@
 "Settings.Folders.RememberLast" = "Open Last Folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder when you restart the app or switch accounts.";
 
+"Settings.Folders.CompactNames" = "Smaller spacing";
 "Settings.Folders.AllChatsTitle" = "\"All Chats\" title";
 "Settings.Folders.AllChatsTitle.short" = "Short";
 "Settings.Folders.AllChatsTitle.long" = "Long";
