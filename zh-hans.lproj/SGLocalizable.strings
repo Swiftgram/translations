@@ -9,12 +9,17 @@
 "Settings.Folders.BottomTabStyle" = "底部分组样式";
 
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.ios" = "iOS";
+"Settings.Folders.BottomTabStyle.ios" = "iOS样式";
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram样式";
 
 "Settings.Folders.RememberLast" = "打开上次分组";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或切换账户后打开最后使用的分组";
+
+"Settings.ChatList.Header" = "对话列表";
+"Settings.CompactChatList" = "紧凑型对话列表";
+
+"Settings.Profiles.Header" = "资料";
 
 "Settings.Stories.Hide" = "隐藏动态";
 "Settings.Stories.WarnBeforeView" = "查看前询问";
@@ -48,8 +53,8 @@
 
 "Settings.ShowProfileID" = "显示用户 UID";
 "Settings.ShowDC" = "显示数据中心";
-"Settings.ShowCreationDate" = "显示聊天创建日期";
-"Settings.ShowCreationDate.Notice" = "某些聊天可能缺少创建日期";
+"Settings.ShowCreationDate" = "显示群组或频道的创建日期";
+"Settings.ShowCreationDate.Notice" = "某些群组或频道可能缺少创建日期";
 
 "Settings.ShowRegDate" = "显示注册日期";
 "Settings.ShowRegDate.Notice" = "这是大概的注册日期";
@@ -84,7 +89,7 @@
 "Settings.ContextMenu.Notice" = "已禁用的项目可在 Swiftgram 子菜单中找到";
 
 
-"Settings.ChatSwipeOptions" = "聊天列表滑动选项";
+"Settings.ChatSwipeOptions" = "对话列表滑动选项";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "上滑到下一未读频道";
 "Settings.GalleryCamera" = "图库中的相机";
