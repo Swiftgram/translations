@@ -16,6 +16,11 @@
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重啟或帳號切換後開啟最後瀏覽的對話盒";
 
+"Settings.ChatList.Header" = "對話列表";
+"Settings.CompactChatList" = "緊湊型對話列表";
+
+"Settings.Profiles.Header" = "個人資料";
+
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
 "Settings.Stories.DisableSwipeToRecord" = "停用滑動錄製";
