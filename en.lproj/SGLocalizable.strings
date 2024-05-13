@@ -24,10 +24,10 @@
 "Settings.Folders.AllChatsTitle.none" = "Default";
 
 
-"Settings.ChatList.Header" = "Chat List";
+"Settings.ChatList.Header" = "CHAT LIST";
 "Settings.CompactChatList" = "Compact Chat List";
 
-"Settings.Profiles.Header" = "Profiles";
+"Settings.Profiles.Header" = "PROFILES";
 
 "Settings.Stories.Hide" = "Hide Stories";
 "Settings.Stories.WarnBeforeView" = "Ask Before Viewing";
