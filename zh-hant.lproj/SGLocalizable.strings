@@ -16,10 +16,18 @@
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重啟或帳號切換後開啟最後瀏覽的對話盒";
 
+"Settings.Folders.CompactNames" = "縮小間距";
+"Settings.Folders.AllChatsTitle" = "\"所有對話\"標題";
+"Settings.Folders.AllChatsTitle.short" = "短";
+"Settings.Folders.AllChatsTitle.long" = "長";
+/* Default behaviour for All Chats Folder Title. "All Chats" title: Default */
+"Settings.Folders.AllChatsTitle.none" = "預設";
+
+
 "Settings.ChatList.Header" = "對話列表";
 "Settings.CompactChatList" = "緊湊型對話列表";
 
-"Settings.Profiles.Header" = "個人資料";
+"Settings.Profiles.Header" = "配置文件";
 
 "Settings.Stories.Hide" = "隱藏限時動態";
 "Settings.Stories.WarnBeforeView" = "瀏覽前確認";
