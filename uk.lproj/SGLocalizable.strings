@@ -100,6 +100,8 @@
 "Settings.ChatSwipeOptions" = "Опції свайпу у списку чатів";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "Потягнути до наступного каналу";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "Потягнути до наступної гілки";
 "Settings.GalleryCamera" = "Камера в галереї";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "Кнопка \"%@\"";
