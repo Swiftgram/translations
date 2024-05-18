@@ -100,6 +100,8 @@
 "Settings.ChatSwipeOptions" = "Chat List Swipe Options";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "Pull to Next Unread Channel";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "Pull to Next Topic";
 "Settings.GalleryCamera" = "Camera in Gallery";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" Button";
