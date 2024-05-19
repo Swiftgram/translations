@@ -12,7 +12,8 @@
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "Hide \"%@\"";
 "Settings.Folders.RememberLast" = "Open Last Folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram will open the last used folder when you restart the app or switch accounts.";
 
