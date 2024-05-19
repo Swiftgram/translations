@@ -9,12 +9,21 @@
 "Settings.Folders.BottomTabStyle" = "底部分组样式";
 
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.ios" = "iOS";
+"Settings.Folders.BottomTabStyle.ios" = "iOS样式";
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram样式";
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "隐藏 \"%@\"";
 "Settings.Folders.RememberLast" = "打开上次分组";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或切换账户后打开最后使用的分组";
+
+"Settings.Folders.CompactNames" = "缩小分组间距";
+"Settings.Folders.AllChatsTitle" = "\"所有对话\"标题";
+"Settings.Folders.AllChatsTitle.short" = "短标题";
+"Settings.Folders.AllChatsTitle.long" = "长标题";
+/* Default behaviour for All Chats Folder Title. "All Chats" title: Default */
+"Settings.Folders.AllChatsTitle.none" = "默认";
+
 
 "Settings.ChatList.Header" = "对话列表";
 "Settings.CompactChatList" = "紧凑型对话列表";
@@ -69,7 +78,7 @@
 "ProxySettings.UseSystemDNS.Notice" = "如果您无法使用 Google DNS，请使用系统 DNS";
 
 /* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
-"Common.NoTelegramPremiumNeeded" = "你**不需要** %@！";
+"Common.NoTelegramPremiumNeeded" = "此功能无需 %@ 订阅！";
 "Common.RestartRequired" = "需要重启";
 "Common.RestartNow" = "立即重启";
 "Common.OpenTelegram" = "打开 Telegram";
@@ -92,6 +101,8 @@
 "Settings.ChatSwipeOptions" = "对话列表滑动选项";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "上滑到下一未读频道";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "上滑到下一个主题";
 "Settings.GalleryCamera" = "图库中的相机";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" 按钮";
