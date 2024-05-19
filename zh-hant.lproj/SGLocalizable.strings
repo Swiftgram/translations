@@ -12,7 +12,8 @@
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "隱藏 \"%@\"";
 "Settings.Folders.RememberLast" = "開啟最後瀏覽的對話盒";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 會在重啟或帳號切換後開啟最後瀏覽的對話盒";
 
@@ -100,6 +101,8 @@
 "Settings.ChatSwipeOptions" = "對話列表滑動選項";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "頻道瀑布流";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "下拉以查看下一話題";
 "Settings.GalleryCamera" = "相簿圖庫";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" 按鈕";
