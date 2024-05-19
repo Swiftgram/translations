@@ -9,9 +9,9 @@
 "Settings.Folders.BottomTabStyle" = "底部分组样式";
 
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.ios" = "iOS样式";
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
-"Settings.Folders.BottomTabStyle.telegram" = "Telegram样式";
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
 
 "Settings.Folders.RememberLast" = "打开上次分组";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram 将在重启或切换账户后打开最后使用的分组";
