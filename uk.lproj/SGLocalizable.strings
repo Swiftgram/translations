@@ -2,7 +2,7 @@
 
 "Settings.Tabs.Header" = "ВКЛАДКИ";
 "Settings.Tabs.HideTabBar" = "Приховати панель вкладок";
-"Settings.Tabs.ShowContacts" = "Показувати вкладку Контакти";
+"Settings.Tabs.ShowContacts" = "Вкладка \"Контакти\"";
 "Settings.Tabs.ShowNames" = "Показувати назви вкладок";
 
 "Settings.Folders.BottomTab" = "Папки знизу";
@@ -12,11 +12,12 @@
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "Приховати \"%@\"";
 "Settings.Folders.RememberLast" = "Відкривати останню папку";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram відкриє останню папку після перезапуску застосунку або зміни акаунту.";
 
-"Settings.Folders.CompactNames" = "Менший відступ";
+"Settings.Folders.CompactNames" = "Зменшити відступи";
 "Settings.Folders.AllChatsTitle" = "Заголовок \"Усі чати\"";
 "Settings.Folders.AllChatsTitle.short" = "Короткий";
 "Settings.Folders.AllChatsTitle.long" = "Довгий";
@@ -38,8 +39,8 @@
 "Stories.Warning.Author" = "Автор";
 "Stories.Warning.ViewStory" = "Переглянути історію?";
 /* Author will be able to see that you viewed their Story */
-"Stories.Warning.Notice" = "%@ ЗМОЖЕ ПОБАЧИТИ, що ви переглянули їх Історію.";
-"Stories.Warning.NoticeStealth" = "%@ не побачить, що ви переглянули їх Історію.";
+"Stories.Warning.Notice" = "%@ ЗМОЖЕ ПОБАЧИТИ, що ви переглянули їх історію.";
+"Stories.Warning.NoticeStealth" = "%@ не побачить, що ви переглянули їх історію.";
 
 "Settings.Photo.Quality.Notice" = "Якість відправлених фото та історій";
 "Settings.Photo.SendLarge" = "Надсилати великі фотографії";
@@ -68,7 +69,7 @@
 "Settings.ShowRegDate.Notice" = "Дата реєстрації є приблизною.";
 
 "Settings.SendWithReturnKey" = "Надсилати кнопкою \"Введення\"";
-"Settings.HidePhoneInSettingsUI" = "Приховати номер телефону у налаштуваннях";
+"Settings.HidePhoneInSettingsUI" = "Приховати телефон у налаштуваннях";
 "Settings.HidePhoneInSettingsUI.Notice" = "Номер буде прихований тільки в налаштуваннях. Перейдіть в \"Приватність і безпека\", щоб приховати його від інших.";
 
 "PasscodeSettings.AutoLock.InFiveSeconds" = "За 5 сек";
