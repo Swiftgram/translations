@@ -117,6 +117,6 @@
 "Chat.Created" = "створено: %@";
 
 /* Date when user joined the chat. "Joined Swiftgram Chat" */
-"Chat.JoinedDateTitle" = "Приєднався %@";
+"Chat.JoinedDateTitle" = "Приєднався до %@";
 /* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
-"Chat.RegDate" = "Зареєстрований";
+"Chat.RegDate" = "Реєстрація";
