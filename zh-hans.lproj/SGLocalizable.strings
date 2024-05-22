@@ -78,7 +78,7 @@
 "ProxySettings.UseSystemDNS.Notice" = "如果您无法使用 Google DNS，请使用系统 DNS";
 
 /* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
-"Common.NoTelegramPremiumNeeded" = "此功能无需 %@ 订阅！";
+"Common.NoTelegramPremiumNeeded" = "此功能**无需** %@ 订阅！";
 "Common.RestartRequired" = "需要重启";
 "Common.RestartNow" = "立即重启";
 "Common.OpenTelegram" = "打开 Telegram";
