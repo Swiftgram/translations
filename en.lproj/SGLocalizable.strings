@@ -113,6 +113,9 @@
 
 "Settings.RecordingButton" = "Voice Recording Button";
 
+"Settings.DefaultEmojisFirst" = "Prioritize standard emojis";
+"Settings.DefaultEmojisFirst.Notice" = "Show standard emojis before premium in emoji keyboard";
+
 /* Date when chat was created. "created: 24 May 2016" */
 "Chat.Created" = "created: %@";
 
