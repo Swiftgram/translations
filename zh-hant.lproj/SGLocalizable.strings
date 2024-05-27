@@ -113,6 +113,9 @@
 
 "Settings.RecordingButton" = "錄音按鈕";
 
+"Settings.DefaultEmojisFirst" = "優先顯示標準表情符號";
+"Settings.DefaultEmojisFirst.Notice" = "在表情符號鍵盤中，先顯示標準表情符號，再顯示 Premium 的";
+
 /* Date when chat was created. "created: 24 May 2016" */
 "Chat.Created" = "建立於：%@";
 
