@@ -113,6 +113,9 @@
 
 "Settings.RecordingButton" = "录音按钮";
 
+"Settings.DefaultEmojisFirst" = "优先使用标准表情符号";
+"Settings.DefaultEmojisFirst.Notice" = "在表情列表中将标准表情符号置于高级表情符号之前";
+
 /* Date when chat was created. "created: 24 May 2016" */
 "Chat.Created" = "创建日期: %@";
 
