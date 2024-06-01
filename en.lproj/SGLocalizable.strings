@@ -90,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "You can get the code only with official app";
 
 "Settings.SmallReactions" = "Small Reactions";
+"Settings.HideReactions" = "Hide Reactions";
 
 "ContextMenu.SaveToCloud" = "Save to Cloud";
 "ContextMenu.SelectFromUser" = "Select from Author";
