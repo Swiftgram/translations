@@ -90,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "Ви можете отримати код тільки з офіційним додатком";
 
 "Settings.SmallReactions" = "Малі реакції";
+"Settings.HideReactions" = "Приховувати реакції";
 
 "ContextMenu.SaveToCloud" = "Переслати в Збережене";
 "ContextMenu.SelectFromUser" = "Вибрати від автора";
@@ -123,3 +124,5 @@
 "Chat.JoinedDateTitle" = "Приєднався до %@";
 /* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
 "Chat.RegDate" = "Реєстрація";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Ред. повідомлення подвійним дотиком";
