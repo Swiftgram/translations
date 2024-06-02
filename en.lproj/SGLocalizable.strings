@@ -124,3 +124,5 @@
 "Chat.JoinedDateTitle" = "Joined %@";
 /* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
 "Chat.RegDate" = "Registered";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Double-tap to edit message";
