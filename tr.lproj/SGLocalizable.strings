@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "İçerik Ayarları";
 
 "Settings.Tabs.Header" = "SEKMELER";
+"Settings.Tabs.HideTabBar" = "Sekme çubuğunu gizle";
 "Settings.Tabs.ShowContacts" = "Kişiler Sekmesini Göster";
 "Settings.Tabs.ShowNames" = "Sekme isimlerini göster";
 
@@ -11,9 +12,23 @@
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "\"%@\" Gizle";
 "Settings.Folders.RememberLast" = "Son klasörü aç";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram, yeniden başlatıldıktan ya da hesap değişiminden sonra son kullanılan klasörü açacaktır";
+
+"Settings.Folders.CompactNames" = "Daha küçük aralık";
+"Settings.Folders.AllChatsTitle" = "\"Tüm Sohbetler\" başlığı";
+"Settings.Folders.AllChatsTitle.short" = "Kısa";
+"Settings.Folders.AllChatsTitle.long" = "Uzun";
+/* Default behaviour for All Chats Folder Title. "All Chats" title: Default */
+"Settings.Folders.AllChatsTitle.none" = "Varsayılan";
+
+
+"Settings.ChatList.Header" = "SOHBET LİSTESİ";
+"Settings.CompactChatList" = "Kompakt Sohbet Listesi";
+
+"Settings.Profiles.Header" = "PROFİLLER";
 
 "Settings.Stories.Hide" = "Hikayeleri Gizle";
 "Settings.Stories.WarnBeforeView" = "Görüntülemeden önce sor";
@@ -46,6 +61,13 @@
 "Settings.DownloadsBoost.maximum" = "En fazla";
 
 "Settings.ShowProfileID" = "Profil ID'sini Göster";
+"Settings.ShowDC" = "Veri Merkezini Göster";
+"Settings.ShowCreationDate" = "Sohbet Oluşturma Tarihini Göster";
+"Settings.ShowCreationDate.Notice" = "Bazı sohbetler için oluşturma tarihi bilinmeyebilir.";
+
+"Settings.ShowRegDate" = "Kaydolma Tarihini Göster";
+"Settings.ShowRegDate.Notice" = "Kaydolma tarihi yaklaşık olarak belirtilmiştir.";
+
 "Settings.SendWithReturnKey" = "\"enter\" tuşu ile gönder";
 "Settings.HidePhoneInSettingsUI" = "Ayarlarda numarayı gizle";
 "Settings.HidePhoneInSettingsUI.Notice" = "Numaranız sadece arayüzde gizlenecek. Diğerlerinden gizlemek için, lütfen Gizlilik ayarlarını kullanın.";
@@ -68,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "Kodu yalnızca resmi uygulamadan edinebilirsiniz";
 
 "Settings.SmallReactions" = "Küçük tepkiler";
+"Settings.HideReactions" = "Tepkileri Gizle";
 
 "ContextMenu.SaveToCloud" = "Buluta Kaydet";
 "ContextMenu.SelectFromUser" = "Yazardan Seç";
@@ -79,6 +102,8 @@
 "Settings.ChatSwipeOptions" = "Sohbet listesi kaydırma seçenekleri";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "Sonraki okunmamış kanal için çekin";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "Bir Sonraki Konuya Çek";
 "Settings.GalleryCamera" = "Galeride kamera";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "\"%@\" butonu";
@@ -86,3 +111,18 @@
 
 "Settings.Stickers.Size" = "BOYUT";
 "Settings.Stickers.Timestamp" = "Zaman Damgasını Göster";
+
+"Settings.RecordingButton" = "Ses Kaydı Düğmesi";
+
+"Settings.DefaultEmojisFirst" = "Standart emojileri önceliklendirin";
+"Settings.DefaultEmojisFirst.Notice" = "Emoji klavyesinde premiumdan önce standart emojileri göster";
+
+/* Date when chat was created. "created: 24 May 2016" */
+"Chat.Created" = "oluşturuldu: %@";
+
+/* Date when user joined the chat. "Joined Swiftgram Chat" */
+"Chat.JoinedDateTitle" = "Katıldı: %@";
+/* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
+"Chat.RegDate" = "Kayıtlı";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Mesajı düzenlemek için çift dokunun";
