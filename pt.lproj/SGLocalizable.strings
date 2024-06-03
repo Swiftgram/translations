@@ -1,12 +1,34 @@
 "Settings.ContentSettings" = "Configurações de Conteúdo";
 
 "Settings.Tabs.Header" = "ABAS";
+"Settings.Tabs.HideTabBar" = "Ocultar Abas de Guias";
 "Settings.Tabs.ShowContacts" = "Mostrar Aba dos Contatos";
 "Settings.Tabs.ShowNames" = "Mostrar nomes das abas";
 
 "Settings.Folders.BottomTab" = "Pastas embaixo";
+"Settings.Folders.BottomTabStyle" = "Estilos de Pastas Inferiores";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "Ocultar \"%@\"";
 "Settings.Folders.RememberLast" = "Abrir última pasta";
 "Settings.Folders.RememberLast.Notice" = "O Swiftgram abrirá a última pasta usada após reiniciar ou trocar de conta";
+
+"Settings.Folders.CompactNames" = "Espaçamento Menor";
+"Settings.Folders.AllChatsTitle" = "Título \"Todos os bate-papos\"";
+"Settings.Folders.AllChatsTitle.short" = "Curto";
+"Settings.Folders.AllChatsTitle.long" = "Longas";
+/* Default behaviour for All Chats Folder Title. "All Chats" title: Default */
+"Settings.Folders.AllChatsTitle.none" = "Padrão";
+
+
+"Settings.ChatList.Header" = "LISTA DE CHAT";
+"Settings.CompactChatList" = "Lista de Bate-Papo Compacta";
+
+"Settings.Profiles.Header" = "Perfis";
 
 "Settings.Stories.Hide" = "Ocultar Stories";
 "Settings.Stories.WarnBeforeView" = "Perguntar antes de visualizar";
@@ -16,7 +38,7 @@
 
 "Stories.Warning.Author" = "Autor";
 "Stories.Warning.ViewStory" = "Ver Story?";
-/* O autor saberá que você viu a Story dele */
+/* Author will be able to see that you viewed their Story */
 "Stories.Warning.Notice" = "%@ SABERÁ que você viu a Story dele.";
 "Stories.Warning.NoticeStealth" = "%@ não saberá que você viu a Story dele.";
 
@@ -29,7 +51,7 @@
 
 "Settings.CustomColors.Header" = "CORES DA CONTA";
 "Settings.CustomColors.Saturation" = "SATURAÇÃO";
-/* Certifique-se de escapar o sinal de porcentagem % */
+/* Make sure to escape Percentage sign % */
 "Settings.CustomColors.Saturation.Notice" = "Defina a saturação para 0%% para desativar as cores da conta";
 
 "Settings.UploadsBoost" = "Aceleração de Uploads";
@@ -39,6 +61,13 @@
 "Settings.DownloadsBoost.maximum" = "Máximo";
 
 "Settings.ShowProfileID" = "Mostrar perfil";
+"Settings.ShowDC" = "Mostrar Centro de Dados";
+"Settings.ShowCreationDate" = "Mostrar data de criação do chat";
+"Settings.ShowCreationDate.Notice" = "A data de criação pode ser desconhecida para alguns chats.";
+
+"Settings.ShowRegDate" = "Mostrar data de registro";
+"Settings.ShowRegDate.Notice" = "A data de registo é aproximada.";
+
 "Settings.SendWithReturnKey" = "Enviar com a tecla \"retorno\"";
 "Settings.HidePhoneInSettingsUI" = "Ocultar telefone nas configurações";
 "Settings.HidePhoneInSettingsUI.Notice" = "Seu número ficará oculto apenas na interface do usuário. Para ocultá-lo de outras pessoas, use as configurações de privacidade.";
@@ -48,11 +77,12 @@
 "ProxySettings.UseSystemDNS" = "Usar DNS do sistema";
 "ProxySettings.UseSystemDNS.Notice" = "Use o DNS do sistema para evitar tempo limite se você não tiver acesso ao DNS do Google";
 
-/* Preserve os asteriscos do Markdown! Exemplo: Você **não precisa** do Telegram Premium! */
+/* Preserve markdown asterisks! Example: You **don't** need Telegram Premium! */
 "Common.NoTelegramPremiumNeeded" = "Você **não precisa** de %@!";
 "Common.RestartRequired" = "Reinício necessário";
 "Common.RestartNow" = "Reiniciar agora";
 "Common.OpenTelegram" = "Abrir Telegram";
+"Common.UseTelegramForPremium" = "Observe que para obter o Telegram Premium, você precisa usar o aplicativo oficial do Telegram. Depois de obter o Telegram Premium, todos os seus recursos ficarão disponíveis no Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Segure para Mostrar ou Denunciar.";
 
@@ -60,4 +90,39 @@
 "Auth.UnofficialAppCodeTitle" = "Você só pode obter o código com o aplicativo oficial";
 
 "Settings.SmallReactions" = "Pequenas reações";
+"Settings.HideReactions" = "Esconder Reações";
+
 "ContextMenu.SaveToCloud" = "Salvar na Nuvem";
+"ContextMenu.SelectFromUser" = "Selecionar do Autor";
+
+"Settings.ContextMenu" = "MENU DE CONTEXTO";
+"Settings.ContextMenu.Notice" = "Entradas desativadas estarão disponíveis no sub-menu 'Swiftgram'.";
+
+
+"Settings.ChatSwipeOptions" = "Opções de deslizar Lista de Chat";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Puxe para o próximo canal não lido";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "Arraste para o Próximo Tópico";
+"Settings.GalleryCamera" = "Câmera na Galeria";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "Botão \"%@\"";
+"Settings.SnapDeletionEffect" = "Efeitos de exclusão de mensagens";
+
+"Settings.Stickers.Size" = "TAMANHO";
+"Settings.Stickers.Timestamp" = "Mostrar Data/Hora";
+
+"Settings.RecordingButton" = "Botão de gravação de voz";
+
+"Settings.DefaultEmojisFirst" = "Priorizar emojis padrão";
+"Settings.DefaultEmojisFirst.Notice" = "Mostrar emojis padrão antes dos premium no teclado de emojis";
+
+/* Date when chat was created. "created: 24 May 2016" */
+"Chat.Created" = "criado: %@";
+
+/* Date when user joined the chat. "Joined Swiftgram Chat" */
+"Chat.JoinedDateTitle" = "Entrou em %@";
+/* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
+"Chat.RegDate" = "Registrado";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Toque duplo para editar mensagem";

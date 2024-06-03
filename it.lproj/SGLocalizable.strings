@@ -90,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "Puoi ottenere il codice solo con l'applicazione ufficiale";
 
 "Settings.SmallReactions" = "Reazioni piccole";
+"Settings.HideReactions" = "Nascondi Reazioni";
 
 "ContextMenu.SaveToCloud" = "Salva sul cloud";
 "ContextMenu.SelectFromUser" = "Seleziona dall'autore";
@@ -113,6 +114,9 @@
 
 "Settings.RecordingButton" = "Pulsante per la registrazione vocale";
 
+"Settings.DefaultEmojisFirst" = "Dare priorità agli emoji standard";
+"Settings.DefaultEmojisFirst.Notice" = "Mostra gli emoji standard prima dei premium nella tastiera degli emoji";
+
 /* Date when chat was created. "created: 24 May 2016" */
 "Chat.Created" = "creato il: %@";
 
@@ -120,3 +124,5 @@
 "Chat.JoinedDateTitle" = "Sì è unito a %@";
 /* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
 "Chat.RegDate" = "Registrato";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Doppio tap per modificare il messaggio";

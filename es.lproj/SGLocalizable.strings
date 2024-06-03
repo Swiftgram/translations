@@ -1,6 +1,7 @@
 "Settings.ContentSettings" = "Configuración de contenido";
 
 "Settings.Tabs.Header" = "PESTAÑAS";
+"Settings.Tabs.HideTabBar" = "Ocultar barra de pestaña";
 "Settings.Tabs.ShowContacts" = "Mostrar pestaña de Contactos";
 "Settings.Tabs.ShowNames" = "Mostrar nombres de pestañas";
 
@@ -11,9 +12,23 @@
 "Settings.Folders.BottomTabStyle.ios" = "iOS";
 /* Do not translate */
 "Settings.Folders.BottomTabStyle.telegram" = "Telegram";
-
+/* Example: Hide "All Chats" */
+"Settings.Folders.AllChatsHidden" = "Ocultar \"%@\"";
 "Settings.Folders.RememberLast" = "Abrir última carpeta";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram abrirá la última carpeta usada después de reiniciar o cambiar de cuenta";
+
+"Settings.Folders.CompactNames" = "Espaciado más pequeño";
+"Settings.Folders.AllChatsTitle" = "Título \"Todos los Chats\"";
+"Settings.Folders.AllChatsTitle.short" = "Corto";
+"Settings.Folders.AllChatsTitle.long" = "Largo";
+/* Default behaviour for All Chats Folder Title. "All Chats" title: Default */
+"Settings.Folders.AllChatsTitle.none" = "Por defecto";
+
+
+"Settings.ChatList.Header" = "LISTA DE CHAT";
+"Settings.CompactChatList" = "Lista de Chat de Compacto";
+
+"Settings.Profiles.Header" = "PROFILES";
 
 "Settings.Stories.Hide" = "Ocultar Historias";
 "Settings.Stories.WarnBeforeView" = "Preguntar antes de ver";
@@ -46,6 +61,13 @@
 "Settings.DownloadsBoost.maximum" = "Máximo";
 
 "Settings.ShowProfileID" = "Mostrar ID del perfil";
+"Settings.ShowDC" = "Mostrar Centro de Datos";
+"Settings.ShowCreationDate" = "Mostrar fecha de creación del chat";
+"Settings.ShowCreationDate.Notice" = "La fecha de creación puede ser desconocida para algunos chats.";
+
+"Settings.ShowRegDate" = "Mostrar fecha de registro";
+"Settings.ShowRegDate.Notice" = "La fecha de inscripción es aproximada.";
+
 "Settings.SendWithReturnKey" = "Enviar con la tecla \"regresar\"";
 "Settings.HidePhoneInSettingsUI" = "Ocultar número en Ajustes";
 "Settings.HidePhoneInSettingsUI.Notice" = "Tu número estará oculto en la interfaz de ajustes solamente. Ve a la configuración de privacidad para ocultarlo a otros.";
@@ -60,6 +82,7 @@
 "Common.RestartRequired" = "Es necesario reiniciar";
 "Common.RestartNow" = "Reiniciar ahora";
 "Common.OpenTelegram" = "Abrir Telegram";
+"Common.UseTelegramForPremium" = "Ten en cuenta que para obtener Telegram Premium, debes usar la aplicación oficial de Telegram. Una vez que haya obtenido Telegram Premium, todas sus características estarán disponibles en Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Mantenga presionado para mostrar o reportar.";
 
@@ -67,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "Sólo puedes obtener el código con la app oficial";
 
 "Settings.SmallReactions" = "Reacciones pequeñas";
+"Settings.HideReactions" = "Ocultar Reacciones";
 
 "ContextMenu.SaveToCloud" = "Guardar en la nube";
 "ContextMenu.SelectFromUser" = "Seleccionar del autor";
@@ -78,6 +102,8 @@
 "Settings.ChatSwipeOptions" = "Opciones de deslizamiento de la lista de chats";
 /* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
 "Settings.PullToNextChannel" = "Saltar al siguiente canal no leído";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextUnreadTopicSwipeProgress */
+"Settings.PullToNextTopic" = "Deslizar para ir al siguiente tema";
 "Settings.GalleryCamera" = "Cámara en galería";
 /* "Send Message As..." button */
 "Settings.SendAsButton" = "Botón \"%@\"";
@@ -85,3 +111,18 @@
 
 "Settings.Stickers.Size" = "TAMAÑO";
 "Settings.Stickers.Timestamp" = "Mostrar marca de tiempo";
+
+"Settings.RecordingButton" = "Botón de grabación de voz";
+
+"Settings.DefaultEmojisFirst" = "Priorizar emojis estándar";
+"Settings.DefaultEmojisFirst.Notice" = "Mostrar emojis estándar antes que premium en el teclado de emojis";
+
+/* Date when chat was created. "created: 24 May 2016" */
+"Chat.Created" = "creado: %@";
+
+/* Date when user joined the chat. "Joined Swiftgram Chat" */
+"Chat.JoinedDateTitle" = "Unido a %@";
+/* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
+"Chat.RegDate" = "Registrado";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "Doble toque para editar mensaje";
