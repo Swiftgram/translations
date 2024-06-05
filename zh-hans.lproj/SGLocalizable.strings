@@ -90,6 +90,7 @@
 "Auth.UnofficialAppCodeTitle" = "您只能通过官方应用程序获得代码";
 
 "Settings.SmallReactions" = "缩小表情回应";
+"Settings.HideReactions" = "隐藏回应";
 
 "ContextMenu.SaveToCloud" = "保存到收藏夹";
 "ContextMenu.SelectFromUser" = "选择此人所有消息";
@@ -123,3 +124,5 @@
 "Chat.JoinedDateTitle" = "加入 %@ 的日期";
 /* Date when user registered in Telegram. Will be shown like "Registered\n24 May 2016" */
 "Chat.RegDate" = "注册日期";
+
+"Settings.messageDoubleTapActionOutgoingEdit" = "双击编辑消息";
