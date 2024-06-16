@@ -126,3 +126,5 @@
 "Chat.RegDate" = "Registered";
 
 "Settings.messageDoubleTapActionOutgoingEdit" = "Double-tap to edit message";
+
+"Settings.wideChannelPosts" = "Wide posts in channels";
