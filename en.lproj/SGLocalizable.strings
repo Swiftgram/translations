@@ -129,3 +129,6 @@
 
 "Settings.wideChannelPosts" = "Wide posts in channels";
 "Settings.ForceEmojiTab" = "Emoji keyboard by default";
+
+"Settings.forceBuiltInMic" = "Force Device Microphone";
+"Settings.forceBuiltInMic.Notice" = "If enabled, app will use only device microphone even if headphones are connected.";
